@@ -7,7 +7,7 @@ title: "Daniel's Assignments"
 
 	  {% for file in site.static_files %}
 		{% assign dirs = file.path | split: '/' %}
-		<li>{{dirs[0]}}</li>
+		<li>{{dirs | first}}</li>
 	    	<li><a href="{{ site.url }}{{ file.path }}">{{ file.name }}</a></li>
 	  {% endfor %}
 	</ul>
