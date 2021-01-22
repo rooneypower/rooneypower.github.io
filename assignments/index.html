@@ -6,6 +6,6 @@ title: "Daniel's Assignments"
 	<ul class="posts">
 
 	  {% for file in site.static_files %}
-	    <li><span>{{ file.path }}</span> » <a href="{{ site.url }}" title="{{ file.title }}">{{ file.title }}</a></li>
+	    <li><a href="{{ site.url }}{{ file.path }}">{{ file.name }}</a></li>
 	  {% endfor %}
 	</ul>
