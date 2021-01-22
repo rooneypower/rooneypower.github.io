@@ -6,7 +6,8 @@ title: "Daniel's Assignments"
 <ul class="posts">
 	{% for file in site.static_files %}
 		{% assign dirs = file.path | split: '/' %}
-		<li>{{file.path}}:{{dirs[1]}}</li>
-		<li><a href="{{ site.url }}{{ file.path }}">{{ file.name }}</a></li>
+		{% if dirs[1] == 'assignments' %}
+	    	<li><a href="{{ site.url }}{{ file.path }}">{{ file.name }}</a></li>
+		{% endif %}
 	{% endfor %}
 </ul>
