@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Daniel, Student, launches site"
+title: "Daniel launches site"
 date: 2021-01-21
 ---
 
-I finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) 
-and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+I created this GitHub Pages site according to the directions of Nicholas Homenda for Z603 - Digital Publishing. GitHub Pages is powered by [Jekyll](http://jekyllrb.com) and designed to use Markdown to format posts.
