@@ -1,0 +1,85 @@
+/* 
+ * CSS stylesheet for XML title page, 
+ * by Daniel Rooney from a template by Nick Homenda
+ */
+
+/* EB Garamond, a fancy font which features a crossed W, from https://www.fontsquirrel.com/fonts/eb-garamond */
+@font-face {
+    font-family: EBGaramond;
+    src: url("EBGaramond12-Regular.otf") format("opentype");
+}
+
+/* Butler, a fancy font with a regular W, from https://www.fontsquirrel.com/fonts/butler */
+@font-face {
+    font-family: Butler;
+    src: url("Butler-Regular.otf") format("opentype");
+}
+
+/* treat every element as a block (like most html elements) and set default font */
+* {
+    display: block;
+    font-family: Butler, times, serif;
+}
+
+/* handle rendition values with attribute selectors */
+[rendition~="#center"] {
+    text-align: center;
+}
+
+[rendition~="#red"] {
+    color: red;
+}
+
+[rendition~="#uppercase"] {
+    text-transform: uppercase;
+}
+
+[rendition~="#expanded"] {
+    letter-spacing: 0.2em;
+}
+
+/* relative text sizing by percentage */
+[rendition~="#small"] {
+    font-size: 85%;
+}
+
+[rendition~="#x-large"] {
+    font-size: 150%;
+}
+
+/* also override font for largest text */
+[rendition~="#xx-large"] {
+    font-size: 200%;
+    font-family: EBGaramond, garamond, serif;
+}
+
+/* line break */
+lb {
+    line-height: 20px;
+}
+
+/* handle spacing in 10px padding increments */
+space[quantity="1"] {
+    padding: 10px;
+}
+
+space[quantity="2"] {
+    padding: 20px;
+}
+
+space[quantity="3"] {
+    padding: 30px;
+}
+
+space[quantity="4"] {
+    padding: 40px;
+}
+
+space[quantity="5"] {
+    padding: 50px;
+}
+
+/* append date from 'when' attribute */
+[when]::after {
+    content: attr(when);
+}
