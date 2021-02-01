@@ -68,7 +68,7 @@ lb {
     line-height: 20px;
 }
 
-/* set --qty based on quantity (does not parse as numeric when read directly from attribute */
+/* set --qty based on quantity (does not parse as numeric when read directly from attribute) */
 space[quantity="1"] {
     --qty: 1;
 }
@@ -96,5 +96,6 @@ space {
 
 /* append date from 'when' attribute */
 [when]::after {
+    font-family: Times, Serif;
     content: attr(when);
 }
