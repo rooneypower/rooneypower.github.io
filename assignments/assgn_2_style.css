@@ -9,10 +9,10 @@
     src: url("EBGaramond12-Regular.otf") format("opentype");
 }
 
-/* Butler, a fancy font with a regular W, from https://www.fontsquirrel.com/fonts/butler */
+/* Happy Times at the IKOB, a pleasant Times New Roman variant, from https://www.fontsquirrel.com/fonts/happy-times-at-the-ikob */
 @font-face {
-    font-family: Butler;
-    src: url("Butler-Regular.otf") format("opentype");
+    font-family: HappyTimes;
+    src: url("happy-times-at-the-ikob.otf") format("opentype");
 }
 
 /* treat every element as a block (like most html elements) */
@@ -25,7 +25,7 @@
 :root {
     margin-top: 60px;
     background-color: Snow;
-    font-family: Butler, Times, Serif;
+    font-family: HappyTimes, Times, Serif;
     font-size: 100%;
     --basepad: 10px;
     --qty: 1;
@@ -68,7 +68,7 @@ lb {
     line-height: 20px;
 }
 
-/* set --qty based on quantity (does not parse as int when read directly from attribute */
+/* set --qty based on quantity (does not parse as numeric when read directly from attribute */
 space[quantity="1"] {
     --qty: 1;
 }
