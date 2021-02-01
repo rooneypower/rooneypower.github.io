@@ -15,10 +15,12 @@
     src: url("Butler-Regular.otf") format("opentype");
 }
 
-/* treat every element as a block (like most html elements) and set default font */
+/* treat every element as a block (like most html elements) and set defaults */
 * {
     display: block;
-    font-family: Butler, times, serif;
+    font-family: Butler, Times, Serif;
+    font-size: 12px;
+    background-color: Snow;
 }
 
 /* handle rendition values with attribute selectors */
@@ -27,7 +29,7 @@
 }
 
 [rendition~="#red"] {
-    color: red;
+    color: Red;
 }
 
 [rendition~="#uppercase"] {
@@ -50,7 +52,7 @@
 /* also override font for largest text */
 [rendition~="#xx-large"] {
     font-size: 200%;
-    font-family: EBGaramond, garamond, serif;
+    font-family: EBGaramond, Garamond, Serif;
 }
 
 /* line break */
