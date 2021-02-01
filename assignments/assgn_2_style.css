@@ -96,6 +96,6 @@ space {
 
 /* append date from 'when' attribute */
 [when]::after {
-    font-family: Times, Serif;
+    font-family: EBGaramond, Garamond, Serif;
     content: attr(when);
 }
