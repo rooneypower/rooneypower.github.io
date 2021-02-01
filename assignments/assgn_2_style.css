@@ -15,12 +15,20 @@
     src: url("Butler-Regular.otf") format("opentype");
 }
 
-/* treat every element as a block (like most html elements) and set defaults */
+/* treat every element as a block (like most html elements) */
 * {
     display: block;
-    font-family: Butler, Times, Serif;
-    font-size: 12px;
+}
+
+/* set top margin, background color, and font defaults;
+ * initialize spacing variables */
+:root {
+    margin-top: 60px;
     background-color: Snow;
+    font-family: Butler, Times, Serif;
+    font-size: 100%;
+    --basepad: 10px;
+    --qty: 1;
 }
 
 /* handle rendition values with attribute selectors */
@@ -60,25 +68,30 @@ lb {
     line-height: 20px;
 }
 
-/* handle spacing in 10px padding increments */
+/* set --qty based on quantity (does not parse as int when read directly from attribute */
 space[quantity="1"] {
-    padding: 10px;
+    --qty: 1;
 }
 
 space[quantity="2"] {
-    padding: 20px;
+    --qty: 2;
 }
 
 space[quantity="3"] {
-    padding: 30px;
+    --qty: 3;
 }
 
 space[quantity="4"] {
-    padding: 40px;
+    --qty: 4;
 }
 
 space[quantity="5"] {
-    padding: 50px;
+    --qty: 5;
+}
+
+/* calculate padding from variables */
+space {
+    padding: calc(var(--basepad) * var(--qty));
 }
 
 /* append date from 'when' attribute */
