@@ -41,10 +41,13 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-th {
-    text-align: left;
-}
 table, th, td {
     border: 1px solid green;
     border-collapse: collapse;
+}
+th {
+    text-align: left;
+}
+td {
+    padding: 2px;
 }
