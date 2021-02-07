@@ -14,7 +14,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: blue;
 }
 a:hover {
     text-decoration: underline;
@@ -32,22 +32,18 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
-
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
-
 ul.posts li {
     list-style: none;
 }
 table, th, td {
     border: 1px solid green;
     border-collapse: collapse;
-}
-th {
     text-align: left;
 }
-td {
-    padding: 2px 5px;
+th, td {
+    padding: 5px;
 }
