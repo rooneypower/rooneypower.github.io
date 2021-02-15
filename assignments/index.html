@@ -3,6 +3,13 @@ layout: default
 title: "Daniel's Assignments"
 ---
 <h1>{{ page.title }}</h1>
+<h2>Individual assignment pages</h2>
+<ul class="posts">
+	<li><a href="markup">Assignment 1: XML Markup</a></li>
+	<li><a href="titlepage">Assignment 2: Styling with CSS</a></li>
+	<li><a href="plants">Assignment 3: XSLT Transformation #1</a></li>
+	<li><a href="journals">Assignment 4: XSLT Transformation #2</a></li>
+</ul>
 <h2>Index of assignment files</h2>
 <ul class="posts">
 	{% for file in site.static_files %}
@@ -11,11 +18,4 @@ title: "Daniel's Assignments"
 	    	<li><a href="{{ site.url }}{{ file.path }}">{{ file.name }}</a></li>
 		{% endif %}
 	{% endfor %}
-</ul>
-<h2>Individual assignment pages</h2>
-<ul class="posts">
-	<li><a href="markup">Assignment 1: XML Markup</a></li>
-	<li><a href="titlepage">Assignment 2: Styling with CSS</a></li>
-	<li><a href="plants">Assignment 3: XSLT Transformation #1</a></li>
-	<li><a href="journals">Assignment 4: XSLT Transformation #2</a></li>
 </ul>
