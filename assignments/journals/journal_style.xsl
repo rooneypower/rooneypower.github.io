@@ -59,7 +59,16 @@
     <!-- identify institution -->
     <xsl:template match="main//ul/li/p[1]/span">
         <journalInstitution>
-            <xsl:value-of select="normalize-space(substring-after(., '- '))"/>
+            <xsl:choose>
+                <!-- separator present, extract institution -->
+                <xsl:when test="contains(., ' - ')">
+                    <xsl:value-of select="normalize-space(substring-after(., ' - '))"/>        
+                </xsl:when>
+                <!-- else treat as no institution -->
+                <xsl:otherwise>
+                    <xsl:text>[no institution listed]</xsl:text>
+                </xsl:otherwise>
+            </xsl:choose>
         </journalInstitution>
     </xsl:template>
    
