@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="44" public="1" featured="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://sbct.omeka.net/admin/items/show/44?output=omeka-xml" accessDate="2021-02-16T16:43:37-05:00">
+    <fileContainer>
+        <file fileId="12">
+            <src>https://s3.amazonaws.com/omeka-net/54613/archive/files/13a4586aaea04954636ea9909a740ddd.pdf?AWSAccessKeyId=AKIAI3ATG3OSQLO5HGKA&amp;Expires=1614211200&amp;Signature=mIRWDtsC4dFNtQUJ1iBYtvrnXLE%3D</src>
+            <authentication>0fe4989e5b9ce9645648a59012f0cc34</authentication>
+        </file>
+    </fileContainer>
+    <collection collectionId="1">
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="1">
+                                <text>The Rooney Archive</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="39">
+                        <name>Creator</name>
+                        <description>An entity primarily responsible for making the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="438">
+                                <text>Daniel Rooney</text>
+                            </elementText>
+                            <elementText elementTextId="440">
+                                <text>South Bend Civic Theatre</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="37">
+                        <name>Contributor</name>
+                        <description>An entity responsible for making contributions to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="439">
+                                <text>Daniel Rooney</text>
+                            </elementText>
+                            <elementText elementTextId="442">
+                                <text>Meg &amp; Kevin Rooney</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="40">
+                        <name>Date</name>
+                        <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="441">
+                                <text>2003 to 2012</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </collection>
+    <itemType itemTypeId="18">
+        <name>Theater Program</name>
+        <description>A program handed out at a live theatrical performance.</description>
+        <elementContainer>
+            <element elementId="52">
+                <name>Playwright</name>
+                <description>the author of the piece performed, as identified on the program</description>
+                <elementTextContainer>
+                    <elementText elementTextId="350">
+                        <text>Letts, Tracy, 1965-</text>
+                    </elementText>
+                </elementTextContainer>
+            </element>
+            <element elementId="55">
+                <name>Play Director</name>
+                <description>the director of the performance, as identified on the program</description>
+                <elementTextContainer>
+                    <elementText elementTextId="351">
+                        <text>Abram-Copenhaver, Mark</text>
+                    </elementText>
+                </elementTextContainer>
+            </element>
+            <element elementId="53">
+                <name>Genre</name>
+                <description>the genre of the piece performed; use a term from LCGFT</description>
+                <elementTextContainer>
+                    <elementText elementTextId="352">
+                        <text>Comedy plays</text>
+                    </elementText>
+                </elementTextContainer>
+            </element>
+            <element elementId="54">
+                <name>Year</name>
+                <description>the year of the performance</description>
+                <elementTextContainer>
+                    <elementText elementTextId="353">
+                        <text>2012</text>
+                    </elementText>
+                </elementTextContainer>
+            </element>
+            <element elementId="61">
+                <name>Theatrical Venue</name>
+                <description>the performance venue, as identified on the program</description>
+                <elementTextContainer>
+                    <elementText elementTextId="354">
+                        <text>Warner Studio Theatre</text>
+                    </elementText>
+                </elementTextContainer>
+            </element>
+            <element elementId="1">
+                <name>Text</name>
+                <description>Any textual data included in the document</description>
+                <elementTextContainer>
+                    <elementText elementTextId="418">
+                        <text>South Bend &#13;
+                            CIVIC THEATRE &#13;
+                            Full Season Sponsor &#13;
+                            VILLING &amp; COMPANY &#13;
+                            marketing communications &#13;
+                            &#13;
+                            Proudly Present: &#13;
+                            &#13;
+                            Superior Donuts&#13;
+                            Written by Tracy Letts &#13;
+                            Directed by Mark Abram-Copenhaver &#13;
+                            &#13;
+                            June 1, 2, 8, 9 at 8 PM; June 6, 7 at 7:30 PM; June 3, 10 at 3:00 PM &#13;
+                            Warner Studio Theatre &#13;
+                            Produced by special arrangement with Dramtists Play Service, Inc. &#13;
+                            &#13;
+                            SBCT funded in part through a grant from Indiana Arts Commission &amp; National Endowment for the Arts &#13;
+                            &#13;
+                            With gratitude to the Community Foundation of South Bend for administering IACfunds, managing SBCT's endowment and for group marketing opportunities through the Arts Everywhere.com initiative. &#13;
+                            &#13;
+                            &#13;
+                            The Cast &#13;
+                            Max Tarasov David Chudzynski &#13;
+                            Officer Randy Osteen Diane Zuber &#13;
+                            Officer James Bailey Tony McMutuary &#13;
+                            Lady Boyle Leigh Taylor &#13;
+                            Arthur Przybyszewski Gary Oesch &#13;
+                            Franco Wicks Brandon Harper &#13;
+                            Luther Flynn Bill Svelmoe &#13;
+                            Kevin Magee Zach Gassman &#13;
+                            Kiril Ivakin Joseph Goepfrich &#13;
+                            &#13;
+                            The Production Team &#13;
+                            Director Mark Abram-Copenhaver &#13;
+                            Stage Manager/Sound Design John Jung-Zimmerman &#13;
+                            Assistant Director Roy Bronkema &#13;
+                            Acting Coach Jewel Abram-Copenhaver &#13;
+                            Assistant Stage Manager Joseph Goepfrich &#13;
+                            Set Design Jacee Rohlck &#13;
+                            Lighting Design Matt Davidson &#13;
+                            Costumes Jonnie Kilic &#13;
+                            Props Teri Szynski &#13;
+                            Light Board Operator Katie Taylor &#13;
+                            Sound Board Operator Dominic King &#13;
+                            Dramaturge Reg Wagle &#13;
+                            Production Photography Jon Gilchrist &#13;
+                            &#13;
+                            Place &#13;
+                            "Superior Donuts," a small donut shop in Chicago's Uptown neighborhood &#13;
+                            Will be performed with one intermission. &#13;
+                            Please turn off all cell phones, cameras and electronic devices. &#13;
+                            &#13;
+                            Special Thanks &#13;
+                            Kerri Blair &#13;
+                            Oleg Krim -Russian Language Consultant &#13;
+                            &#13;
+                            &#13;
+                            WHO'S WHO IN THE CAST &amp; CREATIVE TEAM &#13;
+                            &#13;
+                            Mark Abram-Copenhaver (Director) is an Associate Professor of Theater at Saint Mary's College, with recent directing of SMC productions included the world premiere of Susan Baxter's Confessions of the Chaff, and a burlesque version of Lysistrata and coming November he will direct the musical The Secret Garden. Mark directs frequently for SBCT, most recently The Seafarer and The Miracle Worker, where he also serves as Vice-President of the Board of Directors. Mark is the Production Manager for Notre Dame Shakespeare Festival where he also co-directed the recent In-Concert: Kiss Me Kate. &#13;
+                            &#13;
+                            Roy Bronkema (Assistant Director) is delighted co expand his resume at SBCT by lending a hand in directing chis moving play. He has previously taken on acting and singing roles in The Elephant Man, And Then There Were None, Camelot, Auntie Mame and several others. He is enjoying sharing his creative input with such a great script and cast. &#13;
+                            &#13;
+                            David Chudzynski (Max Tarasov) is happy to put his acting hat on again here in the Warner Studio Theatre. He was last seen here in Jekyll and Hyde, and previously in Humble Boy and Almost Maine. As always he thanks his lovely wife for her support and inspiration. &#13;
+                            &#13;
+                            Zach Gassman (Kevin Magee) is no stranger to the theatre. With SBCT he has done Alice in Wonderland and The Sound of Music. While at Bethel he did Father of the Bride as well as Romeo and Juliet. His other hobbies include woodworking and writing and was told that he cannot put in his Bio that he likes long walks on the beach. &#13;
+                            &#13;
+                            Joseph Goepfrich (Kiril Ivakin/Asst. Stage Manager) makes his SBCT acting debut after working behind the scenes on Blue, 39 Steps, and Gypsy. He would like to thank his director Mark for "persuading" him to take on this role, the amazing cast and crew, the staff at SBCT, who he has learned so much from, and of course his family for all their support over the years. (Enjoy the show!) &#13;
+                            &#13;
+                            Brandon Harper (Franco Wicks) has been dancing since he was able to walk &#13;
+                            but only recently did he begin theater. Once Upon a Mattress was his first show, &#13;
+                            followed by Fiddler on the Roof. He then played Seaweed in SBCT's production &#13;
+                            of Hairspray. He hopes to one day be a dance workshop teacher. &#13;
+                            &#13;
+                            John Jung-Zimmerman (Stage Manager/Sound Design), a Chicago native, &#13;
+                            Superior Donuts feels like coming home to all the people he grew up with. "It's &#13;
+                            been wonderful to be part of something that brings the best of what Chicago &#13;
+                            can be in a way that holds out hope for all of us to be the best we can be." &#13;
+                            John loves the sounds of Chicago as well as those that contributed to A Miracle &#13;
+                            Worker, The Seafarer, A Christmas Carol-Scrooge and Marley, 39 Steps in his &#13;
+                            previous design work at SBCT. &#13;
+                            &#13;
+                            Tony McMutuary (Officer James Bailey) is positively delighted to debut at the SBCT or anywhere else for that matter. This is his first time on stage. He is following in the footsteps of his wife, Laverne and son, Quinton, who are both regulars at SBCT. He would like to thank his family for their support and help. &#13;
+                            &#13;
+                            Gary Oesch (Arthur Przybyszewski) began his 54 year career in theatre at South Bend Central Junior High School under the direction of James Lewis Casaday. Since 1985 he has acted, directed and designed numerous shows for SBCT, including directing The Odd Couple, Mrs. Bob Cratchit's Wild Christmas Binge, Enchanted April and The Sunset Limited. SBCT performances include Twelve Angry Men, It's A Wonderful Life, Miracle on 34th Street, Love Letters and Ragtime. "A salute to all of us who participate in and love theatre and please remember, 'Love the theatre in yourself, not yourself in the theatre!'" &#13;
+                            &#13;
+                            Bill Svelmoe (Luther Flynn) is Associate Professor of History at Saint Mary's &#13;
+                            College. He began acting at Saint Mary's under the direction ofMark Abram­&#13;
+                            Copenhaver and Katie Sullivan. He has performed at the Civic most recently &#13;
+                            as Lockhart [the devil] in last season's The Seafarer. He has also appeared at SBCT &#13;
+                            in Miracle on 34th Street and A Flea in Her Ear. &#13;
+                            &#13;
+                            Leigh Taylor (Lady Boyle) works at the University of Notre Dame, teaches a theatre class at St. Mary's College, and just finished directing The Odd Couple at Holy Cross College, thereby completing the Northern Indiana Catholic Trifecta. She's delighted to be back on stage with this wonderful cast, working for this wonderful director. &#13;
+                            &#13;
+                            Diane Zuber (Officer Randy Osteen) is in her first dramatic show with SBCT. You may remember her singing in Miracle on 34th Street, a year ago. She is very pleased to be working with such a talented director and cast. By day, she is an elementary music teacher for Penn-Harris-Madison School Corporation. Of her character, Diane says, "it is an interesting study to see Randy finding the courage to go from being one of the boys to being comfortable in her own skin." &#13;
+                            &#13;
+                            Up Next at SBCT: &#13;
+                            Anna in the Tropics &#13;
+                            June 22-July 1 Wilson Mainstage Auditorium &#13;
+                            &#13;
+                            Into the Woods &#13;
+                            July 27-August 12 Wilson Mainstage Auditorium </text>
+                    </elementText>
+                </elementTextContainer>
+            </element>
+            <element elementId="62">
+                <name>Performance Dates</name>
+                <description>the range of dates for a theatrical run; enter as "YYYY-MM-DD to YYYY-MM-DD"</description>
+                <elementTextContainer>
+                    <elementText elementTextId="464">
+                        <text>2012-06-01 to 2012-06-10</text>
+                    </elementText>
+                </elementTextContainer>
+            </element>
+        </elementContainer>
+    </itemType>
+    <elementSetContainer>
+        <elementSet elementSetId="1">
+            <name>Dublin Core</name>
+            <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+            <elementContainer>
+                <element elementId="50">
+                    <name>Title</name>
+                    <description>A name given to the resource</description>
+                    <elementTextContainer>
+                        <elementText elementTextId="349">
+                            <text>Superior Donuts</text>
+                        </elementText>
+                    </elementTextContainer>
+                </element>
+                <element elementId="39">
+                    <name>Creator</name>
+                    <description>An entity primarily responsible for making the resource</description>
+                    <elementTextContainer>
+                        <elementText elementTextId="355">
+                            <text>South Bend Civic Theatre</text>
+                        </elementText>
+                    </elementTextContainer>
+                </element>
+                <element elementId="43">
+                    <name>Identifier</name>
+                    <description>An unambiguous reference to the resource within a given context</description>
+                    <elementTextContainer>
+                        <elementText elementTextId="356">
+                            <text>sbct020</text>
+                        </elementText>
+                    </elementTextContainer>
+                </element>
+                <element elementId="42">
+                    <name>Format</name>
+                    <description>The file format, physical medium, or dimensions of the resource</description>
+                    <elementTextContainer>
+                        <elementText elementTextId="357">
+                            <text>application/pdf</text>
+                        </elementText>
+                    </elementTextContainer>
+                </element>
+                <element elementId="51">
+                    <name>Type</name>
+                    <description>The nature or genre of the resource</description>
+                    <elementTextContainer>
+                        <elementText elementTextId="358">
+                            <text>Text</text>
+                        </elementText>
+                    </elementTextContainer>
+                </element>
+            </elementContainer>
+        </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+        <tag tagId="3">
+            <name>comedy</name>
+        </tag>
+    </tagContainer>
+</item>
+
