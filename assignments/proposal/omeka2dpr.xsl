@@ -45,8 +45,34 @@
     <!-- text body -->
     <xsl:template match="om:element[@elementId='1']">
         <text>
-            <xsl:value-of select="om:elementTextContainer/om:elementText/om:text"/>
+            <xsl:call-template name="breakLines">
+                <xsl:with-param name="pString" select="om:elementTextContainer/om:elementText/om:text"/>
+            </xsl:call-template>
         </text>
+    </xsl:template>
+    
+    <!-- recursive template to parse linebreaks, adapted from paragrapher by Nick Homenda -->
+    <xsl:template name="breakLines">
+        <xsl:param name="pString"/>
+        <xsl:choose>
+            <!-- contains break, needs to be split -->
+            <xsl:when test="contains($pString, '&#13;')">
+                <xsl:call-template name="breakLines">
+                    <xsl:with-param name="pString" select="substring-before($pString, '&#13;')"/>
+                </xsl:call-template>
+                <xsl:call-template name="breakLines">
+                    <xsl:with-param name="pString" select="substring-after($pString, '&#13;')"/>
+                </xsl:call-template>
+            </xsl:when>
+            <!-- just text, output as line -->
+            <xsl:when test="normalize-space($pString)">
+                <line><xsl:value-of select="normalize-space($pString)"/></line>
+            </xsl:when>
+            <!-- blank line, output as break -->
+            <xsl:otherwise>
+                <break/>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
     
 </xsl:stylesheet>
