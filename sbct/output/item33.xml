@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://rooneypower.github.io/sbct/xslt/program_style_pi.xsl"?>
+<program xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:om="http://omeka.org/schemas/omeka-xml/v5"
+         xml:id="33">
+   <metadata>
+      <dc:title>The Little Foxes</dc:title>
+      <dc:creator>South Bend Civic Theatre</dc:creator>
+   </metadata>
+   <text>
+      <cover>
+         <line>South Bend</line>
+         <line>CIVIC THEATRE</line>
+         <line>making a dramatic difference</line>
+         <line>With UNDERWRITING by CAROLYN &amp; JERRY LANGLEY</line>
+         <line>PRESENTS</line>
+         <break/>
+         <line>The Little Foxes</line>
+         <line>BY LILLIAN HELLMAN</line>
+         <line>DIRECTED BY CHELLE WALTERS</line>
+         <line>April 7-9, 13-15, 19-23, 2006; The Firehouse</line>
+         <break/>
+      </cover>
+      <crew>
+         <header>THE PRODUCTION TEAM</header>
+         <credit>
+            <role>Director </role>
+            <talent>Chelle Walters</talent>
+         </credit>
+         <credit>
+            <role>Assistant Director </role>
+            <talent>David Chudzynski</talent>
+         </credit>
+         <credit>
+            <role>Stage Manager </role>
+            <talent>Jake Morris</talent>
+         </credit>
+         <credit>
+            <role>Technical Directors David Chudzynski &amp; </role>
+            <talent>Matt Davidson</talent>
+         </credit>
+         <credit>
+            <role>Set Design </role>
+            <talent>David Chudzynski</talent>
+         </credit>
+         <credit>
+            <role>Lighting &amp; Sound Design </role>
+            <talent>Matt Davidson</talent>
+         </credit>
+         <credit>
+            <role>Properties </role>
+            <talent>Craig Merrick,  Deborah Chudzynski</talent>
+         </credit>
+         <credit>
+            <role>Lighting &amp; Sound Technican </role>
+            <talent>John Wiley</talent>
+         </credit>
+         <credit>
+            <role>Costumes &amp; Wigs </role>
+            <talent>Chelle Walters,  Deborah Chudzynski</talent>
+         </credit>
+         <credit>
+            <role>Set Construction &amp; Painting </role>
+            <talent>David Chudzynski,  Steve Chung, Matt Davidson, Jody Thorla, John Wiley, Tom Wozniak</talent>
+         </credit>
+         <credit>
+            <role>SPECIAL THANKS TO: 1st </role>
+            <talent>Source Bank,  Sheila's Antiques, The Stanley Clark School, Jean Savarese</talent>
+         </credit>
+         <credit>
+            <role>WHEELCHAIR provided </role>
+            <talent>by RELICS,  Antiques and Architectural Artifacts, 1148 Western Ave., South Bend, Paul Hayden, Owner. Phone: (574) 220-7300</talent>
+         </credit>
+      </crew>
+      <cast>
+         <header>The CAST</header>
+         <credit>
+            <role>Addie </role>
+            <talent>Jesselyn Dickinson</talent>
+         </credit>
+         <credit>
+            <role>Cal </role>
+            <talent>David Smith</talent>
+         </credit>
+         <credit>
+            <role>Birdie Hubbard </role>
+            <talent>Ruth Andrews</talent>
+         </credit>
+         <credit>
+            <role>Oscar Hubbard </role>
+            <talent>Michael Coffee</talent>
+         </credit>
+         <credit>
+            <role>Leo Hubbard </role>
+            <talent>Ed Ronco</talent>
+         </credit>
+         <credit>
+            <role>Regina Giddens </role>
+            <talent>Melissa Gard</talent>
+         </credit>
+         <credit>
+            <role>William Marshall </role>
+            <talent>Doug Markell</talent>
+         </credit>
+         <credit>
+            <role>Benjamin Hubbard Craig </role>
+            <talent>Mac Nab</talent>
+         </credit>
+         <credit>
+            <role>Alexandra Giddens Alexa </role>
+            <talent>Louise Gates</talent>
+         </credit>
+         <credit>
+            <role>Horace Giddens </role>
+            <talent>Jim Coppens</talent>
+         </credit>
+      </cast>
+      <bios>
+         <header>WHO'S WHO</header>
+         <entry>RUTH ANDREWS (Birdie) has appeared on area stages for more than fifteen years. She was seen most recently in Civic's 2005 production of Enchanted April. In her real life, as Queen of the Mezzo-Systems ofCass County, she tries to keep people "from eating the earth and everyone on it." </entry>
+         <entry>DAVID CHUDZYNSKI (Assistant Director, Set Design) is the first full­time Technical Director in the histo1y of South Bend Civic. He is also well­-known, locally, as an actor, director, theatre instructor, and playwright. </entry>
+         <entry>MICHAEL COFFEE (Oscar) feels he' s come full circle with this role, having started with SBCT in 1998 as Gooper in Cat On a Hot Tin Roof Since then, he has played a range of characters, most recently Mellersk in Enchanted April. Thanks to his family for their support and understanding. </entry>
+         <entry>JIM COPPENS (Horace) reprises a role he originally played at The Firehouse in 1988. Hired in 1995 as SBCT's first Executive Director, he is looking forward to Civic's big move in 2007 into its new theatre home at 403 N . Main, which is currently undergoing a $3.7 million renovation. </entry>
+         <entry>MATT DAVIDSON (Technical Director. Lighting Design) was hired in 2005 as SBCT's first Assistant Technical Director. He has designed and stage-managed numerous shows m Michiana over the past seven years. Most recently, he was produc­tion designer for SBCT productions of Many Moons, Rounding Third, and Frozen. </entry>
+         <entry>JESSELYN DICKINSON (Addie) comes to SBCT from the stages of Southern California, where she performed in Raisin in the Sun, Look Away, and For Colored Girls Who Have Considered Suicide When the Rainbow is Enuf. Her future goal is to direct: however, right now acting is sharpening the sword to make that goal a reality. </entry>
+         <entry>MELISSA GARD (Regina) was seen most recently at The Firehouse in Nightbreath in 2004. Prior to that, she teamed with Michael Coffee (Oscar) in 2002 in SBCT's production of Harold Pinter's Betrayal. Her first Civic appearance was in 1988, also in The Little Foxes, in which she played the role of Birdie. A past board member of SBCT. she is also familiar to patrons as a frequent, friendly presence in the box office. </entry>
+         <entry>ALEXA LOUISE GATES (Alexandra) is an 8th-grade student at Stanley Clark. Her previous acting credits include The Orphan Train; The Lion, the Witch, and the Wardrobe; and Annie. She has also participated in Summer Shakespeare at Notre Dame for the past three years. She dedicates this performance to her long-time theatre teacher and friend, Deborah Chudzynski. "Thank you for all the wonderful years at Clark; you have no idea what they mean to me. I'll miss you very much next year!" </entry>
+         <entry>CRAIG MAC NAB (Ben) is back after his first SBCT appearances in All in the Timing and The Underpants earlier this season. Craig has been acting and directing for over fifty years, but this is his first Lillian Hellman play. </entry>
+         <entry>DOUG MARKELL (Marshall) is making his SBCT debut in this production. New to the area, Doug brings his theatrical talent to us from California, where he spent the last ten years doing musical theatre, stand-up comedy, and production design. </entry>
+         <entry>JAKE MORRIS (Stage Manager) is stage-managing his third SBCT production so far in 2006. A Clay High School graduate, he is also an SBCT Youth Theatre alum. </entry>
+         <entry>ED RONCO (Leo) is making his second SBCT appearance. He was last seen as Milton the Chimp in January's All in the Timing and is thrilled to be playing a part now in which he can wear shoes and socks. He thanks his family and friends, especially the Tuesday Night Taco Club, for understanding why he has been so busy of late. </entry>
+         <entry>DAVID SMITH (Cal), a 1977 graduate of LaSalle High School, made his SBCT acting debut last June in The Little Princess at the DeBartolo Center for the Performing Arts </entry>
+         <entry>CHELLE WALTERS (Director) is pleased to be making her SBCT directing debut with this production. An original member of South Bend's erstwhile Acting Ensemble, she will be remembered for her featured acting roles in Civic productions of Dancing at Lughnasa, Over the Tavern, An Enemy of the People, and Boston Marriage. </entry>
+      </bios>
+   </text>
+</program>

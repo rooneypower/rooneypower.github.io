@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://rooneypower.github.io/sbct/xslt/program_style_pi.xsl"?>
+<program xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:om="http://omeka.org/schemas/omeka-xml/v5"
+         xml:id="28">
+   <metadata>
+      <dc:title>The Stillborn Lover</dc:title>
+      <dc:creator>South Bend Civic Theatre</dc:creator>
+   </metadata>
+   <text>
+      <cover>
+         <line>South Bend</line>
+         <line>CIVIC THEATRE</line>
+         <line>With UNDERWRITING by BARBARA WARNER and by NANCY &amp; JIM KRZYZEWSKI</line>
+         <line>PRESENTS</line>
+         <break/>
+         <line>THE STILLBORN LOVER</line>
+         <line>BY TIMOTHY FINDLEY</line>
+         <break/>
+         <line>Directed by Judy Spigle</line>
+         <line>July 4-5-6, 9-10-11-12, 2003; The Firehouse</line>
+      </cover>
+      <crew>
+         <header>THE PRODUCTION TEAM</header>
+      </crew>
+      <setting>
+         <header>SETTING</header>
+         <line>The sunroom and garden of a house just outside Ottawa. The time is a three-day period in 1972, with flashbacks to l940s Japan and Egypt.</line>
+         <break/>
+         <line>Produced by Special Arrangement with Playwrights Union of Canada</line>
+      </setting>
+      <cast>
+         <header>THE CAST</header>
+         <credit>
+            <role>Diana Marsden </role>
+            <talent>Ruth Andrews</talent>
+         </credit>
+         <credit>
+            <role>Harry Raymond </role>
+            <talent>Fred Syburg</talent>
+         </credit>
+         <credit>
+            <role>Michael Riordan </role>
+            <talent>Jim Coppens</talent>
+         </credit>
+         <credit>
+            <role>Juliet Riordan </role>
+            <talent>Jean Plumhoff</talent>
+         </credit>
+         <credit>
+            <role>Marian Raymond </role>
+            <talent>MaryAnn Moran</talent>
+         </credit>
+         <credit>
+            <role>Superintendent </role>
+            <talent>Jackman GaryMurray</talent>
+         </credit>
+         <credit>
+            <role>Corporal Mahavolitch </role>
+            <talent>Vinny Chhibber</talent>
+         </credit>
+      </cast>
+      <bios>
+         <header>WHO'S WHO</header>
+         <entry>RUTH ANDREWS (Diana Marsden) is delighted NOT to be playing the dotty old lady again, after playing Gertie in Fuddy Meers in 2001 at SBCT and Julia in Lend Me a Tenor in 2002. This is her second time on stage with Jim Coppens; their first was in The Lion in Winter in 1991. </entry>
+         <entry>GARRETT BAUER (Production Designer) is one of SBCT's three Resident Scenic Designers. He has designed all of Civic's productions over the past four years at The Morris Performing Arts Center, and is already at work on Fiddler on the Roof. which runs the weekend of August 8-10 at The Morris. </entry>
+         <entry>VINNY CHHIBBER (Corporal Mahavolitch) is an East Coast transplant, who made his Firehouse debut in June as Officer Welch in SBCT's frenetic production of the Neil Simon farce Rumors. </entry>
+         <entry>JIM COPPENS (Michael Riordan), who recently appeared in Rumors (with his good friend Vinny Chhibber), counts among his favorite roles those of Henry II in The Lion in Winter (with Ruth Andrews), Willie Clark in The Sunshine Boys and C.S. Lewis in Shadowlands (both with Fred Syburg), Harold Hill in The Music Man and James Tyrone in Long Day's Journey Into Night (both with Mary Ann Moran), and Harvey (with Jean Plumhoff). </entry>
+         <entry>MARY ANN MORAN (Marian Raymond)has played lead roles in Civic productions of The Belle of Amherst, A Streetcar Named Desire, and Long Day's Journey into Night, among others. Vice-President of SBCT's board of directors, she also chairs the board's Play Selection Committee. </entry>
+         <entry>CINDY MURRAY (Stage Manager) came to South Bend from Michigan City. Ind., to attend IUSB. This is her first production with Civic. As stage manager, she has drawn on her experience managing her husband Gary's office. She has enjoyed sharing this experience with her husband of 17 years. </entry>
+         <entry>GARY MURRAY (Superintendent Jackman) is making his SBCT acting debut in this production. A native of South Bend, he participated in high school productions under the direction of James Lewis Casaday, college productions at IUSB, and he was a member of Presbyterian Players. </entry>
+         <entry>JEAN PLUMHOFF (Juliet Riordan) was seen most recently at SBCT as mean old Sister Clarissa in Over the Tavern. She has been featured over several years at Civic in productions of I Hate Hamlet, Lettice &amp; Lovage, Harvey, Angel Street, The Philadelphia Story, Steel Magnolias, I Never Sang for My Father, and Les Belles Soeurs. Jean is a past president of South Bend Civic Theatre. </entry>
+         <entry>JUDY SPIGLE (Director) has been seen (onstage) and unseen (backstage) at SBCT since 1986. Previous Civic directing credits include As You like It, 1959 Pink Thunderbird, The Cemetery Club, and The Children's Hour. She is the proud recipient of a 1998 SBCT Bucket Brigade Award for Seascape. </entry>
+         <entry>FRED SYBURG (Harry Raymond) was last seen at SBCT as Candy in Of Mice &amp; Men. Previous credits at Civic include the role of Jacques in As You Like It, Les Kennkat in Boy Gets Girl, Gardner Church in Painting Churches, and Zaretzky in Conversations With My Father. He is scheduled to direct Moliere's Tartuffe next fall at the University of Notre Dame. He dedicates his performance to the memory of Sir Alec Guiness in gratitude for his inspiration. </entry>
+         <entry>DIRECTOR'S NOTES: Go and The Stillborn Lover A description of the game of Go by the American Go Association calls it "a beautiful art in which Black and White dance across the board in delicate balance." According to Steve G. Bailey, "...where chess is a battle, Go is guerilla warfare." </entry>
+         <entry>Mindy McAdams explains that, "At first glance, the board may appear to be square, but it is not.... It is always slightly longer than it is wide, just enough to prevent perfect symmetry.... </entry>
+         <entry>"The white stones invade a black-bordered area; the black stones creep in under the edge of a white-bordered area; and vice versa. Having jostled and poked and intruded, the stones at game's end touch one another's edges, illustrating the battles won and lost, forming a map of the contest of two minds." It is, ultimately, "in fact ... a series of discussions and arguments about the choice of moves." </entry>
+         <entry>Go is simple and elegant in its play, yet so spatially complex that computer programmers have yet to design a program that consistently beats the best players. It is quiet and thoughtful. While its playing field fills, strategies unfold. At times only the most experienced players can envision who will emerge as the winner before the endgame is complete-and sometimes even they do not know until the points are counted. </entry>
+         <entry>And so it is with Timothy Findley's The Stillborn Lover. </entry>
+      </bios>
+   </text>
+</program>

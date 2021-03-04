@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://rooneypower.github.io/sbct/xslt/program_style_pi.xsl"?>
+<program xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:om="http://omeka.org/schemas/omeka-xml/v5"
+         xml:id="49">
+   <metadata>
+      <dc:title>My Fair Lady</dc:title>
+      <dc:creator>South Bend Civic Theatre</dc:creator>
+   </metadata>
+   <text>
+      <cover>
+         <line>South Bend</line>
+         <line>CIVIC THEATRE</line>
+         <line>making a dramatic difference</line>
+         <break/>
+         <line>PRESENTS</line>
+         <break/>
+         <line>My Fair Lady</line>
+         <line>Book and Lyrics by ALAN JAY LERNER</line>
+         <line>Music by FREDERICK LOEWE</line>
+         <line>Adapted from George Bernard Shaw's Play and</line>
+         <line>Gabrial Pascal's motion picture "PYGMALION"</line>
+         <line>Directed by David M. Case</line>
+         <line>Musical Direction by John Long</line>
+         <line>Choreography by Tom Myers</line>
+         <break/>
+         <line>The Morris Performing Arts Center</line>
+      </cover>
+      <cast>
+         <header>THE CAST</header>
+         <credit>
+            <role>Eliza Doolittle </role>
+            <talent>Sarah Wiley</talent>
+         </credit>
+         <credit>
+            <role>Henry Higgins </role>
+            <talent>Jim Coppens</talent>
+         </credit>
+         <credit>
+            <role>Colonel Pickering Matt </role>
+            <talent>T. Wilson</talent>
+         </credit>
+         <credit>
+            <role>Alfred P. Doolittle Stephen </role>
+            <talent>M Salisbury</talent>
+         </credit>
+         <credit>
+            <role>Mrs. Higgins </role>
+            <talent>Jean Plumhoff</talent>
+         </credit>
+         <credit>
+            <role>Freddy Eynsford-Hill </role>
+            <talent>Jon West</talent>
+         </credit>
+         <credit>
+            <role>Mrs. Pearce Andrea </role>
+            <talent>Smiddy Talkington</talent>
+         </credit>
+         <credit>
+            <role>Mrs. Eynsford-Hill Mary </role>
+            <talent>Jo Tompos</talent>
+         </credit>
+         <credit>
+            <role>Harry </role>
+            <talent>Thomas Choinacky</talent>
+         </credit>
+         <credit>
+            <role>Jamie </role>
+            <talent>Andrew West</talent>
+         </credit>
+         <credit>
+            <role>Prof. Zoltan Karpathy </role>
+            <talent>Ben Dillon</talent>
+         </credit>
+         <credit>
+            <role>Lady Boxington </role>
+            <talent>Carol Flora</talent>
+         </credit>
+         <credit>
+            <role>Lord Boxington </role>
+            <talent>Rick Miller</talent>
+         </credit>
+         <credit>
+            <role>Mrs. Hopkins </role>
+            <talent>Sue Petty</talent>
+         </credit>
+         <credit>
+            <role>Queen of Transylvania </role>
+            <talent>Gaylene Davis</talent>
+         </credit>
+         <credit>
+            <role>Eliza Understudy </role>
+            <talent>Maggie Mountsier</talent>
+         </credit>
+         <credit>
+            <role/>
+            <talent> George,  the Bartender Howard Penrod</talent>
+         </credit>
+         <credit>
+            <role>Quartet </role>
+            <talent>Joey Bliley,  Will Heckaman,</talent>
+         </credit>
+         <credit>
+            <role/>
+            <talent>Matt Heston,  Andrew West</talent>
+         </credit>
+         <credit>
+            <role>(Nathan </role>
+            <talent>Mittleman and</talent>
+         </credit>
+         <credit>
+            <role/>
+            <talent>Thomas Sparks,  Understudies)</talent>
+         </credit>
+         <credit>
+            <role>Buskers </role>
+            <talent>Kelly Spohrer,  Rick Miller</talent>
+         </credit>
+         <credit>
+            <role>Selsey Woman </role>
+            <talent>Melissa Clear</talent>
+         </credit>
+         <credit>
+            <role>Boxton Man </role>
+            <talent>Tyler Heshberger</talent>
+         </credit>
+         <credit>
+            <role>Angry Woman </role>
+            <talent>Jackie Coiro</talent>
+         </credit>
+         <credit>
+            <role>Higgins' Butler </role>
+            <talent>Gene Mikolajewski</talent>
+         </credit>
+         <credit>
+            <role>Higgins' Servants </role>
+            <talent>Dustin Bell,  Joey Bliley, Allison Jones,</talent>
+         </credit>
+         <credit>
+            <role/>
+            <talent>Chrissy Klauer,  Connie Long,</talent>
+         </credit>
+         <credit>
+            <role/>
+            <talent>Libby Eyestone,  Jane Martin,</talent>
+         </credit>
+         <credit>
+            <role/>
+            <talent>Nathan Mittleman,  Maggie Mountsier</talent>
+         </credit>
+         <credit>
+            <role>Charles </role>
+            <talent>Thomas Sparks</talent>
+         </credit>
+         <credit>
+            <role>Flower Girl </role>
+            <talent>Kelly Spohrer</talent>
+         </credit>
+         <credit>
+            <role>Constable </role>
+            <talent>Thomas Sparks</talent>
+         </credit>
+         <credit>
+            <role>Footmen </role>
+            <talent>Chris Knarr,  Jody Thorla</talent>
+         </credit>
+         <credit>
+            <role>Prince </role>
+            <talent>Josh Eggleston</talent>
+         </credit>
+         <credit>
+            <role>3rd Cockney </role>
+            <talent>Nathan Mittleman</talent>
+         </credit>
+         <credit>
+            <role>Mrs. Higgins' Maid </role>
+            <talent>Rebecca Dashel</talent>
+         </credit>
+      </cast>
+      <bios>
+         <header>WHO'S WHO</header>
+         <entry>GARRETT BAUER (Scenic and Lighting Designer) has been a resident scenic designer with South Bend Civic Theatre since 1999. He has designed every production SBCT has performed at the Morris since the summer of 2000. </entry>
+         <entry>TOM BRUBAKER (Technical Director) was appointed South Bend Civic's first salaried technical director in 1998. A long-time member of South Bend's Presbyterian Players, he has over forty years' experience in local theatre. </entry>
+         <entry>DAVID M. CASE (Director), now in his sixth year with SBCT, is directing his fourth consecutive summer show for Civic at the Morris. He has been involved either in acting, directing, or behind the scenes in more than 100 stage productions throughout the state of Indiana. He wishes to thank God, his family, and friends for all their help in making his dreams come true. </entry>
+         <entry>JUDITH A. CASE (Assistant Director) is also the director's wife. She first met David during a production of The Music Man at Ross Summer Music Theater in Merrillville many years ago. In 2003, Judy was also assistant director for SBCT's production ofFidd{er on the Roof She thanks her husband for the chance to work with him, and her daughters Emily and Erin for "keeping things up at home." </entry>
+         <entry>JIM COPPENS (Henry Higgins) is grateful to be reprising one of his favorite stage roles ever, one he first played back in 1989 at Notre Dame's Washington Hall. In 1977, he made his very first community theatre appearance as a member of the chorus in a Michigan City Dunes Summer Theatre production of My Fair Lady. </entry>
+         <entry>THOMAS CHOINACKY (Harry), appearing in his third SBCT production, is a sophomore at Indiana University in Bloomington, where he has appeared in IU Theatre productions of Maleficia and Unwrap Your Candy. He says his dream is to appear with his faithful sidekick, Poopie, on "American Idol." </entry>
+         <entry>GAYLENE DAVIS (Queen) wishes to thank God "for abilities and opportunities" and John, Woody, and Dwight "for the freedom to enjoy them!" </entry>
+         <entry>BEN DILLON (Professor Zoltan Karpathy) is a mild-mannered math teacher by day at South Bend St. Joseph's High School. He was Dr. Wyatt in Civic's December production of Witness for the Prosecution at The Firehouse. </entry>
+         <entry>LOVEDA JONES (Stage Manager) has been involved in every Civic show her two daughters have ever appeared in. From taking orders for tee-shirts to helping with make-up, she is always willing to help anywhere she can. </entry>
+         <entry>JOHN LONG (Musical Director) has been involved with music for years. During the last forty, he was chair of the School City of Mishawaka Music Department, Director of Choral Music at Mishawaka High School, and an adjunct member of the music faculty at IUSB. He also played cello with the South Bend Symphony Orchestra. In his spare time, he was the choir director at St. James Cathedral Episcopal and is presently the choir director at Grace United Methodist Church. </entry>
+         <entry>TOM MYERS (Choreographer), whose SBCT credits include Oklahoma! and Some Enchanted Evening, has worked mostly with Elkhart Civic, where in 2004 he choreographed Crazy for You and Little Shop of Horrors. He choreographed ECT's 2003 national award-winning A Funny Thing Happened on the Way to the Forum and was named Outstanding Regional Director for Lucky Stiff in 2001. </entry>
+         <entry>JEAN PLUMHOFF (Mrs. Higgins) was seen last July in The Stillborn Lover at The Firehouse. Other Civic credits include Over the Tavern, Black Coffee, Lettice and Lavage, and "lots more - too many to count." This is her first time at the Morris. </entry>
+         <entry>STEPHEN M. SALISBURY (Alfred P. Doolittle) was seen two summers ago as Jud Fry in SBCT's production of Oklahoma! Most of his work has been at Elkhart Civic Theatre, where he played the Lion in The Wizard of Oz in 1999, 2001, and 2003. Other ECT credits include Little Mary Sunshine, Chicago, and A Funny Thing Happened on the Way to the Forum (as Marcus Lycus). </entry>
+         <entry>ANDREA SMIDDY TALKINGTON (Mrs. Pearce) is appearing in her third SBCT production. Last season, she played the morn in Alexander and the Terrible, Horrible, No Good, Very Bad Day, and also appeared in Fiddler on the Roof. </entry>
+         <entry>MARY JO TOMPOS (Mrs. Eynsford-Hill) is a twenty-year SBCT veteran. She was Mrs. Eynsford-Hill also in 1989 at Washington Hall at Notre Dame. Mary Jo was last seen at the Morris as a Pick-a-Little Lady in The Music Man. </entry>
+         <entry>ANDREW WEST (Jamie) is appearing in his fourth Civic production. Previous credits include Oliver!, Oklahoma!, and Fiddler. Andrew will enter his sophomore year at Purdue University in the fall. </entry>
+         <entry>JON WEST (Freddy Eynsford-Hill) is happy to return to the Morris stage for his third season. Previous roles with SBCT include Perchik in Fiddler and Curly in Oklahoma! Jon currently teaches music at Horizon Elementary and would like to thank his family for their years of loving support and sacrifice. </entry>
+         <entry>SARAH WILEY (Eliza Doolittle) is a senior vocal performance major at Bethel College, where she is active with the Concert Choir, Voices of Triumph, and the Jazz Ensemble. She played the role of Chava in Bethel's 2004 spring production of Fiddler on the Roof and Marian in The Music Man with SBCT in 2000. </entry>
+         <entry>MATT THOMAS WILSON (Colonel Pickering) has not appeared on stage since his high schools days at South Bend Riley, where he performed in Guys and Dolls, Pippin, and Godspell. Other credits include the TV show "Beyond Our Control" and the radio program "Sunday School of the Air." </entry>
+      </bios>
+   </text>
+</program>

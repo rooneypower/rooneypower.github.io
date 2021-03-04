@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://rooneypower.github.io/sbct/xslt/program_style_pi.xsl"?>
+<program xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:om="http://omeka.org/schemas/omeka-xml/v5"
+         xml:id="32">
+   <metadata>
+      <dc:title>Crowns</dc:title>
+      <dc:creator>South Bend Civic Theatre</dc:creator>
+   </metadata>
+   <text>
+      <cover>
+         <line>South Bend</line>
+         <line>CIVIC THEATRE</line>
+         <line>making a dramatic difference</line>
+         <break/>
+         <line>With Underwriting by MARY TOLL &amp; BILL HEIMANN</line>
+         <line>In Memory of RHODA M. BRADSHAW</line>
+         <break/>
+         <line>PRESENTS</line>
+         <line>Crowns</line>
+         <line>BY REGINA TAYLOR</line>
+         <line>From the book by Michael Cunningham &amp; Craig Marberry</line>
+         <line>Directed by Rachel L. Jones</line>
+         <line>July 23-25, 27-31, August 1; The Firehouse</line>
+         <break/>
+      </cover>
+      <crew>
+         <header>THE PRODUCTION TEAM</header>
+         <credit>
+            <role>Director Rachel </role>
+            <talent>L. Jones</talent>
+         </credit>
+         <credit>
+            <role>Assistant to the Director </role>
+            <talent>Ralph Lampkin</talent>
+         </credit>
+         <credit>
+            <role>Production Design </role>
+            <talent>Garrett Bauer</talent>
+         </credit>
+         <credit>
+            <role>Musical Accompanist </role>
+            <talent>David Grey</talent>
+         </credit>
+         <credit>
+            <role>Lighting Design </role>
+            <talent>Garrett Bauer</talent>
+         </credit>
+         <credit>
+            <role>Set Design Rachel L. Jones &amp; </role>
+            <talent>Garrett Bauer</talent>
+         </credit>
+         <credit>
+            <role>Costumes Jonnie &amp; </role>
+            <talent>Seyhan Kilic</talent>
+         </credit>
+         <credit>
+            <role>Properties </role>
+            <talent>Seyhan Kilic</talent>
+         </credit>
+         <credit>
+            <role>Lighting Technician </role>
+            <talent>Philip Langthorne</talent>
+         </credit>
+         <credit>
+            <role>Set Construction &amp; Painting </role>
+            <talent>Garrett Bauer,  Tom Brubaker, Terry Dawson, Mark Finch, Dan Hinkle</talent>
+         </credit>
+         <credit>
+            <role>ACKNOWLEDGEMENTS: Lily Keyes; Betty Trotter; Mary Ann Moran; Jean Savarese; </role>
+            <talent>Kelly Morgan,  WHME-TV; Ancient Accepted Scottish Rite Valley of South Bend</talent>
+         </credit>
+      </crew>
+      <cast>
+         <header>THE CAST</header>
+         <credit>
+            <role>Yolanda </role>
+            <talent>Martel Tardy</talent>
+         </credit>
+         <credit>
+            <role>Mrs. Shaw </role>
+            <talent>Nora Batteast</talent>
+         </credit>
+         <credit>
+            <role>Wanda </role>
+            <talent>Clara Ross</talent>
+         </credit>
+         <credit>
+            <role>Jeanette </role>
+            <talent>Debra Stanley</talent>
+         </credit>
+         <credit>
+            <role>Velma </role>
+            <talent>Priscilla Phillips</talent>
+         </credit>
+         <credit>
+            <role>Mabel </role>
+            <talent>Dianne Gammage</talent>
+         </credit>
+         <credit>
+            <role>Men </role>
+            <talent>Mel Tardy</talent>
+         </credit>
+      </cast>
+      <bios>
+         <header>WHO'S WHO</header>
+         <entry>NORA BATTEAST (Mother Shaw) is an ex-member of SBCT's board of directors. She has appeared previously at The Firehouse in productions of Joe Turner's Come and Gone, Ain't Misbehavin', One Monkey Don't Stop No Show, and A Streetcar Named Desire, among others. Nora is also foun­der of the St. Augustine Performing Arts Troupe at her parish. "Thanks, Rhoda, for guidance." </entry>
+         <entry>GARRETT BAUER (Production Designer) has been a resident scenic designer with South Bend Civic since 1999. He has designed every production SBCT has performed at the Morris Performing Arts Center since the summer of2000. His next project there will be Civic's presen­tation of My Fair Lady in August. In his spare time, Garrett is also the new on-staff Production Manager for Theatre Building Chicago. </entry>
+         <entry>DIANNE GAMMAGE (Mabel) appeared at The Firehouse in 2002 as Miss Emma in A Lesson Before Dying. A year before that, she and Rhoda Bradshaw were the 100-year-old Delaney sisters in SBCT's production of Having Our Say. In 1998, she appeared here in Ain't Misbehavin'. "Thank you, Lillie and Betty, for sharing your 'hattitude,' and many thanks to Civic for providing a safe place for Dianne to play." </entry>
+         <entry>RACHEL L. JONES (Director) made her SBCT debut as an actor in Force Continuum last November. She is a 2002 graduate of the University of Notre Dame, with a B.A. in Film, Television and Theatre. At Notre Dame, she performed in several Main Stage and Black Box productions. She spends her days as a Dental Assistant at North Pointe Pediatric Dentistry and is the mother of Kailee Elizabeth, who is now two years old. </entry>
+         <entry>PRISCILLA PHILLIPS (Velma) has performed in the Midwest for over 25 years as a jazz and R&amp;B vocalist. A South Bend native, her credits include live performances at a variety of clubs, concerts, and special events, TV and radio commercials, studio recordings, and, in recent years, theatrical productions of Nunsense II and Blues In the Night (directed by Rhoda Bradshaw). She is currently the vocalist with the Bill Nicks Trio and a background singer with the Junior Walker All-Stars Band. Priscilla dedicates her performance not only to Rhoda's memory, but to her father, the late Rev. George B. Jones, the signifi­cant "hat queens" in her life-mother Hattie Brown, sisters Clara, Betty, Angela, Georgia, LaShonda, Yvette, Lisa, Gail &amp; Lisa Davis, daughter Tanisha-and future "hat queen" granddaughters Danya, Imani, and Arielle. </entry>
+         <entry>CLARA ROSS (Wanda) made her SBCT acting debut in 1989 in The little Foxes. Since then, she has appeared in One Monkey Don't Stop No Show, Mother Hicks, and Force Continuum at The Firehouse. She dedicates her performance in this show to her children Nicholas, Quinn, LaMont, and Angel. </entry>
+         <entry>DEBRA STANLEY (Jeanette) has appeared previously in SBCT productions of One Monkey Don't Stop No Show and The Algiers Motel, a staged reading of a play by Peter O'Keefe. (She also appears in Peter's soon-to-be-released movie, "Infidel.") A native of South Bend, she has also acted with the American Association of Oppressed Minorities under the direction of Howard Dukes. </entry>
+         <entry>MARTELL TARDY (Yolanda) is an SBCT Theatre Camp graduate and has participated in church plays at St. Augustine's Catholic Church. She will be attending St. Mary's College in South Bend in the fall, where she plans to major in anthropology and Chinese. She dedicates this play experience to all who have supported her over the years, God, and "all my dreams." </entry>
+         <entry>MEL TARDY (Men), Martell's father, is appearing for the first time at The Firehouse. At the University of Notre Dame, he works with ND's First Year Studies Program and is member of the University's Voices of Faith Choir. </entry>
+         <entry>Coming Up at South Bend Civic MY FAIR LADY. August 13-15. At the Morris Performing Arts Center. 8:00 P.M. Friday &amp; Saturday; 3:00 P.M. Sunday. $17.50 Adults, $10 Ages 12 &amp; Under. Group Discounts Available. Reservations: 235-9190. </entry>
+      </bios>
+   </text>
+</program>

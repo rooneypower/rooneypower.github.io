@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://rooneypower.github.io/sbct/xslt/program_style_pi.xsl"?>
+<program xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:om="http://omeka.org/schemas/omeka-xml/v5"
+         xml:id="48">
+   <metadata>
+      <dc:title>She Loves Me</dc:title>
+      <dc:creator>South Bend Civic Theatre</dc:creator>
+   </metadata>
+   <text>
+      <cover>
+         <line>South Bend</line>
+         <line>CIVIC THEATRE</line>
+         <line>Full Season Sponsor</line>
+         <line>VILLING &amp; COMPANY</line>
+         <line>Mainstage Sponsor</line>
+         <line>MAJORITY BUILDERS, INC</line>
+         <line>Show Sponsor</line>
+         <line>Memorial</line>
+         <line>Hospital of South Bend</line>
+         <break/>
+         <line>Proudly Present:</line>
+         <break/>
+         <line>She Loves Me</line>
+         <line>Book by Joe Masteroff</line>
+         <line>Music by Jerry Bock</line>
+         <line>Lyrics by Sheldon Harnick</line>
+         <line>Based on a play by Miklos Laszlo</line>
+         <line>Directed by Jewel Abram-Copenhaver</line>
+         <line>Music Direction by Rebecca A. Wilson</line>
+         <line>November 30-December 11</line>
+         <line>Wilson Mainstage Auditorium</line>
+         <line>Produced by special arrangement with Music Theatre International</line>
+         <break/>
+         <line>SBCT funded in part through a generous grant from Indiana Arts Commission &amp; National Endowment for the Arts</line>
+         <break/>
+         <line>With gratitude to the Community Foundation of South Bend for administering IAC funds, managing SBCT's endowment and for group marketing opportunities through the Arts Everywhere.com initiative.</line>
+      </cover>
+      <cast>
+         <header>THE CAST</header>
+         <credit>
+            <role>Arpad Laszlo </role>
+            <talent>Dominic Go</talent>
+         </credit>
+         <credit>
+            <role>Ladislav Sipos </role>
+            <talent>Roy Bronkema</talent>
+         </credit>
+         <credit>
+            <role>Ilona Ritter </role>
+            <talent>Sarah Beudert</talent>
+         </credit>
+         <credit>
+            <role>Steven Kodaly/Caroler </role>
+            <talent>Will Heckaman</talent>
+         </credit>
+         <credit>
+            <role>Georg Nowack </role>
+            <talent>Sean Leyes</talent>
+         </credit>
+         <credit>
+            <role>Mr. Maraczek </role>
+            <talent>Steve Chung</talent>
+         </credit>
+         <credit>
+            <role>Amalia Balash </role>
+            <talent>Natalie MacRae</talent>
+         </credit>
+         <credit>
+            <role>Keller/Couple/Ensemble </role>
+            <talent>Gary Oesch</talent>
+         </credit>
+         <credit>
+            <role>Busboy/Ensemble </role>
+            <talent>Zach Gassman</talent>
+         </credit>
+         <credit>
+            <role>Couple/Ememble </role>
+            <talent>Terry Dawson</talent>
+         </credit>
+         <credit>
+            <role>Waiter/Paul/Couple/Ensemble </role>
+            <talent>BJ Simpson</talent>
+         </credit>
+         <credit>
+            <role>Couple/Ensemble </role>
+            <talent>Joe Roman</talent>
+         </credit>
+         <credit>
+            <role>Customer/Couple/Ensemble </role>
+            <talent>Stephanie Walker</talent>
+         </credit>
+         <credit>
+            <role>Customer/Caroler/Couple/Ensemble </role>
+            <talent>Jill Hillman</talent>
+         </credit>
+      </cast>
+      <crew>
+         <header>PRODUCTION TEAM</header>
+         <credit>
+            <role>Director </role>
+            <talent>Jewel Abram-Copenhaver</talent>
+         </credit>
+         <credit>
+            <role>Music Director Rebecca </role>
+            <talent>A. Wilson</talent>
+         </credit>
+         <credit>
+            <role>Assistant Director </role>
+            <talent>Linda Jung-Zimmerman</talent>
+         </credit>
+         <credit>
+            <role>Stage Manager - Booth/Sound Design </role>
+            <talent>John Jung-Zimmerman</talent>
+         </credit>
+         <credit>
+            <role>Stage Manager - Backstage </role>
+            <talent>Terry Dawson</talent>
+         </credit>
+         <credit>
+            <role>Scenic Design </role>
+            <talent>David Chudzynski</talent>
+         </credit>
+         <credit>
+            <role>Lighting Design </role>
+            <talent>Katy Turner</talent>
+         </credit>
+         <credit>
+            <role>Costume Design </role>
+            <talent>Lois Veen,  Donald Eugene Willman</talent>
+         </credit>
+         <credit>
+            <role>Properties </role>
+            <talent>Teri Szynski,  Andrea Gabris</talent>
+         </credit>
+         <credit>
+            <role>Set Construction and Painting </role>
+            <talent>David Chudzynski,  Matt Davidson Joe Roman, Jonny Reinhardt</talent>
+         </credit>
+      </crew>
+      <bios>
+         <header>WHO'S WHO IN THE CAST &amp; CREATIVE TEAM</header>
+         <entry>Jewel Abram-Copenhaver (Director) is honored to once again direct the Holiday Show. She has been celebrating the season and delighting SBCT audiences during this festive time of the year since 2007. Jewel has been directing at SBCT and telling us stories since 1999 with some of her favorites being The Sound of Music, Alice in Wonderland and Huck Finn. She wants to thank her family, Mark, Tori and Brent, for their never ending support and love; this wonderful talented cast for all the laughter, care and joy through out the last two months; and always to lift an ever grateful heart to God for the many blessings in her life. </entry>
+         <entry>Sarah Beudert (Ilona Ritter) has performed with community theatres across the country--including Actors' Cabaret of Eugene OR; Village Light Opera Group, New York, NY; Barnswallow Theatre, just a few minutes away in Edwardsburg, MI; but is very excited to make her SBCT debut. She would like to thank her family and friends for their continued love and support. Go Team! </entry>
+         <entry>Roy Bronkema (Ladislav Sipos) Roy is a veteran of several SBCT productions, including The Elephant Man, And Then There Were None, and Camelot. He most recently served as Music Director for the SBCT production of All Shook Up. Roy is an accomplished classical pianist and composer and he is grateful that his wife Nancy doesn't mind long evenings alone while he indulges this musical hobby! </entry>
+         <entry>Steve Chung (Mr. Maraczek) debuted with SBCT in the summer of '99, playing the title role in Man of La Mancha, and has been a regular fixture in SBCT's musicals ever since, seen most recently as Herbie in Gypsy, Tateh in Ragtime, and as Pellinore in Camelot. He is hopeful that this production plays a joyful part in your holiday season. </entry>
+         <entry>Terry Joe Dawson (Window washer/Ensemble/Stage Manager ­backstage) A retired teacher, Terry would first like to express his sincere gratitude to his loving wife, AnneMarie, for allowing him to come out and play with the SBCT where he has participated in over fifteen productions including To Kill A Mockingbird, Diary Of Anne Frank and Lend Me A Tenor. It is a true pleasure to be associated with the wonderful people in this production and this theatre. </entry>
+         <entry>Zach Gassman (Busboy/Ensemble) is making his first appearance on the mainstage of this theater, but he is no stranger to performance. He recently appeared in A Bad Year for Tomatoes at the Beckwith and is very proud of the many "Boo!'s" he received as Kevin in Superior Donuts in SBCT's Studio Theatre. </entry>
+         <entry>Dominic Go (Arpad Laszlo) is happy to be a part of this wonderful cast. You may remember him from Camelot, but you'd be mistaken because he wasn't in that. He has appeared in Civic Productions of Ragtime and Hairspray. Most recently, he finished the Round Barn Theater's production of Plain &amp; Fancy. He would like to thank his family and girlfriend for their continued support. And, finally, Merry Christmas to all, and you know the rest! </entry>
+         <entry>Pam Gunterman (Choreographer) has appeared on the SBCT stage most recently as M'Lynn in Steel Magnolias, but is filling a new role in this production, that of choreographer (providing choreography for the restaurant scene). She wishes this great cast and directing team the very best with She Loves Me and is honored to have "played" a small part in this wonderful production. As always Pam is grateful to her husband Tony for his continued love and support and to God for life and its endless opportunities. </entry>
+         <entry>Will Heckaman (Steven Kodaly/Caroler) has been doing theater for nearly a decade. Most notably, he starred in Beauty and Beast, Lend Me a Tenor, and Arsenic and Old Lace. This is his eighth Civic Show and was most recently seen in Camelot. Thank you. </entry>
+         <entry>Jill Hillman (Ensemble) is excited to spend the Christmas season helping others get into the spirit -oflove, not shopping! She has most recently appeared onstage at the Kroc center as Mae Peterson in Bye Bye Birdie. She has appeared in the SBCT's productions of Camelot, Love Letters (with husband, James) Cabaret, Death of a Salesman, The Unexpected Guest and as Dolly Levi in Hello Dolly. She also appeared in The Main Stage, Inc productions of The Wedding Singer (Grandma Rosie), Sweeney Todd (Mrs. Lovitt) and All Shook Up (Sylvia). She proudly serves on the Board for SBCT. </entry>
+         <entry>John Jung-Zimmerman (Stage Manager - Booth/Sound Design) loves working behind the scenes at SBCT and marvels at all the talented cast and crew members that SBCT draws in. H e has recently designed sound for Wait Until Dark, and Stage Managed Superior Donuts, 39 Steps, and Seafarer. She Loves Me reminds him daily of the love his family show's him, especially grateful for that of his wife, Linda. With much gratitude, Merry Christmas! </entry>
+         <entry>Linda Jung-Zimmerman (Assistant Director) has been involved with SBCT since she first brought her young daughter to an audition 11 years ago. Currently she is developing new skills as assistant director after spending many years as stage manager. One of the things she loves about SBCT is the opportunity to work with amazingly talented and fun people. It continues to be a great pleasure for her to work with two of her closest friends, her husband John and director Jewel. Linda and her husband are the recipients of the SBCT volunteer of the year award. She hopes you enjoy this Christmas gift! </entry>
+         <entry>Sean Leyes (Georg Nowack) is thrilled to be returning to the SBCT stage for the 2nd time this year. He was last seen as Jack in Into the Woods and is thankful to have finally "grown up" into the character of Georg. He would like to thank his fellow cast and crew members for all of their hard work and special thanks to his family and friends for all their love and support. Merry Christmas! </entry>
+         <entry>Natalie MacRae (Amalia Balash) Natalie is thrilled to be in SBCT's Christmas show once again. Most recently she appeared in SBCT's production of Into the Woods as Little Red Riding Hood. She has also appeared in SBCTs productions ofA Christmas Carol (Fred's Wife), Grease (Cha-Cha), West Side Story (Graziella), and The Sound of Music (Liesl) to name a few. A special thanks to her family and friends for their never ending love and support. "I wouldn't have been able to balance it all without you!" Happy Holidays! </entry>
+         <entry>Gary Oesch (Ensemble) Over the last two years Gary has acted in Ragtime, Camelot and recently Superior Donuts. He also appeared in The Gin Game for Four Flags Players in Niles and recently directed a reading of Circle Mirror Transformation for the Acting Ensemble and I hope to direct again soon for SBCT. </entry>
+         <entry>Joe Roman (Ensemble) has been involved with SBCT for a few years. This is his fourth production with the SBCT, most recently Christmas Carol last year. Also helped out with sound, stage crew, and as well as ushering for the SBCT plays. Joe has appeared with Elkhart Civic and at Notre Dame for Sweeney Todd this past spring. </entry>
+         <entry>BJ Simpson (Waiter/Caroler) "I'd like to thank God and the Lord Jesus Christ for eternal life. I appreciate my parents, Jay and Jill, for always supporting me. Everything I know about love, sacrifice, compassion, and endurance is exemplified by your lives. I love you forever. Perhaps you previously saw me being "delightfully disgusting and flirtatious" as The Sewer Man and Dr. Gaspard Jadin in 2012 SBCT's The Madwoman of Chaillot or throwing a Christmas party as Scrooge's nephew, Fred, in 2011 SBCT's A Christmas Carol: Scrooge and Marley. 2 Corinthians 5:17-6:2" </entry>
+         <entry>Stephanie Walker (Caroler/Couple/Ensemble) is in her first show with SBCT. She has enjoyed getting to work with such a talented group of people. She would like to thank her husband for putting up with long rehearsals. </entry>
+         <entry>Rebecca Wilson (Music Director) is a graduate of St. Mary's College, Rebecca has been playing for theatre, classical and cabaret performances for over 35 years. Accompanist credits include concerts with vocalists Grant Clark and Archie Manning, cellist Sharon Hausenfleck and the Canton Oratorio Society of Canton, Ohio. Theatre credits include music director for Amish Acres' Peter Pan and Nunsense, as well as SBCT's Man of La Mancha, Ragtime, Camelot, and this past summer's Into the Woods. She has been involved as music director and accompanist for over fifty musical productions and currently is the Vocal Music Director for Mishawaka High School. Rebecca lives in Bremen with her husband Michael, a retired firefighter for the city of Mishawaka. </entry>
+         <entry>Please turn off all cell phones, cameras &amp; electronic devices. Thank you </entry>
+         <entry>Originally Directed on Broadway by Harold Prince Originally Produced on Broadway by Harold Prince in Association with Lawrence N . Kasha and Philip C. McKenna Original Orchestrations by Don Walker, Adapted by Frank Matosich, Jr. </entry>
+         <entry>Up Next at SBCT: Tea at Five by Matthew Lombardo Warner Studio Theatre January 11-13 </entry>
+         <entry>Unnecessary Farce by Paul Slade Smith Wilson Mainstage Auditorium January 18-February 3 </entry>
+         <entry>Disney's Little Mermaid Jr Bendix Theater at Century Center February 22-26 Auditions December 18-19! </entry>
+         <entry>Guys and Dolls Wilson Mainstage Auditorium March 1-17 Auditions December 10 and 11! </entry>
+         <entry>Sign up for exclusive ticket offers, audition notices and all things SBCT with our e-newsletter! http://www.sbct.org/subscribe.php </entry>
+      </bios>
+   </text>
+</program>

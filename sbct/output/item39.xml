@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://rooneypower.github.io/sbct/xslt/program_style_pi.xsl"?>
+<program xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:om="http://omeka.org/schemas/omeka-xml/v5"
+         xml:id="39">
+   <metadata>
+      <dc:title>Yesterday and Today: A Musical Tribute to the Beatles</dc:title>
+      <dc:creator>South Bend Civic Theatre</dc:creator>
+   </metadata>
+   <text>
+      <cover>
+         <line>South Bend</line>
+         <line>CIVIC THEATRE</line>
+         <break/>
+         <line>With UNDERWRITING by MEMORIAL HEALTH SYSTEMS, AM GENERAL, and THE INN AT SAINT MARY'S</line>
+         <line>PRESENTS</line>
+         <break/>
+         <line>YESTERDAY AND TODAY</line>
+         <line>A MUSICAL TRIBUTE TO THE BEATLES</line>
+         <line>Produced, Directed and Conceived by BILLY McGUIGAN</line>
+         <line>January 9-10-11, 15-16-17-18, 21 -22-23-24-25, 2009</line>
+         <line>THE WILSON MAINSTAGE AUDITORIUM</line>
+      </cover>
+      <crew>
+         <header>THE PRODUCTION TEAM</header>
+         <credit>
+            <role>Director </role>
+            <talent>Billy McGuigan</talent>
+         </credit>
+         <credit>
+            <role>Musical Director </role>
+            <talent>Rick Avard</talent>
+         </credit>
+         <credit>
+            <role>Sound Design Extra </role>
+            <talent>Space Music</talent>
+         </credit>
+         <credit>
+            <role>Sound Engineer </role>
+            <talent>Chris Acker</talent>
+         </credit>
+         <credit>
+            <role>Lighting Director </role>
+            <talent>Liz Kendall</talent>
+         </credit>
+         <credit>
+            <role>Production Coordinator </role>
+            <talent>Kate Whitecotton</talent>
+         </credit>
+      </crew>
+      <bios>
+         <header>WHO'S WHO</header>
+         <entry>RICK AVARD (Keyboards/Musical Director), is a part-time freelance pianist/keyboardist. In addition to being part of Rave On! (the Buddy Holly tribute show), he maintains a busy schedule playing with Billy McGuigan in his numerous activities all around the country. Rick has also ventured into record production, completing the production duties on Billy McGuigan's debut CD, Billy As Billy. In addition, he has spent time playing with Omaha­-based singer/songwriter Mark Irvin, appearing on Mark's three CDs. He also plays at many wedding ceremonies and is part of a worship team at Faith ­Westwood United Methodist Church in Omaha. Rick is an avid CD collector and lives in Omaha with his wife, Shannon, and daughters Katie and Allison. </entry>
+         <entry>Favorite Beatle: George Martin. I know, I know, but his contribution to their canon cannot be ignored. </entry>
+         <entry>Favorite Beatle Song: "Strawberry Fields Forever," for numerous reasons: namely, it's a great song; but, more importantly, George Martin's production on this song is nothing short of amazing. His combination of two different versions of the song is sheer genius. This is The Beatles at their creative peak. </entry>
+         <entry>JAY HANSON (Lead Guitar/Vocals) has been a Beatle fan since childhood, when he "borrowed" his sister's copy of the "Red Album" and his brother's copy of Abbey Road. (Holly and John, I promise to get those back to you soon ;^)) He is honored and thrilled to be a part of this celebration of Beatles music. Active in the music scene, Jay's "day" gig is as a recording engineer at Ware House Productions in Omaha. He dedicates this performance to the memory of his mother, Phyllis. "Thanks, Mom; the Beatles Bible has come in handy these last few months!" </entry>
+         <entry>Favorite Beatle: Paul. </entry>
+         <entry>Favorite Beatles Song: The Anthology II version of "And Your Bird Can Sing." It's pretty hard to narrow it down to one favorite, but the version of this song on the Anthology captures John and Paul having a great time recording in the studio. Plus, it's hard to hear that song and not laugh along! </entry>
+         <entry>BILLY McGUIGAN (Vocals/Guitar/Keys) is known to audiences around the U.S. as Buddy Holly. He has starred in some 380 performances of BUDDY: The Buddy Holly Story since originating the role in Omaha in 2002. Accolades include a Spotlight (Phoenix, AZ) Award for Best Actor in a Musical and a nomination for an Arizoni Award as Best Actor in a Musical, as well. Recently, the writers and producers of BUDDY chose Billy as their ''preferred Buddy Holly" in the United States. Billy also wrote and co-produced Rave On!, which has played all over the U.S., has been performed with symphonies, and is one of two "tribute" shows endorsed by the Buddy Holly estate. In July 2006, Billy released his much anticipated original music effort, Billy As Billy. A collection of songs written and demo-ed in post-Katrina New Orleans, Billy As Billy has received positive acclaim and reviews throughout the country. The complete list of "thank you's" for Yesterday and Today is too long to list here, but I'll throw out a few, anyway: Chip Greene, Bob Carlisle, Betsye Paragas, and Jim Othuse (for making sure this show happened), Beau Bisson, Eric Bricking, these incredible musicians on stage who I'm proud to call friends and family, The "Hollyheads," John Morrissey, Colleen Quinn, and the three most important people in my life-my beautiful wife Rachelle, incredible daughter Cartney, and baby boy Ciaran (I absolutely couldn't do this without you!). I would like to dedicate this show to my father, Bill McGuigan, who would have given anything to see his "boys" performing Beatles music on stage together. We hope you will enjoy the show! </entry>
+         <entry>Favorite Beatle: My daughter's namesake of course, Paul McCartney. </entry>
+         <entry>Favorite Beatles Song: Tough stuff here. "I've Got a Feeling" has always been one of my faves. It's the last real collaboration between John and Paul during a time when they were each writing their own stuff. It shows that the magic was sti11 there. "Drive My Car" is the song that's blowing my mind lately: great Lennon/McCartney lyric, great guitar work, and it just grooves. Of course, "Oh, Darling!" is my favorite to sing (once a week, that is). Macca at his best. </entry>
+         <entry>MATTHEW McGUIGAN (Vocals/Bass) A man of few words, Matthew is excited to be performing Yesterday and Today. He is a graduate of PCCA in St. Petersburg, Florida, and has extensive theatrical credits, including: West Side Story (Tony), BUDDY· The Buddy Holly Story (Tommy), and Jesus Christ Superstar (Musical Director). When he's not performing with his brother Billy, he's the other half to the band Moses Prey. He's been playing music for fifteen years, and couldn't be any more excited to be a part of this production. He dedicates this performance to his wife, Christine, and to the memory of his late father, Bill. </entry>
+         <entry>Favorite Beatle: John </entry>
+         <entry>Favorite Beatles Song: "Happiness is a Warm Gun," because it has every angle of a great rock song; and, second, "A Day in a Life," because it's a masterpiece. </entry>
+         <entry>DARREN PETTIT (Saxophone/EWI/Harmonicas/Percussion/Keys/Vocals) received his bachelor's degree in saxophone performance from the University of Nebraska at Omaha, and his master's from the University of Cincinnati's Conservatory ofMusic. He is currently the saxophone instructor at the University of Nebraska at Omaha, the director of the Metropolitan Area Youth Jazz Orchestra, and the co-founder of the Omaha Jazz Workshop. He also has a large studio of private students. Darren is in high demand as an active performer and educator in the Omaha area. </entry>
+         <entry>Favorite Beatle: George </entry>
+         <entry>Favorite Beatles Song: Anything from the White Album; that record changed my life! </entry>
+         <entry>TOMM ROLAND (Percussion/Vocals) holds a doctor of musical arts degree in percussion performance from SUNY Stony Brook. He has performed in a variety of musical settings throughout the U.S., Europe, India, and Japan. He was awarded a Fulbright grant to study the classical drumming of Southern India, where he studied mridangham and thavil with Sri T.H. Subashchandren and Sri K. Sekar. Tomm has been a featured artist/clinician at a variety of music events. His most recent recordings are Take Flight by the Omaha Symphony, Rave On: Live at the Drew, Billy McGui­gan's Billy As Billy, and Moses Prey's A Paper Moon. Tomm resides in Omaha, Nebraska, with his wife, Lesley, and sons Zachary and Dhani. </entry>
+         <entry>Favorite Beatle: The most "fab" of the Fab Four, the man who doesn't get the respect he deserves, and the one with the coolest nickname ever: Ringo. </entry>
+         <entry>Favorite Beatles Song: He has been listening to The Beatles since birth, a benefit of being born to California hippies during the Summer of Love. "Can't Buy Me Love" is the first song he remembers knowing how to sing as a child; and he knew the White Album backwards and forwards by the time he was seven years old. </entry>
+         <entry>Beatle Songs, 1963-1970 A Day in the Life A Hard Day's Night A Taste of Honey Across the Universe Act Naturally All I've Got to Do All My Loving All Together Now All You Need Is Love And I Love Her And Your Bird Can Sing Anna Another Girl Any Time at All Baby You're a Rich Man Baby's in Black Because Blackbird Boys Chains Day Tripper Dig a Pony Do You Want to Know a Secret Drive My Car Every Little Thing Fixing A Ho1e Flying From Me to You Girl Good Day Sunshine Got to Get You Help! Her Majesty Hey Bulldog Hold Me Tight I Am the Walrus l Feel Fine I Need You I Should Have Known Better I Want You (She's So Heavy) I'll Cry Instead I'm a Loser I'm Looking Through You It Won't Be Long I've Got a Feeling Kansas City/ Hey, Hey, Hey, Hey Being for the Benefit of Mr. Kite Can't Buy Me Love Come Together Dear Prudence Dig It Doctor Robert Don't Let Me Down Eight Days a Week Except for Me and My Monkey For No One Get Back Glass Onion Good Morning Happiness Is a Warm Gun Here Comes the Sun Hey Jude Honey Don't I Call Your Name I Me Mine I Saw Her Standing There I Want to Tell You I Will If I Needed Someone I'll Follow the Sun I'm Down I'm Only Sleeping I'm So Tired It's All Too Much I've Just Seen a Face Lady Madonna Little Child Baby It's You Back in the USSR Birthday Blue Jay Way Carry That Weight Cry Baby Cry Devil in Her Heart Dizzy Miss Lizzy Don't Bother Me Don't Pass Me By Eleanor Rigby Everybody's Trying to Be My Baby For You Blue Getting Better Golden Slumbers Good Night Hello, Goodbye Helter Skelter Here, There, and Everywhere Honey Pie I Don't Want to Spoil the Party I Wanna Be Your Man I Want to Hold Your Hand If I Fell I'll Be Back I'll Get You I'm Happy Just to Dance with You In My Life It's Only Love Julia Let It Be Long, Long, Long </entry>
+         <entry>Beatle Songs, Cont. Long Tall Sally Lovely Rita Magical Mystery Tour Matchbox Michelle Mother Nature's Son Norwegian Wood Ob-La-Di, Ob-La-Da Old Brown Shoe Paperback Writer Please Please Me Rain Rocky Raccoon Savoy Truffle She Came in Through the Bathroom Window Love Me Do Lucy in the Sky with Diamonds Maxwell's Silver Misery Mr. Moonlight Not a Second Time Octopus's Garden One After 909 Penny Lane Polythene Pam Revolution Roll Over Beethoven Sexy Sadie She Loves You She Said She Said She's Leaving Home Strawberry Fields Forever Thank You Girl The Fool on the Hill The Word Think for Yourself Till There Was You Two of Us What Goes On When I'm Sixty-Four With a Little Help from My Friends Words of Love Yes It Is Slow Down Sun King Tell Me What You See Bungalow Bill The Long and Winding Road This Boy Love You To Maggie Mae Martha My Dear Mean Mr. Mustard Money No Reply Nowhere Man Oh! Darling Only a Northern Song Please Mr. Postman P.S. I Love You Rock and Roll Music Run for Your Life Sgt. Pepper's Lonely Hearts Club Band She's a Woman Something Taxman Tell Me Why The End The Night Before Things We Said Today Ticket to Ride Tomorrow Never Knows Twist and Shout Wait What You're Doing While My Guitar Gently Weeps Wild Honey Pie Yellow Submarine Yesterday You Like Me Too Much You Never Give Me Your Money You Won't See Me Your Mother Should Know You're Going to Lose That Girl We Can Work It Out When I Get Home Why Don't We Do It in the Road Within You Without You Yer Blues You Can't Do That You Really Got a Hold on Me You've Got to Hide Your Love Away </entry>
+      </bios>
+   </text>
+</program>

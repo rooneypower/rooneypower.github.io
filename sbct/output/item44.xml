@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://rooneypower.github.io/sbct/xslt/program_style_pi.xsl"?>
+<program xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:om="http://omeka.org/schemas/omeka-xml/v5"
+         xml:id="44">
+   <metadata>
+      <dc:title>Superior Donuts</dc:title>
+      <dc:creator>South Bend Civic Theatre</dc:creator>
+   </metadata>
+   <text>
+      <cover>
+         <line>South Bend</line>
+         <line>CIVIC THEATRE</line>
+         <line>Full Season Sponsor</line>
+         <line>VILLING &amp; COMPANY</line>
+         <line>marketing communications</line>
+         <break/>
+         <line>Proudly Present:</line>
+         <break/>
+         <line>Superior Donuts</line>
+         <line>Written by Tracy Letts</line>
+         <line>Directed by Mark Abram-Copenhaver</line>
+         <break/>
+         <line>June 1, 2, 8, 9 at 8 PM; June 6, 7 at 7:30 PM; June 3, 10 at 3:00 PM</line>
+         <line>Warner Studio Theatre</line>
+         <line>Produced by special arrangement with Dramtists Play Service, Inc.</line>
+         <break/>
+         <line>SBCT funded in part through a grant from Indiana Arts Commission &amp; National Endowment for the Arts</line>
+         <break/>
+         <line>With gratitude to the Community Foundation of South Bend for administering IACfunds, managing SBCT's endowment and for group marketing opportunities through the Arts Everywhere.com initiative.</line>
+      </cover>
+      <cast>
+         <header>The Cast</header>
+         <credit>
+            <role>Max Tarasov </role>
+            <talent>David Chudzynski</talent>
+         </credit>
+         <credit>
+            <role>Officer Randy Osteen </role>
+            <talent>Diane Zuber</talent>
+         </credit>
+         <credit>
+            <role>Officer James Bailey </role>
+            <talent>Tony McMutuary</talent>
+         </credit>
+         <credit>
+            <role>Lady Boyle </role>
+            <talent>Leigh Taylor</talent>
+         </credit>
+         <credit>
+            <role>Arthur Przybyszewski </role>
+            <talent>Gary Oesch</talent>
+         </credit>
+         <credit>
+            <role>Franco Wicks </role>
+            <talent>Brandon Harper</talent>
+         </credit>
+         <credit>
+            <role>Luther Flynn </role>
+            <talent>Bill Svelmoe</talent>
+         </credit>
+         <credit>
+            <role>Kevin Magee </role>
+            <talent>Zach Gassman</talent>
+         </credit>
+         <credit>
+            <role>Kiril Ivakin </role>
+            <talent>Joseph Goepfrich</talent>
+         </credit>
+      </cast>
+      <crew>
+         <header>The Production Team</header>
+         <credit>
+            <role>Director </role>
+            <talent>Mark Abram-Copenhaver</talent>
+         </credit>
+         <credit>
+            <role>Stage Manager/Sound Design </role>
+            <talent>John Jung-Zimmerman</talent>
+         </credit>
+         <credit>
+            <role>Assistant Director </role>
+            <talent>Roy Bronkema</talent>
+         </credit>
+         <credit>
+            <role>Acting Coach </role>
+            <talent>Jewel Abram-Copenhaver</talent>
+         </credit>
+         <credit>
+            <role>Assistant Stage Manager </role>
+            <talent>Joseph Goepfrich</talent>
+         </credit>
+         <credit>
+            <role>Set Design </role>
+            <talent>Jacee Rohlck</talent>
+         </credit>
+         <credit>
+            <role>Lighting Design </role>
+            <talent>Matt Davidson</talent>
+         </credit>
+         <credit>
+            <role>Costumes </role>
+            <talent>Jonnie Kilic</talent>
+         </credit>
+         <credit>
+            <role>Props </role>
+            <talent>Teri Szynski</talent>
+         </credit>
+         <credit>
+            <role>Light Board Operator </role>
+            <talent>Katie Taylor</talent>
+         </credit>
+         <credit>
+            <role>Sound Board Operator </role>
+            <talent>Dominic King</talent>
+         </credit>
+         <credit>
+            <role>Dramaturge </role>
+            <talent>Reg Wagle</talent>
+         </credit>
+         <credit>
+            <role>Production Photography </role>
+            <talent>Jon Gilchrist</talent>
+         </credit>
+      </crew>
+      <setting>
+         <header>Place</header>
+         <line>"Superior Donuts," a small donut shop in Chicago's Uptown neighborhood</line>
+         <line>Will be performed with one intermission.</line>
+         <line>Please turn off all cell phones, cameras and electronic devices.</line>
+         <break/>
+         <line>Special Thanks</line>
+         <line>Kerri Blair</line>
+         <line>Oleg Krim -Russian Language Consultant</line>
+      </setting>
+      <bios>
+         <header>WHO'S WHO IN THE CAST &amp; CREATIVE TEAM</header>
+         <entry>Mark Abram-Copenhaver (Director) is an Associate Professor of Theater at Saint Mary's College, with recent directing of SMC productions included the world premiere of Susan Baxter's Confessions of the Chaff, and a burlesque version of Lysistrata and coming November he will direct the musical The Secret Garden. Mark directs frequently for SBCT, most recently The Seafarer and The Miracle Worker, where he also serves as Vice-President of the Board of Directors. Mark is the Production Manager for Notre Dame Shakespeare Festival where he also co-directed the recent In-Concert: Kiss Me Kate. </entry>
+         <entry>Roy Bronkema (Assistant Director) is delighted co expand his resume at SBCT by lending a hand in directing chis moving play. He has previously taken on acting and singing roles in The Elephant Man, And Then There Were None, Camelot, Auntie Mame and several others. He is enjoying sharing his creative input with such a great script and cast. </entry>
+         <entry>David Chudzynski (Max Tarasov) is happy to put his acting hat on again here in the Warner Studio Theatre. He was last seen here in Jekyll and Hyde, and previously in Humble Boy and Almost Maine. As always he thanks his lovely wife for her support and inspiration. </entry>
+         <entry>Zach Gassman (Kevin Magee) is no stranger to the theatre. With SBCT he has done Alice in Wonderland and The Sound of Music. While at Bethel he did Father of the Bride as well as Romeo and Juliet. His other hobbies include woodworking and writing and was told that he cannot put in his Bio that he likes long walks on the beach. </entry>
+         <entry>Joseph Goepfrich (Kiril Ivakin/Asst. Stage Manager) makes his SBCT acting debut after working behind the scenes on Blue, 39 Steps, and Gypsy. He would like to thank his director Mark for "persuading" him to take on this role, the amazing cast and crew, the staff at SBCT, who he has learned so much from, and of course his family for all their support over the years. (Enjoy the show!) </entry>
+         <entry>Brandon Harper (Franco Wicks) has been dancing since he was able to walk but only recently did he begin theater. Once Upon a Mattress was his first show, followed by Fiddler on the Roof. He then played Seaweed in SBCT's production of Hairspray. He hopes to one day be a dance workshop teacher. </entry>
+         <entry>John Jung-Zimmerman (Stage Manager/Sound Design), a Chicago native, Superior Donuts feels like coming home to all the people he grew up with. "It's been wonderful to be part of something that brings the best of what Chicago can be in a way that holds out hope for all of us to be the best we can be." John loves the sounds of Chicago as well as those that contributed to A Miracle Worker, The Seafarer, A Christmas Carol-Scrooge and Marley, 39 Steps in his previous design work at SBCT. </entry>
+         <entry>Tony McMutuary (Officer James Bailey) is positively delighted to debut at the SBCT or anywhere else for that matter. This is his first time on stage. He is following in the footsteps of his wife, Laverne and son, Quinton, who are both regulars at SBCT. He would like to thank his family for their support and help. </entry>
+         <entry>Gary Oesch (Arthur Przybyszewski) began his 54 year career in theatre at South Bend Central Junior High School under the direction of James Lewis Casaday. Since 1985 he has acted, directed and designed numerous shows for SBCT, including directing The Odd Couple, Mrs. Bob Cratchit's Wild Christmas Binge, Enchanted April and The Sunset Limited. SBCT performances include Twelve Angry Men, It's A Wonderful Life, Miracle on 34th Street, Love Letters and Ragtime. "A salute to all of us who participate in and love theatre and please remember, 'Love the theatre in yourself, not yourself in the theatre!'" </entry>
+         <entry>Bill Svelmoe (Luther Flynn) is Associate Professor of History at Saint Mary's College. He began acting at Saint Mary's under the direction ofMark Abram­ Copenhaver and Katie Sullivan. He has performed at the Civic most recently as Lockhart [the devil] in last season's The Seafarer. He has also appeared at SBCT in Miracle on 34th Street and A Flea in Her Ear. </entry>
+         <entry>Leigh Taylor (Lady Boyle) works at the University of Notre Dame, teaches a theatre class at St. Mary's College, and just finished directing The Odd Couple at Holy Cross College, thereby completing the Northern Indiana Catholic Trifecta. She's delighted to be back on stage with this wonderful cast, working for this wonderful director. </entry>
+         <entry>Diane Zuber (Officer Randy Osteen) is in her first dramatic show with SBCT. You may remember her singing in Miracle on 34th Street, a year ago. She is very pleased to be working with such a talented director and cast. By day, she is an elementary music teacher for Penn-Harris-Madison School Corporation. Of her character, Diane says, "it is an interesting study to see Randy finding the courage to go from being one of the boys to being comfortable in her own skin." </entry>
+         <entry>Up Next at SBCT: Anna in the Tropics June 22-July 1 Wilson Mainstage Auditorium </entry>
+         <entry>Into the Woods July 27-August 12 Wilson Mainstage Auditorium </entry>
+      </bios>
+   </text>
+</program>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://rooneypower.github.io/sbct/xslt/program_style_pi.xsl"?>
+<program xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:om="http://omeka.org/schemas/omeka-xml/v5"
+         xml:id="36">
+   <metadata>
+      <dc:title>A Body of Water</dc:title>
+      <dc:creator>South Bend Civic Theatre</dc:creator>
+   </metadata>
+   <text>
+      <cover>
+         <line>South Bend</line>
+         <line>CIVIC THEATRE</line>
+         <line>WINNER OF THE 2007 LEIGHTON AWARD FOR NONPROFIT EXCELLENCE</line>
+         <break/>
+         <line>With UNDERWRITING by</line>
+         <line>VILLING &amp; CO., INC., AND AEP INDIANA MICHIGAN POWER</line>
+         <line>PRESENTS</line>
+         <break/>
+         <line>A Body of Water</line>
+         <line>By LEE BLESSING</line>
+         <line>Directed By TERRY FARREN</line>
+         <line>May 25-26-27, 30-31 June 1-2-3, 2007</line>
+         <line>The Barbara K. Warner Studio Theatre</line>
+         <break/>
+      </cover>
+      <crew>
+         <header>THE PRODUCTION TEAM</header>
+         <credit>
+            <role>Director </role>
+            <talent>Terry Farren</talent>
+         </credit>
+         <credit>
+            <role>Consultant Director </role>
+            <talent>Douglas Streich</talent>
+         </credit>
+         <credit>
+            <role>Stage Manager </role>
+            <talent>Jody Thorla</talent>
+         </credit>
+         <credit>
+            <role>Technical Director </role>
+            <talent>David Chudzynski</talent>
+         </credit>
+         <credit>
+            <role>Set &amp; Lighting Design </role>
+            <talent>David Chudzynski</talent>
+         </credit>
+         <credit>
+            <role>Costume Design </role>
+            <talent>Jean Savarese</talent>
+         </credit>
+         <credit>
+            <role>Properties </role>
+            <talent>Seyhan Kilic</talent>
+         </credit>
+         <credit>
+            <role>Sound Design Rick W. Ellis &amp; </role>
+            <talent>Terry Farren</talent>
+         </credit>
+         <credit>
+            <role>Lighting &amp; Sound Technicians </role>
+            <talent>Terry Dawson,  Seyhan Kilic, Jody Thorla,</talent>
+         </credit>
+         <credit>
+            <role>Set Construction </role>
+            <talent>David Chudzynski,  Matt Davidson, Jody Thorla</talent>
+         </credit>
+         <credit>
+            <role>Stage Crew </role>
+            <talent>Carlie Barr,  Steve Chung, Jodv Thorla</talent>
+         </credit>
+         <credit>
+            <role>Lobby Display </role>
+            <talent>Carlie Barr,  Terry Dawson</talent>
+         </credit>
+      </crew>
+      <setting>
+         <header>SETTING</header>
+         <line>Scene i-A Bright Summer Morning</line>
+         <line>Scene ii-Several Minutes Later</line>
+         <line>Scene iii-Same Day/Late Afternoon</line>
+         <break/>
+         <line>INTERMISSION</line>
+         <break/>
+         <line>Scene iv-A Sunny Morning/A Couple of Days Later</line>
+         <line>Scene v-A Gray Morning</line>
+         <break/>
+         <line>"The light of memory, or rather the light that memory lends to things, is the palest light of all...I am not quite sure whether I am dreaming or remembering, whether I have lived my life or dreamed it. Just as dreams do, memory makes me profoundly aware of the unreality, the evanescence of the world, a fleeting image in the moving water." Eugene Ionesco</line>
+         <break/>
+         <line>A Body of Water had its World Premiere at The Guthrie Theatre on June 11 , 2005 and won the 2006 Steinberg Award for Best New Play.</line>
+      </setting>
+      <cast>
+         <header>THE CAST</header>
+         <credit>
+            <role>Moss </role>
+            <talent>Kevin Egelsky</talent>
+         </credit>
+         <credit>
+            <role>Avis </role>
+            <talent>Melissa Gard</talent>
+         </credit>
+         <credit>
+            <role>Wren </role>
+            <talent>Emily Pickerell</talent>
+         </credit>
+      </cast>
+      <bios>
+         <header>Who's Who</header>
+         <entry>DAVID CHUDZYNSKI (Technical Director/Set &amp; Lighting Design) is the first full-time Technical Director in the history of SBCT. He is also well-known as an actor, director, theatre instructor, and playwright. </entry>
+         <entry>KEVIN EGELSKY (Moss) Kevin is ... "94% water." (Kevin was last seen in SBCT's production of American Buffalo as Donny.) </entry>
+         <entry>TERRY FARREN( Director) Other directing credits at SBCT over the years include American Buffalo Of Mice and Men, The Diary of Anne Frank, A Piece of My Heart, and Night Breath. A theatre graduate of Ohio University, Terry worked in Los Angeles for ten years as a professional actor/director. He and his wife, Sara, an SBCT youth theatre instructor, are both active in the adult drama ministry at Clay United Methodist Church. Terry would like to state that he "never realized how rich and deep A Body of Water could be," and would like to thank "the entire flock for their dedication and love of Water." </entry>
+         <entry>MELISSA GARD (Avis) states that she "feels amazingly comfortable in this new theatre nest." She would like to tell you more about her history, but...she just "doesn't remember." (A twenty-year Civic veteran, Melissa was last seen as Stella in Light Up the Sky.) </entry>
+         <entry>EMILY PICKERILL (Wren) has discovered a "renewed appreciation for spar­ rows." She has enjoyed "stretching her wings" for the first time at SBCT. </entry>
+         <entry>DOUGLAS STREICH (Consultant Director) is pleased to be able to complete another tutorial in directing with Terry Farren. Doug, himself, recently directed SBCT's The Gin Game, which took first place honors at the Indiana Commu­nity Theatre League competition in March as well as second place at the re­gional competition for the American Association of Community Theatres in April. </entry>
+         <entry>JODY THORLA (Stage Manager) would like to thank the entire cast for the opportunity to work with three such talented individuals, and to Terry, "Let's Rock and Roll! and many thanks for including me." Jody also thanks SBCT for the "continued" opportunities to earn and keep his 2006 Volunteer of the Year Award. </entry>
+         <entry>ANNOUNCING THE FORMATION OF The South Bend Civic Wilson Society </entry>
+         <entry>Following on the heels of one of the most ambitious building campaigns in the history of American community theatre, South Bend Civic Theatre is proud to announce the formation and the first members to join SBCT's Wilson Society, a select group of donors dedicated to securing with endowment gifts of $5,000 or more the theatre's health and prosperity for the next 50 years and beyond. As Civic's recent, historic building project neared its completion, the theatre's focus on endowment was greatly enhanced, when the Com­munity Foundation of St. Joseph County in September named SBCT winner of the 2007 Leighton Award for Nonprofit Excellence. This award, a high honor in itself, also carries with it a $100,000 Challenge Grant, which SBCT donors must match by De­cember 2007 in order to add $200,000 to Civic's endowment, held in perpetuity and administered by the Community Foundation as a per­manently protected and assured source of income for South Bend Civic Theatre in the future. Spurred by this challenge, Marjorie H. Wilson, wife of the late Dr. James M. Wilson, in both of whose names our new main auditorium was dedicated, generously offered to motivate prospective Civic do­nors even further by agreeing to match every gift of $5,000 or more that helped SBCT meet its Leighton Award challenge. In her honor, the theatre is proud to recognize those individuals who by their generosity have so far qualified for inclusion in Civic's Wil­son Society. They are: Alfred H. &amp; Martha J. Choitz Leslie J. Choitz Dick &amp; Chris Currey Tom &amp; Cathy Lower Alex &amp; Pam Regnery Barbara K. Warner </entry>
+      </bios>
+   </text>
+</program>

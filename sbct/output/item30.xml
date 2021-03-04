@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://rooneypower.github.io/sbct/xslt/program_style_pi.xsl"?>
+<program xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:om="http://omeka.org/schemas/omeka-xml/v5"
+         xml:id="30">
+   <metadata>
+      <dc:title>Blithe Spirit</dc:title>
+      <dc:creator>South Bend Civic Theatre</dc:creator>
+   </metadata>
+   <text>
+      <cover>
+         <line>South Bend</line>
+         <line>CIVIC THEATRE</line>
+         <line>making a dramatic difference</line>
+         <break/>
+         <line>With Underwriting by JOHN &amp; BARBARA PHAIR</line>
+         <line>PRESENTS</line>
+         <line>BLITHE SPIRIT</line>
+         <line>BY NOEL COWARD</line>
+         <line>Directed by Mark Abram-Copenhaver</line>
+         <line>Originally produced at the Opera House, Manchester, England, June 16, 1941</line>
+         <line>June 4-6, 10-13, 16-19, 2004; The Firehouse</line>
+      </cover>
+      <crew>
+         <header>THE PRODUCTION TEAM</header>
+         <credit>
+            <role>Director </role>
+            <talent>Mark Abram-Copenhaver</talent>
+         </credit>
+         <credit>
+            <role>Assistant Director </role>
+            <talent>Jewel Abram-Copenhaver</talent>
+         </credit>
+         <credit>
+            <role>Stage Manager </role>
+            <talent>Ann Weedon</talent>
+         </credit>
+         <credit>
+            <role>Assistant Stage Manager </role>
+            <talent>Merideth Pierce</talent>
+         </credit>
+         <credit>
+            <role>Production &amp; Lighting Design </role>
+            <talent>Phil Patnaude</talent>
+         </credit>
+         <credit>
+            <role>Set Artist </role>
+            <talent>David Blodgett</talent>
+         </credit>
+         <credit>
+            <role>Costumes </role>
+            <talent>Maggie Atkins</talent>
+         </credit>
+         <credit>
+            <role>Sound Design </role>
+            <talent>Mark Abram-Copenhaver</talent>
+         </credit>
+         <credit>
+            <role>Lighting Technician </role>
+            <talent>Philip Langthorne</talent>
+         </credit>
+         <credit>
+            <role>Sound Technician </role>
+            <talent>Adam Roush</talent>
+         </credit>
+         <credit>
+            <role>Set Construction &amp; Painting </role>
+            <talent>Tom Brubaker,  David Chudzynski, Adam Roush, Ralph Weedon</talent>
+         </credit>
+         <credit>
+            <role>ACKNOWLEDGEMENTS: Department of </role>
+            <talent>Communication Studies,  Dance, and Theatre, Saint Mary's College; Esther Bartell; Steve Kline, Director, Federated Media Engaged: WUBU-FM (Smooth Jazz 106.3); WBYT-FM (B JO0); WAOR-FM (Classic Rock 95.3); WRBR-FM (The Bear 103. 9); and WLRX-FM (Magic 95. 7).</talent>
+         </credit>
+      </crew>
+      <setting>
+         <header>SETTING</header>
+         <line>The action of the play passes in the living-room of Charles Condomine's house in Kent.</line>
+         <line>ACT I</line>
+         <line>Scene 1.-Before dinner on a summer evening. Scene 2.-After dinner. Scene 3.-The next morning.</line>
+         <line>ACT II</line>
+         <line>Scene 1.-Late the following afternoon. Scene 2.-Early evening. A few days later. Scene 3.-After dinner. A few days later. Scene 4.-Several hours later.</line>
+      </setting>
+      <cast>
+         <header>THE CAST</header>
+         <credit>
+            <role>Edith </role>
+            <talent>Karen Fischer</talent>
+         </credit>
+         <credit>
+            <role>Ruth </role>
+            <talent>Melissa Manier</talent>
+         </credit>
+         <credit>
+            <role>Charles </role>
+            <talent>Jim Coppens</talent>
+         </credit>
+         <credit>
+            <role>Dr. Bradman </role>
+            <talent>David Dincolo</talent>
+         </credit>
+         <credit>
+            <role>Mrs. Bradman </role>
+            <talent>Rachel Lopez-Richardson</talent>
+         </credit>
+         <credit>
+            <role>Madame Arcati </role>
+            <talent>Deborah Girasek-Chudzynski</talent>
+         </credit>
+         <credit>
+            <role>Elvira </role>
+            <talent>Lorri Martin</talent>
+         </credit>
+      </cast>
+      <bios>
+         <header>WHO'S WHO</header>
+         <entry>MARK ABRAM-COPENHAVER (Director) is a member of the theatre faculty at Saint Mary's College. Since 2002, he has co-directed with his wife, Jewel, SBCT productions of The Enchantment of Beauty and the Beast and Aladdin &amp; His Wonderful, Magical Lamp at the Morris and directed, solo, Civic productions of Lend Me a Tenor and Rumors at The Firehouse. Before moving to South Bend in 1999, Mark and Jewel owned and operated a performing/visual arts academy for children in Philadelphia. </entry>
+         <entry>JIM COPPENS (Charles Condomine) was hired in September 1995 as Execu­tive Director of SBCT, the first salaried employee in the theatre's history. Among his favorite roles as an actor over the years, he lists the parts of Henry II in The Lion in Winter, Willie Clark in The Sunshine Boys, C.S. Lewis in Shadowlands, George in Who's Afraid of Virginia Woolf?, Harold Hill in The Music Man, James Tyrone in Long Day's Journey Into Night, and Henry Higgins in My Fair Lady, a role he will reprise this August at the Morris. </entry>
+         <entry>DAVID DINCOLO (Dr. Bradman) returns to the Civic stage after a long ab­sence. He was last seen in Michiana in the role of John in / Do! l Do! and as Berger in Hair. In Chicago, he played the part of Gooper in a production of Cat on a Hot Tin Roof During the day, David works for Smooth Jazz 106.3 and Magic 95.7. He thanks his family for lifelong support and love. </entry>
+         <entry>KAREN FISCHER (Edith) has lived m the South Bend area for the past ten years. She performed in numerous plays at Penn High School and at Carleton College in Minnesota. This is her South Bend Civic Theatre debut. </entry>
+         <entry>DEBORAH GIRASEK-CHUDZYNSKI (Madame Arcati) was last seen on the SBCT stage as Martha in Book of Days. She is thrilled to be playing Madame Arcati, because Blithe Spirit is both a comedy and a play that is appropriate for all her students at the Stanley Clark School. She wishes to thank her husband, David, and her daughter, Elyse, for their love and support. </entry>
+         <entry>RACHEL LOPEZ-RICHARDSON (Mrs. Bradman) is making her SBCT debut in this production. She will be directing Concessions later on this summer at The Firehouse, in addition to teaching two of Civic's youth theatre camps in July. Rachel is "thrilled" to be working with such a talented group and gives all her love to Bob and Joslyn (the voice of Daphne, Madame Arcati's "control"). </entry>
+         <entry>MELISSA MANIER (Ruth) is grateful to be sharing Civic's stage with this talented groups of actors. Past roles include another Ruth in Book of Days, Crissy in Dancing at Lughnasa, Lenny in Crimes of the Heart, and Agnes in Agnes of God. A mother of three, Melissa is a former South Bend Civic vice-president and board member. Happy Birthday, Miranda! </entry>
+         <entry>LORRI MARTIN (Elvira) returns to the South Bend Civic stage after more than a decade's absence. Her last appearance at The Firehouse was as Felicity in The Shadow Box. She is very happy and grateful for this opportunity to work with such a talented cast and crew. She would also like to thank her husband, Doug, for cooking dinner so often over the past several weeks. </entry>
+         <entry>PHIL PATNAUDE (Production &amp; Lighting Design) is a graduate of Indiana University, an employee of WSBT, and owner of Philmagic Films. In this production, particularly, he was called on to use his "Philmagic" touch. Phil has worked in the theatrical and communications area for most of his life. South Bend Civic's senior resident designer, he also has designed and constructed shows for Saint Mary's College, The Acting Ensemble, and the Firefly Festival. Angels in America, The Diary of Anne Frank, Painting Churches, Conversations With My Father, Moon Over Buffalo, and Oliver! are some of his favorites over the years. Phil recently finished a contract with Saint Mary's College for productions of The Crucible, Hansel and Gretel, and Speak Truth to Power. Other interests include motion picture production, photography, and spending time with his four-year-old twin girls, his one-year-old son, and family. </entry>
+         <entry>ANN WEEDON (Stage Manager) was stage manager previously for Alice in Wonderland and Night Breath here at Civic. She was assistant director for SBCT's production of Zebra Swallowtail last season. And she has run sound and/or lights for South Bend Civic productions of The legend of Sleepy Hollow, Over the Tavern, Apartment 3A, and Force Continuum. </entry>
+      </bios>
+   </text>
+</program>

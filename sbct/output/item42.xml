@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://rooneypower.github.io/sbct/xslt/program_style_pi.xsl"?>
+<program xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:om="http://omeka.org/schemas/omeka-xml/v5"
+         xml:id="42">
+   <metadata>
+      <dc:title>Moon Over Buffalo</dc:title>
+      <dc:creator>South Bend Civic Theatre</dc:creator>
+   </metadata>
+   <text>
+      <cover>
+         <line>South Bend</line>
+         <line>CIVIC THEATRE</line>
+         <line>Full Season Sponsor, Villing &amp; Co.</line>
+         <line>Mainstage Sponsor, Majority Builders</line>
+         <line>And Show Sponsor, Teachers' Credit Union</line>
+         <line>Proudly Present:</line>
+         <break/>
+         <line>MOON OVER BUFFALO</line>
+         <line>By Ken Ludwig</line>
+         <line>Directed by Richard Baxter</line>
+         <line>Jan. 21, 22, 28, 29, Feb. 4 &amp; 5 at 8 PM; Jan. 26 &amp; Feb. 2 at 7:30 PM;</line>
+         <line>Jan. 23, 30 &amp; Feb. 6 at 3 PM, 2011</line>
+         <line>Wilson Mainstage Auditorium</line>
+         <line>Produced by special arrangement with Samuel French Inc.</line>
+         <break/>
+         <line>SBCT funded in part through a generous grant from Indiana Arts Commission &amp; National Endowment for the Arts</line>
+         <break/>
+         <line>With gratitude to the Community Foundation of South Bend for administering IAC funds, managing SBCT's endowment and for group marketing opportunities through the Arts Everywhere.com initiative.</line>
+      </cover>
+      <cast>
+         <header>The Cast</header>
+         <credit>
+            <role>George Hay </role>
+            <talent>James Jones</talent>
+         </credit>
+         <credit>
+            <role>Ethel </role>
+            <talent>Tami Ramaker</talent>
+         </credit>
+         <credit>
+            <role/>
+            <talent>Rosalind Hay,  "Roz" Abbey Frick</talent>
+         </credit>
+         <credit>
+            <role>Howard </role>
+            <talent>Brian Wells</talent>
+         </credit>
+         <credit>
+            <role>Charlotte Hay </role>
+            <talent>Melissa Manier</talent>
+         </credit>
+         <credit>
+            <role>Paul </role>
+            <talent>Justin Williams</talent>
+         </credit>
+         <credit>
+            <role>Eileen </role>
+            <talent>Carlie Barr</talent>
+         </credit>
+         <credit>
+            <role>Richard </role>
+            <talent>Matthew Bell</talent>
+         </credit>
+      </cast>
+      <crew>
+         <header>The Production Team</header>
+         <credit>
+            <role/>
+            <talent> Director,  Sound Design Richard Baxter</talent>
+         </credit>
+         <credit>
+            <role>Set Design </role>
+            <talent>David Chudzynski</talent>
+         </credit>
+         <credit>
+            <role>Technical Direction </role>
+            <talent>David Chudzynski,  Matt Davidson</talent>
+         </credit>
+         <credit>
+            <role>Lighting Design </role>
+            <talent>Michaela Duffy</talent>
+         </credit>
+         <credit>
+            <role>Stage Manager </role>
+            <talent>Miranda Baxter</talent>
+         </credit>
+         <credit>
+            <role>Ass't. Stage Manager </role>
+            <talent>Jody Thorla</talent>
+         </credit>
+         <credit>
+            <role>Costumers </role>
+            <talent>Jonnie Kilic,  Lois Veen</talent>
+         </credit>
+         <credit>
+            <role>Costume Assistance </role>
+            <talent>Seyhan Kilic</talent>
+         </credit>
+         <credit>
+            <role>Properties Master </role>
+            <talent>Erica Chiarello</talent>
+         </credit>
+         <credit>
+            <role>Props Assistance </role>
+            <talent>Teri Szynski,  Seyhan Kilic</talent>
+         </credit>
+         <credit>
+            <role>Set Construction </role>
+            <talent>Joe Roman,  Jon Gilchrist, David Chudzynski, Matt Davidson</talent>
+         </credit>
+         <credit>
+            <role>Sound Operator </role>
+            <talent>Mary Hubbard</talent>
+         </credit>
+         <credit>
+            <role>Light Operator </role>
+            <talent>Mark Heero</talent>
+         </credit>
+         <credit>
+            <role>Crew &amp; Changers </role>
+            <talent>Kevin Reed,  Joe Roman, Kathleen Canavan</talent>
+         </credit>
+         <credit>
+            <role>Production Photography </role>
+            <talent>Jon Gilchrist</talent>
+         </credit>
+         <credit>
+            <role>Lobby Headshots Gary </role>
+            <talent>Mester Photography</talent>
+         </credit>
+      </crew>
+      <bios>
+         <header>Who's Who in the Cast &amp; Creative Team</header>
+         <entry>CARLIE BARR (Eileen) has been "hooked" since 2006 when she was in SBCT's Tartuffe at the Firehouse. Since then she has been in SBCT's Flea in Her Ear (also with Richard Baxter directing), Five Women Wearing the Same Dress, Farndale Avenue ... Macbeth, and A Funny Thing Happened .. Forum. </entry>
+         <entry>RICHARD BAXTER (Director) is happy to return to SBCT to direct Moon Over Buffalo, having directed A Flea in Her Ear here in 2008. Over the past 35 years, he has acted in and directed numerous productions. In 2000 he moved here with his family to accept the job as Director of Special Events at Saint Mary's College. Prior to that, he was the executive director of the Creede Repertory Theatre in Creede, CO for 17 years. He holds a BFA in acting from the University of Utah. He is married to playwright Susan Baxter, and they have two children; stage manager Miranda, and film student Daniel. </entry>
+         <entry>MIRANDA BAXTER (Stage Manager) is pleased to return to SBCT to stage manage for her father, Richard, for the second time. Her SBCT credits include stage manager for A Flea in Her Ear in 2008, and stage manager for the Kids4Kids production of The Best Christmas Pageant Ever in 2009. For the past two summers she has worked at the Creede Repertory Theatre as an Assistant Stage Manager, and plans to return there for the summer of 2011 . </entry>
+         <entry>MATTHEW BELL (Richard) was in last season's And Then There Were None. Since then he was in the premiere of Jim Geisel's The Tiernan Affair with the Acting Ensemble and played Katurian in New World Arts' The Pi/Lowman. Matthew's other recent shows include the premiere of Susan Baxter's Confessions of the Chaff at St. Mary's College and, at SBCT, Doubt: A Parable, A Flea in Her Ear, The Complete Works of William Shakespeare (abridged), The Sunset Limited, and Arsenic and Old Lace. Matthew lives in South Bend with his wife and two sons and thanks his family for making all this theatrical activity possible. </entry>
+         <entry>ABBEY FRICK (Roz) fell in love with acting at an early age, often found performing one-woman shows for her parents at the ripe age of 10. Embracing her given title as the family "ham", she studied theatre at Indiana University of South Bend, appearing in roles such as Meredith in Five Women Wearing the Same Dress, Mrs. Seizmagraff in Betty's Summer Vacation and the title role in Lysistrata. This is her 7th show with SBCT and she is thrilled to appear once again on the Wilson Auditorium Mainstage. She was recently seen as Audrey in Little Shop of Horrors and Mary Hatch Bailey in It's a Wonderful Life. She would like to thank her friends and family for their continued support. </entry>
+         <entry>JAMES JONES (George Hay) was first in our 2006 production of Frozen at the Firehouse in 2006, next appeared in the Studio Theatre as Saul in True West in 2008, and is thrilled to be performing on our Mainstage. Jim served on the Boards for Footlight Players in Michigan City and Northwest Indiana Excellence in Theatre Foundation, and was the executive director of Osceola Community Theatre. Favorite roles are Captain Hook in Peter Pan, Scarecrow in The Wizard of Oz, Clifford in Deathtrap, Snoopy in Snoopy! The Musical, Ralph in Frozen and now George. Jim wants to thank director Richard Baxter for insisting on excellence and for teaching him more than he ever thought possible during a rehearsal process. He also wants to thank the talented cast for making this journey so incredibly memorable. "I would not have wanted to travel this road with a different group of people!" </entry>
+         <entry>MELISSA MANIER (Charlotte) has enjoyed a long and happy relationship with SBCT as a prior Board member, on various committees, and especially as an actor. Patrons will remember her in SBCT's The Glass Menagerie, Agnes of God, Wait Until Dark, The Dining Room, Crimes of the Heart, Dancing at Lughnasa, Boy Gets Girl, Book of Days, Blithe Spirit, Frozen, High School Musical, Death of a Salesman, and Crumbs From the Table of Joy. She has also performed for St. Macy's College, Shakescenes at Notre Dame, and the Acting Ensemble's The Tiernan Affair. She is honored to be working with this most talented director, cast, and crew, and thanks them for adjusting with great compassion and professionalism to the reality that she broke her foot midway through the rehearsal process. Life in the theatre, she adds, is never dull! </entry>
+         <entry>TAMI RAMAKER (Ethel) has her theatre degree from Purdue, began her post­grad work at Cornell, and by day is SBCT's executive director. Favorite roles include Yelena in Uncle Vanya; in three different productions -Bananas, Bunny and director for House of Blue Leaves; Rizzo in Grease:, Titania in Midsummer Night's Dream; Roxanne in Cyrano de Bergerac; Golde in Fiddler; Lucienne in A Flea in her Ear; and Cathleen in Long Day's Journey into Night. Favorite directing experiences to date are Amahl and the Night Visitors and Steel Magnolias elsewhere and our Kids4Kids' show, Best Christmas Pageant Ever. </entry>
+         <entry>BRIAN WELLS (Howard) was born in Tennessee, raised in Texas, and now resides in South Bend. He went to Indiana University of South Bend, is a case worker for Head Start, and just completed an extensive 200 hour yoga teacher training program at the Green Tree School of Yoga. Stage credits include the Hairy Man in IUSB's production of Wiley and the Hairy Man, Camille in SBCT's A Flea in her Ear (also directed by Richard Baxter), Red Dog in SBCT's Go, Dog. Go! and The Body in St. Mary's A Case of Belonging. </entry>
+         <entry>JUSTIN WILLIAMS (Paul) is thankful to have had the opportunity to work with this amazing cast and production team, and would especially like to thank Richard for helping him along this journey. Justin was last seen on our stage as Seymour in Little Shop Of Horrors last March. Some of his favorite roles include Robbie Hart in The Wedding Singer, Victor Frankenstein in Frankenstein, and Jamie in The Last Five Years. He made his professional debut at the Palais Royale last year. Justin thanks his family and friends for their support. </entry>
+      </bios>
+   </text>
+</program>

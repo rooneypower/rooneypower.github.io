@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://rooneypower.github.io/sbct/xslt/program_style_pi.xsl"?>
+<program xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:om="http://omeka.org/schemas/omeka-xml/v5"
+         xml:id="34">
+   <metadata>
+      <dc:title>Zombies From the Beyond</dc:title>
+      <dc:creator>South Bend Civic Theatre</dc:creator>
+   </metadata>
+   <text>
+      <cover>
+         <line>South Bend</line>
+         <line>CIVIC THEATRE</line>
+         <line>WINNER OF THE 2007 LEIGHTON AWARD FOR NONPROFIT EXCELLENCE</line>
+         <break/>
+         <line>With UNDERWRITING by VILLING &amp; COMPANY, INC.</line>
+         <line>PRESENTS</line>
+         <break/>
+         <line>ZOMBIES FROM THE BEYOND</line>
+         <line>Music, Lyrics, and Book by JAMES VALCQ</line>
+         <line>DIRECTED BY LEIGH TAYLOR</line>
+         <line>CHOREOGRAPHY BY STEVE A. GERGACZ &amp; RICK W. ELLIS</line>
+         <line>MUSICAL DIRECTION BY RICHARD CLAWSON</line>
+         <break/>
+         <line>APRIL 13-14-15, 18-19-20-21-22</line>
+         <line>The Barbara K. Warner Studio Theatre</line>
+         <break/>
+      </cover>
+      <crew>
+         <header>THE PRODUCTION TEAM</header>
+         <credit>
+            <role>Director </role>
+            <talent>Leigh Taylor</talent>
+         </credit>
+         <credit>
+            <role>Technical Director </role>
+            <talent>David Chudzynski</talent>
+         </credit>
+         <credit>
+            <role>Stage Manager </role>
+            <talent>Jody Thorla</talent>
+         </credit>
+         <credit>
+            <role>Musical Director </role>
+            <talent>Richard Clawson</talent>
+         </credit>
+         <credit>
+            <role>Choreographers Rick W. Ellis &amp; Steve </role>
+            <talent>A. Gergacz</talent>
+         </credit>
+         <credit>
+            <role>Tap Dance Choreography </role>
+            <talent>Nathan Mittleman</talent>
+         </credit>
+         <credit>
+            <role>Set &amp; Lighting Design </role>
+            <talent>David Chudzynski</talent>
+         </credit>
+         <credit>
+            <role>Costume Design Jonnie Kilic &amp; </role>
+            <talent>Meg Richmond</talent>
+         </credit>
+         <credit>
+            <role>Properties </role>
+            <talent>Denise Eades,  Leigh Taylor, Staff</talent>
+         </credit>
+         <credit>
+            <role>Lighting Technician </role>
+            <talent>Dan Lehner</talent>
+         </credit>
+         <credit>
+            <role>Sound Operator </role>
+            <talent>Tom Joachim</talent>
+         </credit>
+         <credit>
+            <role>Specialty Props </role>
+            <talent>Jody Thorla</talent>
+         </credit>
+         <credit>
+            <role>Vocal Coach </role>
+            <talent>Ralph Lampkin</talent>
+         </credit>
+         <credit>
+            <role>Scenic Art &amp; Construction </role>
+            <talent>David Chudzynski,  Matt Davidson, Damon Mrozcek, Steve Quesenbeny, Julia Slotnick, Jody Thorla, John Wiley</talent>
+         </credit>
+      </crew>
+      <setting>
+         <header>PLACE</header>
+         <line>The Milwaukee Space Center and Environs</line>
+         <break/>
+         <line>TIME</line>
+         <line>1955</line>
+         <break/>
+         <line>ACT ONE</line>
+         <break/>
+         <line>PROLOGUE: Outer Space SCENE ONE: Probe Seven Control Room, 10:00 A.M. SCENE TWO: The Orbit Room Cocktail Lounge, 7:00 P.M. SCENE THREE: Probe Seven Control Room, 8:00 P.M. SCENE FOUR: Mary's Car, 8:30 P.M. SCENE FlVE: The Galaxy of Coiffures Beauty Salon, 8:45 P.M.</line>
+         <break/>
+         <line>INTERMISSION</line>
+         <break/>
+         <line>ACT TWO</line>
+         <break/>
+         <line>PROLOGUE: All Over Town, 9:00 P.M.-11:00 P.M. SCENE ONE: Probe Seven Control Room, 11:45 P.M. SCENE TWO: Boudoir in Zombina's Saucer, Immediately After SCENE THREE: Milwaukee Skyline, Immediately After SCENE FOUR: Rooftop of Wisconsin Gas Company Building</line>
+         <break/>
+         <line>ZOMBIES FROM THE BEYOND premiered at the Players Theatre in New York City on October 11, 1995. It was produced by Colin Cabot; directed and choreographed by Pam Kriger and James Valcq; Andrew Wilder, musical direcior; James Schuette, set and costume designs; Ken Billington, lighting design; Ivan Pokorny, sound design; and James Valcq, orchestration.</line>
+      </setting>
+      <cast>
+         <header>THE CAST</header>
+         <credit>
+            <role>Announcer </role>
+            <talent>Jack Walton</talent>
+         </credit>
+         <credit>
+            <role>Major Malone </role>
+            <talent>Dale Ostrom</talent>
+         </credit>
+         <credit>
+            <role>Rick Jones </role>
+            <talent>Ed Ronco</talent>
+         </credit>
+         <credit>
+            <role>Charlene Osmanski </role>
+            <talent>Kathleen Canavan-Martin</talent>
+         </credit>
+         <credit>
+            <role>Billy Krutzik </role>
+            <talent>Nathan Mittleman</talent>
+         </credit>
+         <credit>
+            <role>Mary Malone </role>
+            <talent>Melanie Solnoky</talent>
+         </credit>
+         <credit>
+            <role>Trenton Corbett </role>
+            <talent>Michael Girts</talent>
+         </credit>
+         <credit>
+            <role>Zombina </role>
+            <talent>Kaitlyn Saunders</talent>
+         </credit>
+         <credit>
+            <role>Zombettes </role>
+            <talent>Stephen Bailey,  Kyle Curtis, Seyhan Kilic, Tabitha Lee, Erin Weedon</talent>
+         </credit>
+      </cast>
+      <bios>
+         <header>WHO'S WHO</header>
+         <entry>STEPHEN BAILEY (Zombette) is a freshman at IUSB, studying theatre. He was seen as Jose, the muleteer, in SBCT's production of Man of La Manchu in January and, in March. as Bob Grangerford and Abner in Huckleberry Finn. </entry>
+         <entry>RICHARD CLAWSON (Musical Director) was musical director and played the role of George Gershwin in SBCT's production of Gershwin, By George! in 2005. In 2003, he directed Civic's production of Leader of the Pack. </entry>
+         <entry>KYLE CURTIS (Zombette) is perfonning for the third time with SBCT. He plans to attend the Academy of Art university in San Francisco in January 2008. He thanks his family and a great friend for always supporting him. </entry>
+         <entry>RICK W. ELLIS (Choreographer) was seen most recently in SBCT's hit comedy Noises Off. (He was the one taking most of the pratfalls.) Rick is a former member of SBCT's board ofdirectors and its Play Selection Committee. </entry>
+         <entry>STEVE A. GERGACZ (Choreographer) also appeared in SBCT's recent pro­duction of Noises Off. He is House Manager of Civic's new 30,000-square-foot building and director of SBCT's group sales department. </entry>
+         <entry>MICHAEL GIRTS (Trenton Corbett) made his SBCT debut last season in American Buffalo. He earned his BFA in Acting from Syracuse University and is now studying improvisational comedy at Chicago's Second City. </entry>
+         <entry>THOMAS JOACHIM (Assistant Director) wishes to thank Leigh (Taylor), especially for teaching him so much; Richard (Clawson), who is a gifted musical director; Rick (Ellis) and Steve (Gergacz), for their incredible imagination with dance; Ralph (Lampkin), for his musical ear and wisdom; and the cast, for their hard work &amp; talent. </entry>
+         <entry>SEYHAN KILIC (Zombette) was seen last summer in SBCT's production of The Sound of Music at the Morris Performing Arts Center. She and her mother, Jonnie, have been busy lately organizing SBCT's new costume shop in the new building. </entry>
+         <entry>TABITHA LEE (Zombette) has done many small plays and other performances through her church. She was seen most recently in SBCT's production of Mrs. Bob Cratchit's Wild Christmas Binge. She hopes to further her career in acting. </entry>
+         <entry>KATHLEEN CANAVAN-MARTIN (Charlene) worked as a medical journalist for six years in Washington, D.C., before coming to this area in 1997. She now serves as executive editor to the Notre Dame Review, and lives here in South Bend. </entry>
+         <entry>NATHAN MITTLEMAN (Billy) is currently a senior at Riley High School. He re­ cently choreographed SBCT's season opener, Man of La Mancha, and played the role of Seymour in his high school's production of Little Shop of Horrors. </entry>
+         <entry>DALE OSTROM (Major Malone) was last seen as Al Jolson in Civic's 2005 produc­tion of Gershwin, By George! Working with the Zombies cast and crew has been a delight, he says. Thanks to his wife, Jan, for her encouragement and support. </entry>
+         <entry>ED RONCO (Rick Jones) was seen most recently at Civic as Sancho in Man of La Mancha. He has a been a Michiana resident for 18 months and part of SBCT almost as long. Other Civic credits include The Story, Tartuffe, and The Little Foxes. </entry>
+         <entry>KAITLYN SAUNDERS (Zombina) has appeared previously in productions of Grease, Oliver!, and The Fantasticks. "It's the greatest feeling in the world to perform," she says, "whether it be acting or singing. I get to leave the scruples of life behind for an hour and step in someone else's shoes." </entry>
+         <entry>MELANIE SOLNOKY (Mary Malone) recently moved back to South Bend from Indianapolis. She has been acting, singing, and dancing since the age of 7, and did dance and cheerleading at St. Joseph's High School and Purdue University. </entry>
+         <entry>LEIGH TAYLOR (Director) has directed many productions for SBCT over the past several years, ranging from Long Day's Journey to Escanaba in Da Moonlight. </entry>
+         <entry>JODY THORLA (Stage Manager) was recenily named winner of the Norma Ludwick Firehouse Award, emblematic of his selection as SBCT Volunteer of the Year in 2006. </entry>
+         <entry>JACK WALTON (Announcer) was seen most recently in SBCT's production of Mrs. Bob Cratchit's Wild Christmas Binge at The Firehouse last December. </entry>
+         <entry>ERIN WEEDON (Zombette) is a senior English major at the University of Notre Dame. She was last seen in a Notre Dame-Saint Mary's College student co­ production of The Vagina Monologues. </entry>
+      </bios>
+   </text>
+</program>
