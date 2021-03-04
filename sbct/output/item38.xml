@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<program xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:om="http://omeka.org/schemas/omeka-xml/v5"
+         xml:id="38">
+   <metadata>
+      <dc:title>Doubt: A Parable</dc:title>
+      <dc:creator>South Bend Civic Theatre</dc:creator>
+   </metadata>
+   <text>
+      <cover>
+         <line>South Bend</line>
+         <line>CIVIC THEATRE</line>
+         <line>making a dramatic difference</line>
+         <break/>
+         <line>With UNDERWRITING by</line>
+         <line>VILLING &amp; CO., ALFRED H. &amp; MARTHA J. CHOITZ,</line>
+         <line>AND FRIENDS &amp; FAMILY OF ERIC TODD COPPENS</line>
+         <break/>
+         <line>PRESENTS</line>
+         <break/>
+         <line>DOUBT</line>
+         <line>(A PARABLE)</line>
+         <line>By JOHN PATRICK SHANLEY</line>
+         <break/>
+         <line>Directed BY JIM COPPENS</line>
+         <break/>
+         <line>February 8-9-10, 13-14-15-16-17, 2008</line>
+         <line>THE BARBARA K. WARNER STUDIO THEATRE</line>
+      </cover>
+      <crew>
+         <header>THE PRODUCTION TEAM</header>
+         <credit>
+            <role>Director </role>
+            <talent>Jim Coppens</talent>
+         </credit>
+         <credit>
+            <role>Stage Manager Mary </role>
+            <talent>Ann Moran</talent>
+         </credit>
+         <credit>
+            <role>Technical Director </role>
+            <talent>David Chudzynski</talent>
+         </credit>
+         <credit>
+            <role>Set Design </role>
+            <talent>David Chudzynski,  Jim Coppens</talent>
+         </credit>
+         <credit>
+            <role>Lighting Design </role>
+            <talent>Greta Fisher</talent>
+         </credit>
+         <credit>
+            <role>Costume Designer </role>
+            <talent>Jonnie Kilic</talent>
+         </credit>
+         <credit>
+            <role>Properties </role>
+            <talent>Seyhan Kilic,  Mary Ann Moran, Cast</talent>
+         </credit>
+         <credit>
+            <role>Lighting &amp; Sound Technician </role>
+            <talent>John Wiley</talent>
+         </credit>
+         <credit>
+            <role>Set Construction </role>
+            <talent>David Chudzynski,  Matt Davidson, Carol Deeter, John Emmerson, Aislynn McGovern</talent>
+         </credit>
+      </crew>
+      <setting>
+         <header>SETTING</header>
+         <line>St. Nicholas, a Catholic school and parish in the Bronx, New York, 1964.</line>
+         <line>DOUBT will be performed without intermission. The audience is invited to reconvene in the theatre five minutes after the performance for a "Talk-Back" with the actors and director.</line>
+         <break/>
+         <line>DOUBT was originally produced by the Manhattan Theatre Club on November 23. 2004. It was originally produced on Broadway by Carole Shorenstein Hays, MTC Productions, Roger Berlind, and Scott Rudin on March 31, 2005. DOUBT won the Pulitzer Prize for Drama and the Tony Award for Best Play on Broadway in 2005.</line>
+         <break/>
+         <line>Presented by special arrangement with Dramatists Play Service, Inc.</line>
+      </setting>
+      <cast>
+         <header>THE CAST</header>
+         <credit>
+            <role>Father Brendan Flynn </role>
+            <talent>Matthew Bell</talent>
+         </credit>
+         <credit>
+            <role>Sister Aloysius Beauvier </role>
+            <talent>Jean Plumhoff</talent>
+         </credit>
+         <credit>
+            <role>Sister James </role>
+            <talent>Dana Vagg</talent>
+         </credit>
+         <credit>
+            <role>Mrs. Muller </role>
+            <talent>Sylvia Brown</talent>
+         </credit>
+      </cast>
+      <bios>
+         <header>WHO'S WHO</header>
+         <entry>MATTHEW BELL (Father Flynn) had some theatrical experience long ago and far away but made his South Bend Civic debut in A Christmas Carol this past December. Then he moved right on into rehearsals for this production. Matthew would like to thank his immensely supportive and very tolerant family. He also greatly appreciates the generosity of spirit shown by those whose advice he sought when preparing this role; for their keen insights and patient explanations, many thanks. </entry>
+         <entry>SYLVIA BROWN (Mrs. Muller) makes her SBCT debut in this production. She has appeared once before on stage, in a production of A Real Woman's Worth, in December 2007. Sylvia is an attorney in the St. Joseph County Prosecutor's Office and the mother of three beautiful children. </entry>
+         <entry>DAVID CHUDZYNSKI (Technical Director/Set Design) is the first full-time Technical Director in the history of South Bend Civic Theatre. He is also well-known as an actor, director, theatre instructor, and playwright. </entry>
+         <entry>JIM COPPENS (Director), hired in 1995 as SBCT's first Executive Director, has directed 38 community theatre productions since 1984, including, among others, Who's Afraid of Virginia Woolf?, The Glass Menagerie, I'm Not Rappaport, The Caine Mutiny Court-Martial, Love Letters, The Miracle Worker, Dancing at Lughnasa, Lost in Yonkers, Over the Tavern, Noises Off, and, most recently, 12 Angry Men. In September, in the Wilson Mainstage Auditorium, he will direct a revival of the hit-comedy The Compleat Wrks of Wm Shkspr (Abr.), which played to sold-out houses at The Firehouse in 1999. </entry>
+         <entry>GRETA FISHER (Lighting Design) is excited to be working on this SBCT production of Doubt. Her previous work for South Bend Civic Theatre in­cludes lighting for Man of La Mancha, The Belle of Amherst, and The Sound of Music. She would like to thank her family for their love and support. </entry>
+         <entry>JONNIE KILIC (Costume Designer) is a long-time volunteer and former member of the board of directors of South Bend Civic Theatre. Civic's newest staff member, she is also the newest member of SBCT's Hall of Fame. </entry>
+         <entry>MARY ANN MORAN (Stage Manager) is well-known to Civic audiences for her lead-role performances over the years in The Belle of Amherst, A Streetcar Named Desire, Long Day's Journey Into Night, All My Sons, Enchanted April, The Gin Game, and The Lion in Winter, among others. An avid reader and poet, Mary Ann is a long-time member of the theatre's Play Selection Committee. In January 2005, she was inducted into South Bend Civic Theatre's Hall of Fame. </entry>
+         <entry>JEAN PLUMHOFF (Sister Aloysius) was last seen on stage in Civic's 2005 production of Neil Simon's Lost in Yonkers at The Firehouse. A past president of South Bend Civic Theatre ( 1995), she has played lead roles also over the years in SBCT stage productions of Le/lice and Lovage. Black Coffee, Over the Tavern, and My Fair Lady, among others. She can be seen also as legendary Notre Dame football coach Ara Parseghian's secretary in the hit movie "Rudy." </entry>
+         <entry>DANA VAGG (Sister James) has played major acting roles since 1996 in SBCT productions of Blue Window, A Streetcar Named Desire, Still Life With Iris, Enchanted April, Black Coffee, Proof, Light Up the Sky, Noises Off, The Buddy Holly Story, and several others. An alumna of the Royal Academy of Dramatic Arts in London, Dana has worked as a teaching artist for several years now, as well, in SBCT's youth theatre programs. </entry>
+         <entry>UPCOMING EVENTS AND OPPORTUNITIES FOR YOUTH AT SOUTH BEND CIVIC THEATRE </entry>
+         <entry>APRIL 12-MAY 11 Our Spring Theatre workshops for Ages Kindergarten through High School </entry>
+         <entry>ALSO COMING THIS SPRING, OUR FIRST Professional SBCT Touring Production Choosing Sides for Basketball </entry>
+         <entry>To be placed on our Youth Theatre mailing list, for more information, or to book a production at YOUR elementary school or primary center: </entry>
+         <entry>Check out our website at www.sbct.org. Or contact SBCT Education Director Scot Purkeypile at (574) 234-1112. </entry>
+      </bios>
+   </text>
+</program>

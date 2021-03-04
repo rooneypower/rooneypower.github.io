@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<program xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:om="http://omeka.org/schemas/omeka-xml/v5"
+         xml:id="45">
+   <metadata>
+      <dc:title>Anna in the Tropics</dc:title>
+      <dc:creator>South Bend Civic Theatre</dc:creator>
+   </metadata>
+   <text>
+      <cover>
+         <line>South Bend</line>
+         <line>CIVIC THEATRE</line>
+         <line>Full Season Sponsor</line>
+         <line>VILLING &amp; COMPANY</line>
+         <line>marketing &amp; communications</line>
+         <line>Mainstage Sponsor</line>
+         <line>MAJORITY BUILDERS, INC</line>
+         <line>Proudly Present:</line>
+         <break/>
+         <line>Anna in the Tropics</line>
+         <line>Written by Nilo Cruz</line>
+         <line>Directed by Kevin Dreyer</line>
+         <line>June 22, 23, 29, 30 at 8 PM; June 27 at 7:30 PM;</line>
+         <line>June 24, July 1 at 3:00 PM</line>
+         <line>Wilson Mainstage Auditorium</line>
+         <break/>
+         <line>Produced by special arrangement with Dramatists Play Service, Inc.</line>
+         <break/>
+         <line>SBCT funded in part through a grant from Indiana Arts Commission &amp; National Endowment for the Arts</line>
+         <break/>
+         <line>With gratitude to the Community Foundation ofSouth Bend for administering !ACjimds, managing SBCT's endowment andfor group marketing opportunities through the Arts Everywhere.com initiative.</line>
+      </cover>
+      <cast>
+         <header>The Cast</header>
+         <credit>
+            <role>Santiago </role>
+            <talent>Patrick Trimboli</talent>
+         </credit>
+         <credit>
+            <role>Cheche </role>
+            <talent>Steven Cole</talent>
+         </credit>
+         <credit>
+            <role>Ofelia </role>
+            <talent>Alicia Flores</talent>
+         </credit>
+         <credit>
+            <role>Marela </role>
+            <talent>Amorena Ruffolo</talent>
+         </credit>
+         <credit>
+            <role>Conchita </role>
+            <talent>Consuela Howell-Wilson</talent>
+         </credit>
+         <credit>
+            <role>Palomo </role>
+            <talent>Patrick Gring</talent>
+         </credit>
+         <credit>
+            <role>Juan Julian </role>
+            <talent>Jared Roy</talent>
+         </credit>
+         <credit>
+            <role>Eliades </role>
+            <talent>Nick DeDario</talent>
+         </credit>
+      </cast>
+      <crew>
+         <header>The Production Team</header>
+         <credit>
+            <role>Director </role>
+            <talent>Kevin Dreyer</talent>
+         </credit>
+         <credit>
+            <role>Stage Manager </role>
+            <talent>Alison Huffman</talent>
+         </credit>
+         <credit>
+            <role>Scene Design </role>
+            <talent>David Chudzynski</talent>
+         </credit>
+         <credit>
+            <role>Lighting Design </role>
+            <talent>Doug Hildeman</talent>
+         </credit>
+         <credit>
+            <role>Costume Design </role>
+            <talent>Erin Hollingsworth</talent>
+         </credit>
+         <credit>
+            <role>Props </role>
+            <talent>Teri Szynski</talent>
+         </credit>
+         <credit>
+            <role>Light Board Operator </role>
+            <talent>Joseph Goepfrich</talent>
+         </credit>
+         <credit>
+            <role>Sound Board Operator </role>
+            <talent>Dominic King</talent>
+         </credit>
+         <credit>
+            <role>Stage Crew </role>
+            <talent>Donald Irmiger</talent>
+         </credit>
+         <credit>
+            <role>Dresser </role>
+            <talent>Jennifer Hinkle</talent>
+         </credit>
+         <credit>
+            <role>Production Photography </role>
+            <talent>Jon Gilchrist</talent>
+         </credit>
+      </crew>
+      <setting>
+         <header>Place</header>
+         <line>An old warehouse.</line>
+         <line>Tampa, Florida. A small town called Ybor City.</line>
+         <line>Time</line>
+         <line>1929</line>
+         <line>Will be performed with one intermission.</line>
+         <break/>
+         <line>Note: This show features smoking onstage and gunshots</line>
+         <line>Please turn off all cell phones, cameras and electronic devices.</line>
+         <line>Special Thanks</line>
+         <line>Felix Marquez and Radios Sabor Latino</line>
+         <line>WVPE</line>
+      </setting>
+      <bios>
+         <header>WHO'S WHO IN THE CAST &amp; CREATIVE TEAM</header>
+         <entry>Steven Cole (Cheche) is extremely excited to appear at SBCT once again. His previous credits include The Piano Teacher, Arsenic and Old Lace, Five Women Wearing the Same Dress and Biff in Death Of a Salesman alongside Jim Coppens' Willy Loman. Other performances include Lend Me a Tenor, Wit and Red. Steve is honored to be working with such a talented case, crew and director and cannot wait to tell the story of Anna in the Tropics to an audience. </entry>
+         <entry>Nick DeDario (Eliades) is a Senior at Holy Cross College, majoring in Philosophy with minors in Business and Theology. You may remember him from St. Mary's productions of Living Out and Eurydice. </entry>
+         <entry>Kevin Dreyer (Director) is thrilled to be working on this incredible play. This is his fourth production directing for SBCT, where he has also served on Board and found time last year to act in the Studio. He still isn't ready to give up his day jobs as Director of Theatre for the University of Notre Dame, Theatre Professor and free-lance lighting designer and is fortunate to have a theatrically inclined family who understands his wacky schedule. He is grateful for the continued support of his wife and three daughters and is humbled by the crust shown him by his wonderful case. Finally he would like to thank the Civic for the courageous decision to bring Anna in the Tropics to the Mainstage. </entry>
+         <entry>Alida Flores (Ofelia) is thrilled to be gracing the SBCT stage for the first time in Anna in the Tropics. She would like to thank her husband and two wonderful children for their love and support. ln her spare time, Alicia is an avid fiber spinner, knitter, gardener and runner. </entry>
+         <entry>Patrick Gring (Palomo) is excited to be gracing the SBCT stage for his very first performance, in Anna in the Tropics. In his free rime, Patrick enjoys cooking, and watching movies of all genres. He would like to take the time to thank his beautiful wife, Katie, for seeing the talent and potential in him, even when he doesn't seem to see it himself. </entry>
+         <entry>Erin Hollingsworth (Costume Design) is a 25 year old Bethel College graduate working on her first show at SECT and comes with costume and makeup design experience from New World Arcs, and Elkhart Civic Theatre, as well as work in the Chicago area, Massachusetts, and Missouri. She currently works as a Program Counselor with developmentally delayed individuals, and would like to thank her parents, Larry and Stella Hollingsworth, for their unconditional love and support. </entry>
+         <entry>Consuela Howell-Wilson (Conchita) is in her fourth production with SBCT having acted in Song for Coretta, and Five Women Wearing the Same Dress, and Co-directing Jar the Floor. She is excited to be able to participate in a SBCT production once again! "I want to thank God for His many blessings, my family for all of their love and support, especially Mark, my husband for not divorcing me or beating up any of the male actors who have romanced me on stage. Enjoy the show!" </entry>
+         <entry>Alison Huffman (Stage Manager) is excited to be working with SBCT again. Alison is a graduate of Bethel College where she earned a BA in business administration with a minor in theatre. Some of her SM credits include Gypsy, Blue, Jar the Floor, Five Women Wearing the Same Dress, Crumbs from the Table of Joy, Jekyll and Hyde, Ragtime, The Tiernan Affair, Meet John Doe, and Adrift in Macao. Alison would like to thank her friends and family for all their support. </entry>
+         <entry>Jared Roy (Juan Julian) considers this opportunity to work with SBCT both a privilege and pleasure, having last performed onstage with the Millsaps Players in Jackson, Mississippi during the 1990's. There he performed in The American Dream, Carnival, Electra and worked backstage on Dracula. With a Bachelor of Arts degree in Classical Studies, he sees the stage as an instrument to fulfill that injunction from the Delphic Oracle at the Temple of Apollo, 'Know Thyself,' and is grateful to family and friends for their support. </entry>
+         <entry>Amorena Ruffolo (Marela) is a graduate of IUSB with a BFA in Theatre and a Minor in Dance. She appeared with SBCT in Sticks and Bones and A Little Princess. IUSB credits include A Raisin in the Sun, A Midsummer Night's Dream; West Side Story; Alice in Wonderland. Other acting credits include And Then They Came for Me with Acting Ensemble and A Bad Year for Tomatoes with Barn Swallow Community Theatre. She would like thank her family and close friends that have always been supportive of her career. </entry>
+         <entry>Patrick Trimboli (Santiago) acted in high school (New York state) and college (Ohio) before taking a leave due to his career's erratic schedule. In 2004 he joined the now disbanded Osceola Community Players for two plays. Since then, he has appeared in SBCT's Arabian Nights, The Miracle Worker, Miracle on 34th St, Auntie Mame, and Madwoman of Chaillot; Notre Dame's Our Town and Cargo, and the locally produced movie "As Good as Black". </entry>
+         <entry>Up Next at SBCT: </entry>
+         <entry>Into the Woods July 27-August 12 Wilson Mainstage Auditorium </entry>
+         <entry>Kids4Kids: Sideways Stories from Wayside School August 17-26 Warner Studio Theatre </entry>
+      </bios>
+   </text>
+</program>

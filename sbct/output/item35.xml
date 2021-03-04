@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<program xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:om="http://omeka.org/schemas/omeka-xml/v5"
+         xml:id="35">
+   <metadata>
+      <dc:title>Private Lives</dc:title>
+      <dc:creator>South Bend Civic Theatre</dc:creator>
+   </metadata>
+   <text>
+      <cover>
+         <line>South Bend</line>
+         <line>CIVIC THEATRE</line>
+         <line>WINNER OF THE 2007 LEIGHTON AWARD FOR NONPROFIT EXCELLENCE</line>
+         <break/>
+         <line>With UNDERWRITING by</line>
+         <line>MAJORITY BUILDERS, INC., AND AM GENERAL</line>
+         <line>PRESENTS</line>
+         <line>PRIVATE LIVES</line>
+         <line>by NOEL COWARD</line>
+         <line>DIRECTED BY CRAIG MAC NAB</line>
+         <line>The Wilson Main Stage Auditorium</line>
+         <line>June 15-16-17, 21-22-23-24</line>
+      </cover>
+      <crew>
+         <header>THE PRODUCTION TEAM</header>
+         <credit>
+            <role>Director Craig </role>
+            <talent>Mac Nab</talent>
+         </credit>
+         <credit>
+            <role>Ass't. Director/Stage Manager Michele </role>
+            <talent>Mac Nab</talent>
+         </credit>
+         <credit>
+            <role>Technical Director </role>
+            <talent>David Chudzynski</talent>
+         </credit>
+         <credit>
+            <role>Set &amp; Light Design David Chudzynski &amp; </role>
+            <talent>Matt Davidson</talent>
+         </credit>
+         <credit>
+            <role>Sound Design Craig </role>
+            <talent>Mac Nab</talent>
+         </credit>
+         <credit>
+            <role>Costume Design Jonnie Kilic </role>
+            <talent>&amp; Cast</talent>
+         </credit>
+         <credit>
+            <role>Properties Michele Mac Nab &amp; </role>
+            <talent>Seyhan Kilic</talent>
+         </credit>
+         <credit>
+            <role>Sound Technician </role>
+            <talent>Seyhan Kilic</talent>
+         </credit>
+         <credit>
+            <role>Light Technician </role>
+            <talent>Liz Clouse</talent>
+         </credit>
+         <credit>
+            <role>Fight Choreographer </role>
+            <talent>Ben Little</talent>
+         </credit>
+         <credit>
+            <role>Dance Choreographer Steve </role>
+            <talent>A. Gergacz</talent>
+         </credit>
+         <credit>
+            <role>Running Crew </role>
+            <talent>Ross Ford,  Bill Kennedy, Ben Little, Ed Ronco, Jody Thorla</talent>
+         </credit>
+         <credit>
+            <role>Set Construction &amp; Painting </role>
+            <talent>Liz Clouse,  David Chudzynski, Matt Davidson, Ross Ford, Deborah Girasek-Chudzynski, Seyhan Kilic, Damon Mroczek, Scot Purkeypile, John Smail, Jody Thorla, Lorri Wright</talent>
+         </credit>
+         <credit>
+            <role>SPECIAL THANKS TO: Bernardo's </role>
+            <talent>Formal Wear,  Grape Road, Mishawaka (574-255-8818); Shirk's Piano &amp; Organ, Logan and McKinley, Mishawaka (for use of the Baby Grand)</talent>
+         </credit>
+      </crew>
+      <setting>
+         <header>SETTING</header>
+         <line>ACT I</line>
+         <line>The terrace of a hotel in France. Summer evening. Between the Wars.</line>
+         <line>ACT II</line>
+         <line>Amanda's flat in Paris. A few days later. Evening.</line>
+         <line>ACT III</line>
+         <line>The same. The next morning.</line>
+         <break/>
+         <line>Produced by Special Arrangement with Samuel French, Inc.</line>
+      </setting>
+      <cast>
+         <header>THE CAST</header>
+         <credit>
+            <role>Sibyl Chase </role>
+            <talent>Melanie Solnoky</talent>
+         </credit>
+         <credit>
+            <role/>
+            <talent>Elyot Chase,  her husband Richard Abbott</talent>
+         </credit>
+         <credit>
+            <role>Victor Prynne </role>
+            <talent>Michael Coffee</talent>
+         </credit>
+         <credit>
+            <role/>
+            <talent>Amanda Prynne,  his wife Ann Marie Stewart</talent>
+         </credit>
+         <credit>
+            <role/>
+            <talent> Louise,  a maid Kathleen Canavan-Martin</talent>
+         </credit>
+      </cast>
+      <bios>
+         <header>WHO'S WHO</header>
+         <entry>RICHARD ABBOTT (Elyot Chase) completed his B.A. in Theatre from Indiana University at Bloomington and his M.F.A. in Acting from the University of South Carolina. Richard has worked extensively in television. industrials, voice over, live narration, and theatre. He has appeared previously in SBCT productions of Noises Off, All in the Timi1ng, and Jacob Marley's Christmas Carol. </entry>
+         <entry>KATHLEEN CANAVAN-MARTIN (Louise) worked as a medical journalist for six years in Washington, D.C., before moving to the area in 1997. She received her MFA in creative writing from the University of Notre Dame, where she now serves as executive editor to the Notre Dame Review. She lives in South Bend with her husband and daughter. </entry>
+         <entry>DAVID CHUDZYNSKI (Technical Director) is the first full-time, salaried Techni- cal Director in the history of South Bend Civic Theatre. He has been the principal set designer for Civic's productions so far this year of Man of La Mancha, Noises Off, and, now, Private Lives in SBCT's new Wilson Main Stage Auditorium. </entry>
+         <entry>MICHAEL COFFEE (Victor Prynne) is delighted and excited to find himself in the new digs with a tremendously gifted cast and crew. Many thanks to Craig for the opportunity. But especially thank you to Terri, Abby, Lizzy, and Huck, who allowed him to participate, yet made it difficult to leave, all at the same time. </entry>
+         <entry>CRAIG MAC NAB (Director), a fifty-year theatre veteran, has appeared in SBCT productions of All in the Timing, The Underpants, The Little Foxes, and Noises Off. He also directed SBCT's 2006 production of Light Up the Sky. For Craig, mounting a production in the new Wilson Main Stage Auditorium, with a cast this gifted, is a profound treat. </entry>
+         <entry>MICHELE MAC NAB (Assistant Director/Stage Manager) is experiencing her first venture into the world of the theatre. It seemed strange at first; but, with her experience as a professional organizer and her attention to detail, she is beginning to feel right at home. </entry>
+         <entry>MELANIE SOLNOKY (Sibyl Chase) started her career on the stage with dancing and singing at age 6. She has starred in Grease, Zombies from the Beyond (as Mary Malone), and looks forward to many more at SBCT. After graduating from Purdue University in 2003, she moved to Indianapolis to further her career in business management. She joined 1st Source Bank in September of 2006 and is fluent in Spanish. She would like to thank her family and friends. </entry>
+         <entry>ANN MARIE STEWART (Amanda Prynne) made her SBCT debut in March in Noises Off. She holds a B.A. and an M.A. in Theatre and English from Michigan State University, and a PhD in Theatre History from the University of Colorado, where she performed with the Colorado Shakespeare Festival and the Dairy Center for the Arts. Most recently, she taught theatre at the University of Notre Dame, where she enjoyed directing students for the main stage season. She is currently publishing a book on female Restoration playwright Aphra Behn. </entry>
+         <entry>Update on SBCT's Wilson Society </entry>
+         <entry>As Civic's recent, historic building project neared its completion, the theatre's focus on endowment was greatly enhanced when the Community Foundation of St. Joseph County last September named SBCT winner of the 2007 Leighton Award for Nonprofit Excellence. </entry>
+         <entry>This award, a high honor in itself, also carried with it the prospect of a $100,000 grant, to be made on condition that SBCT donors match that amount by December 2008 in order to add $200,000 to Civic's endowment, held in perpetuity and administered by the Community Foundation as a permanent, assured source of income for South Bend Civic in the future. </entry>
+         <entry>The theatre is proud to recognize those individuals who by their generous contributions of $5,000 or more have helped SBCT to successfully meet its Leighton Challenge - nineteen months ahead of deadline! </entry>
+         <entry>They, along with all future donors of $5,000 or more to Civic's endowment, will be permanently listed as members of SBCT's Wilson Society, named for Marjorie H. &amp; James M. Wilson, after whom the theatre's new Main Audito­rium is named. They are: Gene &amp; Jane Bruce, Alfred H. &amp; Martha J. Choitz, Leslie J. Choitz, Dick &amp; Chris Currey, Tom &amp; Cathy Lower, Alex &amp; Pam Regnery, Barbara K. Warner, and Marjorie H. Wilson. </entry>
+      </bios>
+   </text>
+</program>

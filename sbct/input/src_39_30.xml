@@ -1,0 +1,2969 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itemContainer xmlns="http://omeka.org/schemas/omeka-xml/v5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://sbct.omeka.net/admin/items?page=2&amp;output=omeka-xml" accessDate="2021-02-26T11:37:48-05:00">
+  <miscellaneousContainer>
+    <pagination>
+      <pageNumber>2</pageNumber>
+      <perPage>10</perPage>
+      <totalResults>25</totalResults>
+    </pagination>
+  </miscellaneousContainer>
+  <item itemId="39" public="1" featured="0">
+    <fileContainer>
+      <file fileId="29">
+        <src>https://s3.amazonaws.com/omeka-net/54613/archive/files/70b546215683d82574ff220679ab533d.pdf?AWSAccessKeyId=AKIAI3ATG3OSQLO5HGKA&amp;Expires=1615420800&amp;Signature=GlnHS7RAf%2BWQccW8K4lT%2FnC4Cdw%3D</src>
+        <authentication>04eea9083a8cec198e709278a92886fc</authentication>
+      </file>
+    </fileContainer>
+    <collection collectionId="1">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="1">
+                  <text>The Rooney Archive</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="39">
+              <name>Creator</name>
+              <description>An entity primarily responsible for making the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="438">
+                  <text>Daniel Rooney</text>
+                </elementText>
+                <elementText elementTextId="440">
+                  <text>South Bend Civic Theatre</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="37">
+              <name>Contributor</name>
+              <description>An entity responsible for making contributions to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="439">
+                  <text>Daniel Rooney</text>
+                </elementText>
+                <elementText elementTextId="442">
+                  <text>Meg &amp; Kevin Rooney</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="40">
+              <name>Date</name>
+              <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="441">
+                  <text>2003 to 2012</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <itemType itemTypeId="18">
+      <name>Theater Program</name>
+      <description>A program handed out at a live theatrical performance.</description>
+      <elementContainer>
+        <element elementId="52">
+          <name>Playwright</name>
+          <description>the author of the piece performed, as identified on the program</description>
+          <elementTextContainer>
+            <elementText elementTextId="298">
+              <text>McGuigan, Billy</text>
+            </elementText>
+            <elementText elementTextId="299">
+              <text>Beatles</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="55">
+          <name>Play Director</name>
+          <description>the director of the performance, as identified on the program</description>
+          <elementTextContainer>
+            <elementText elementTextId="300">
+              <text>McGuigan, Billy</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="53">
+          <name>Genre</name>
+          <description>the genre of the piece performed; use a term from LCGFT</description>
+          <elementTextContainer>
+            <elementText elementTextId="301">
+              <text>Musical theater</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="54">
+          <name>Year</name>
+          <description>the year of the performance</description>
+          <elementTextContainer>
+            <elementText elementTextId="302">
+              <text>2009</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="61">
+          <name>Theatrical Venue</name>
+          <description>the performance venue, as identified on the program</description>
+          <elementTextContainer>
+            <elementText elementTextId="303">
+              <text>Wilson Mainstage Auditorium</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="1">
+          <name>Text</name>
+          <description>Any textual data included in the document</description>
+          <elementTextContainer>
+            <elementText elementTextId="434">
+              <text>South Bend &#13;
+CIVIC THEATRE   &#13;
+&#13;
+With UNDERWRITING by MEMORIAL HEALTH SYSTEMS, AM GENERAL, and THE INN AT SAINT MARY'S &#13;
+PRESENTS &#13;
+&#13;
+YESTERDAY AND TODAY &#13;
+A MUSICAL TRIBUTE TO THE BEATLES &#13;
+Produced, Directed and Conceived by BILLY McGUIGAN &#13;
+January 9-10-11, 15-16-17-18, 21 -22-23-24-25, 2009&#13;
+THE WILSON MAINSTAGE AUDITORIUM   &#13;
+&#13;
+&#13;
+THE PRODUCTION TEAM &#13;
+Director Billy McGuigan &#13;
+Musical Director Rick Avard &#13;
+Sound Design Extra Space Music &#13;
+Sound Engineer Chris Acker &#13;
+Lighting Director Liz Kendall &#13;
+Production Coordinator Kate Whitecotton &#13;
+&#13;
+Personal Management provided by Colleen Quinn &#13;
+Booking by Hyperion Production, 601 W. 177th Street, #36, New York, NY 10033 646-652-6418, booking@hyperion-productions.com &#13;
+Drums courtesy of JD Drum Center. &#13;
+"Yesterday and Today" logo and artwork designed by Christine Burright 2007 &#13;
+DIRECTOR'S NOTE: Special thanks to John, Paul, George, and Ringo for the incredible gift that they gave the world. &#13;
+&#13;
+&#13;
+WHO'S WHO &#13;
+&#13;
+RICK AVARD (Keyboards/Musical Director), is a part-time freelance pianist/keyboardist. In addition to being part of Rave On! (the Buddy Holly tribute show), he maintains a busy schedule playing with Billy McGuigan in his numerous activities all around the country. Rick has also ventured into record production, completing the production duties on Billy McGuigan's debut CD, Billy As Billy. In addition, he has spent time playing with Omaha­-based singer/songwriter Mark Irvin, appearing on Mark's three CDs. He also plays at many wedding ceremonies and is part of a worship team at Faith ­Westwood United Methodist Church in Omaha. Rick is an avid CD collector and lives in Omaha with his wife, Shannon, and daughters Katie and Allison.  &#13;
+&#13;
+Favorite Beatle: George Martin. I know, I know, but his contribution to their canon cannot be ignored. &#13;
+&#13;
+Favorite Beatle Song: "Strawberry Fields Forever," for numerous reasons: namely, it's a great song; but, more importantly, George Martin's production on this song is nothing short of amazing. His combination of two different versions of the song is sheer genius. This is The Beatles at their creative peak. &#13;
+&#13;
+JAY HANSON (Lead Guitar/Vocals) has been a Beatle fan since childhood, when he "borrowed" his sister's copy of the "Red Album" and his brother's copy of Abbey Road. (Holly and John, I promise to get those back to you soon ;^)) He is honored and thrilled to be a part of this celebration of Beatles music. Active in the music scene, Jay's "day" gig is as a recording engineer at Ware House Productions in Omaha. He dedicates this performance to the memory of his mother, Phyllis. "Thanks, Mom; the Beatles Bible has come in handy these last few months!" &#13;
+&#13;
+Favorite Beatle: Paul. &#13;
+&#13;
+Favorite Beatles Song: The Anthology II version of "And Your Bird Can Sing." It's pretty hard to narrow it down to one favorite, but the version of this song on the Anthology captures John and Paul having a great time recording in the studio. Plus, it's hard to hear that song and not laugh along!&#13;
+ &#13;
+BILLY McGUIGAN (Vocals/Guitar/Keys) is known to audiences around the &#13;
+U.S. as Buddy Holly. He has starred in some 380 performances of BUDDY: The Buddy Holly Story since originating the role in Omaha in 2002. Accolades include a Spotlight (Phoenix, AZ) Award for Best Actor in a Musical and a nomination for an Arizoni Award as Best Actor in a Musical, as well. Recently, the writers and producers of BUDDY chose Billy as their ''preferred Buddy Holly" in the United States. Billy also wrote and co-produced Rave On!, which has played all over the U.S., has been performed with symphonies, and is one of two "tribute" shows endorsed by the Buddy Holly estate. In July 2006, Billy released his much anticipated original music effort, Billy As Billy. A collection of songs written and demo-ed in post-Katrina New Orleans, Billy As Billy has received positive acclaim and reviews throughout the country. The complete list of "thank you's" for Yesterday and Today is too long to list here, but I'll throw out a few, anyway: Chip Greene, Bob Carlisle, Betsye Paragas, and Jim Othuse (for making sure this show happened), Beau Bisson, Eric Bricking, these incredible musicians on stage who I'm proud to call friends and family, The "Hollyheads," John Morrissey, Colleen Quinn, and the three most important people in my life-my beautiful wife Rachelle, incredible daughter Cartney, and baby boy Ciaran (I absolutely couldn't do this without you!). I would like to dedicate this show to my father, Bill McGuigan, who would have given anything to see his "boys" performing Beatles music on stage together. We hope you will enjoy the show! &#13;
+&#13;
+Favorite Beatle: My daughter's namesake of course, Paul McCartney. &#13;
+&#13;
+Favorite Beatles Song: Tough stuff here. "I've Got a Feeling" has always been one &#13;
+of my faves. It's the last real collaboration between John and Paul during a time when &#13;
+they were each writing their own stuff. It shows that the magic was sti11 there. "Drive &#13;
+My Car" is the song that's blowing my mind lately: great Lennon/McCartney lyric, &#13;
+great guitar work, and it just grooves. Of course, "Oh, Darling!" is my favorite to sing &#13;
+(once a week, that is). Macca at his best. &#13;
+&#13;
+MATTHEW McGUIGAN (Vocals/Bass) A man of few words, Matthew is excited to be performing Yesterday and Today. He is a graduate of PCCA in St. Petersburg, Florida, and has extensive theatrical credits, including: West Side Story (Tony), BUDDY· The Buddy Holly Story (Tommy), and Jesus Christ Superstar (Musical Director). When he's not performing with his brother Billy, he's the other half to the band Moses Prey. He's been playing music for fifteen years, and couldn't be any more excited to be a part of this production. He dedicates this performance to his wife, Christine, and to the memory of his late father, Bill. &#13;
+&#13;
+Favorite Beatle: John &#13;
+&#13;
+Favorite Beatles Song: "Happiness is a Warm Gun," because it has every angle of a &#13;
+great rock song; and, second, "A Day in a Life," because it's a masterpiece. &#13;
+&#13;
+DARREN PETTIT (Saxophone/EWI/Harmonicas/Percussion/Keys/Vocals) received &#13;
+his bachelor's degree in saxophone performance from the University of Nebraska at Omaha, and his master's from the University of Cincinnati's Conservatory ofMusic. He is currently the saxophone instructor at the University of Nebraska at Omaha, the &#13;
+director of the Metropolitan Area Youth Jazz Orchestra, and the co-founder of the &#13;
+Omaha Jazz Workshop. He also has a large studio of private students. Darren is in &#13;
+high demand as an active performer and educator in the Omaha area. &#13;
+&#13;
+Favorite Beatle: George &#13;
+&#13;
+Favorite Beatles Song: Anything from the White Album; that record changed my life!&#13;
+ &#13;
+TOMM ROLAND (Percussion/Vocals) holds a doctor of musical arts degree in percussion performance from SUNY Stony Brook. He has performed in a variety of musical settings throughout the U.S., Europe, India, and Japan. He was awarded a Fulbright grant to study the classical drumming of Southern India, where he studied mridangham and thavil with Sri T.H. Subashchandren and Sri K. Sekar. Tomm has been a featured artist/clinician at a variety of music events. His most recent recordings are Take Flight by the Omaha Symphony, Rave On: Live at the Drew, Billy McGui­gan's Billy As Billy, and Moses Prey's A Paper Moon. Tomm resides in Omaha, Nebraska, with his wife, Lesley, and sons Zachary and Dhani. &#13;
+&#13;
+Favorite Beatle: The most "fab" of the Fab Four, the man who doesn't get the respect he deserves, and the one with the coolest nickname ever: Ringo. &#13;
+&#13;
+Favorite Beatles Song: He has been listening to The Beatles since birth, a benefit of being born to California hippies during the Summer of Love. "Can't Buy Me Love" is the first song he remembers knowing how to sing as a child; and he knew the White Album backwards and forwards by the time he was seven years old. &#13;
+&#13;
+Beatle Songs, 1963-1970 &#13;
+A Day in the Life A Hard Day's Night A Taste of Honey &#13;
+Across the Universe Act Naturally All I've Got to Do &#13;
+All My Loving All Together Now All You Need Is Love &#13;
+And I Love Her And Your Bird Can Sing Anna &#13;
+Another Girl Any Time at All &#13;
+Baby You're a Rich Man Baby's in Black &#13;
+Because &#13;
+Blackbird &#13;
+Boys &#13;
+Chains &#13;
+Day Tripper &#13;
+Dig a Pony Do You Want to Know a Secret &#13;
+Drive My Car &#13;
+Every Little Thing &#13;
+Fixing A Ho1e Flying &#13;
+From Me to You Girl Good Day Sunshine Got to Get You Help! Her Majesty Hey Bulldog &#13;
+Hold Me Tight &#13;
+I Am the Walrus &#13;
+l Feel Fine &#13;
+I Need You I Should Have Known Better I Want You (She's So Heavy) I'll Cry Instead I'm a Loser I'm Looking Through You It Won't Be Long I've Got a Feeling Kansas City/ Hey, Hey, Hey, Hey &#13;
+Being for the Benefit of Mr. Kite Can't Buy Me Love Come Together Dear Prudence Dig It Doctor Robert Don't Let Me Down &#13;
+Eight Days a Week Except for Me and My Monkey &#13;
+For No One &#13;
+Get Back Glass Onion Good Morning Happiness Is a &#13;
+Warm Gun Here Comes the Sun &#13;
+Hey Jude Honey Don't I Call Your Name I Me Mine I Saw Her Standing &#13;
+There I Want to Tell You I Will If I Needed Someone I'll Follow the Sun I'm Down I'm Only Sleeping I'm So Tired It's All Too Much &#13;
+I've Just Seen a Face Lady Madonna Little Child &#13;
+Baby It's You Back in the USSR Birthday Blue Jay Way &#13;
+Carry That Weight Cry Baby Cry Devil in Her Heart Dizzy Miss Lizzy Don't Bother Me Don't Pass Me By &#13;
+Eleanor Rigby Everybody's Trying to Be My Baby For You Blue Getting Better Golden Slumbers Good Night &#13;
+Hello, Goodbye Helter Skelter Here, There, and Everywhere Honey Pie &#13;
+I Don't Want to Spoil the Party I Wanna Be Your Man I Want to Hold Your Hand &#13;
+If I Fell I'll Be Back I'll Get You I'm Happy Just to Dance with You &#13;
+In My Life It's Only Love Julia &#13;
+Let It Be Long, Long, Long &#13;
+&#13;
+Beatle Songs, Cont. &#13;
+Long Tall Sally Lovely Rita Magical Mystery Tour Matchbox Michelle Mother Nature's Son &#13;
+Norwegian Wood Ob-La-Di, Ob-La-Da Old Brown Shoe Paperback Writer Please Please Me Rain &#13;
+Rocky Raccoon Savoy Truffle She Came in Through the Bathroom Window&#13;
+Love Me Do Lucy in the Sky with Diamonds Maxwell's Silver Misery Mr. Moonlight Not a Second Time Octopus's Garden One After 909 &#13;
+Penny Lane Polythene Pam &#13;
+Revolution Roll Over Beethoven Sexy Sadie &#13;
+She Loves You &#13;
+She Said She Said &#13;
+She's Leaving Home Strawberry Fields Forever &#13;
+Thank You Girl The Fool on the Hill The Word Think for Yourself Till There Was You Two of Us What Goes On &#13;
+When I'm Sixty-Four With a Little Help from My Friends &#13;
+Words of Love Yes It Is Slow Down Sun King Tell Me What You See Bungalow Bill The Long and Winding Road &#13;
+This Boy Love You To Maggie Mae Martha My Dear Mean Mr. Mustard Money No Reply Nowhere Man Oh! Darling Only a Northern Song Please Mr. Postman &#13;
+P.S. I Love You Rock and Roll Music Run for Your Life Sgt. Pepper's Lonely Hearts Club Band &#13;
+She's a Woman Something Taxman Tell Me Why The End The Night Before Things We Said Today Ticket to Ride &#13;
+Tomorrow Never Knows Twist and Shout &#13;
+Wait What You're Doing While My Guitar Gently Weeps &#13;
+Wild Honey Pie &#13;
+Yellow Submarine &#13;
+Yesterday &#13;
+You Like Me Too Much You Never Give Me Your Money You Won't See Me  Your Mother Should Know &#13;
+You're Going to Lose That Girl &#13;
+We Can Work It Out When I Get Home Why Don't We Do It in the Road &#13;
+Within You Without You Yer Blues You Can't Do That You Really Got a Hold on Me You've Got to Hide Your Love Away</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="62">
+          <name>Performance Dates</name>
+          <description>the range of dates for a theatrical run; enter as "YYYY-MM-DD to YYYY-MM-DD"</description>
+          <elementTextContainer>
+            <elementText elementTextId="457">
+              <text>2009-01-09 to 2009-01-25</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="297">
+                <text>Yesterday and Today: A Musical Tribute to the Beatles</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="304">
+                <text>South Bend Civic Theatre</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="43">
+            <name>Identifier</name>
+            <description>An unambiguous reference to the resource within a given context</description>
+            <elementTextContainer>
+              <elementText elementTextId="305">
+                <text>sbct015</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="306">
+                <text>application/pdf</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="51">
+            <name>Type</name>
+            <description>The nature or genre of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="307">
+                <text>Text</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="1">
+        <name>musical</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="38" public="1" featured="0">
+    <fileContainer>
+      <file fileId="28">
+        <src>https://s3.amazonaws.com/omeka-net/54613/archive/files/d1f720089705405cda915e702f1566c1.pdf?AWSAccessKeyId=AKIAI3ATG3OSQLO5HGKA&amp;Expires=1615420800&amp;Signature=tOLYdeUZpeB4LxDLaeUk1IydYaY%3D</src>
+        <authentication>12a571ffcf4d3a883a54ffcfec2e5896</authentication>
+      </file>
+    </fileContainer>
+    <collection collectionId="1">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="1">
+                  <text>The Rooney Archive</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="39">
+              <name>Creator</name>
+              <description>An entity primarily responsible for making the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="438">
+                  <text>Daniel Rooney</text>
+                </elementText>
+                <elementText elementTextId="440">
+                  <text>South Bend Civic Theatre</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="37">
+              <name>Contributor</name>
+              <description>An entity responsible for making contributions to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="439">
+                  <text>Daniel Rooney</text>
+                </elementText>
+                <elementText elementTextId="442">
+                  <text>Meg &amp; Kevin Rooney</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="40">
+              <name>Date</name>
+              <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="441">
+                  <text>2003 to 2012</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <itemType itemTypeId="18">
+      <name>Theater Program</name>
+      <description>A program handed out at a live theatrical performance.</description>
+      <elementContainer>
+        <element elementId="52">
+          <name>Playwright</name>
+          <description>the author of the piece performed, as identified on the program</description>
+          <elementTextContainer>
+            <elementText elementTextId="288">
+              <text>Shanley, John Patrick</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="55">
+          <name>Play Director</name>
+          <description>the director of the performance, as identified on the program</description>
+          <elementTextContainer>
+            <elementText elementTextId="289">
+              <text>Coppens, Jim</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="53">
+          <name>Genre</name>
+          <description>the genre of the piece performed; use a term from LCGFT</description>
+          <elementTextContainer>
+            <elementText elementTextId="290">
+              <text>Drama</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="54">
+          <name>Year</name>
+          <description>the year of the performance</description>
+          <elementTextContainer>
+            <elementText elementTextId="291">
+              <text>2008</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="61">
+          <name>Theatrical Venue</name>
+          <description>the performance venue, as identified on the program</description>
+          <elementTextContainer>
+            <elementText elementTextId="292">
+              <text>Warner Studio Theatre</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="1">
+          <name>Text</name>
+          <description>Any textual data included in the document</description>
+          <elementTextContainer>
+            <elementText elementTextId="433">
+              <text>South Bend  &#13;
+CIVIC THEATRE &#13;
+making a dramatic difference &#13;
+ &#13;
+With UNDERWRITING by &#13;
+VILLING &amp; CO., ALFRED H. &amp; MARTHA J. CHOITZ, &#13;
+AND FRIENDS &amp; FAMILY OF ERIC TODD COPPENS &#13;
+&#13;
+PRESENTS &#13;
+&#13;
+DOUBT &#13;
+(A PARABLE) &#13;
+By JOHN PATRICK SHANLEY &#13;
+&#13;
+Directed BY JIM COPPENS &#13;
+ &#13;
+February 8-9-10, 13-14-15-16-17, 2008  &#13;
+THE BARBARA K. WARNER STUDIO THEATRE &#13;
+&#13;
+&#13;
+THE PRODUCTION TEAM &#13;
+Director Jim Coppens &#13;
+Stage Manager Mary Ann Moran &#13;
+Technical Director David Chudzynski &#13;
+Set Design David Chudzynski, Jim Coppens &#13;
+Lighting Design Greta Fisher &#13;
+Costume Designer Jonnie Kilic &#13;
+Properties Seyhan Kilic, Mary Ann Moran, Cast &#13;
+Lighting &amp; Sound Technician John Wiley &#13;
+Set Construction David Chudzynski, Matt Davidson, Carol Deeter, John Emmerson, Aislynn McGovern &#13;
+&#13;
+SETTING &#13;
+St. Nicholas, a Catholic school and parish in the Bronx, New York, 1964. &#13;
+DOUBT will be performed without intermission. The audience is invited to reconvene in the theatre five minutes after the performance for a "Talk-Back" with the actors and director. &#13;
+&#13;
+DOUBT was originally produced by the Manhattan Theatre Club on November 23. 2004. It was originally produced on Broadway by Carole Shorenstein Hays, MTC Productions, Roger Berlind, and Scott Rudin on March 31, 2005. DOUBT won the Pulitzer Prize for Drama and the Tony Award for Best Play on Broadway in 2005. &#13;
+&#13;
+Presented by special arrangement with Dramatists Play Service, Inc. &#13;
+&#13;
+&#13;
+THE CAST &#13;
+Father Brendan Flynn Matthew Bell &#13;
+Sister Aloysius Beauvier Jean Plumhoff &#13;
+Sister James Dana Vagg &#13;
+Mrs. Muller Sylvia Brown &#13;
+&#13;
+WHO'S WHO &#13;
+&#13;
+MATTHEW BELL (Father Flynn) had some theatrical experience long ago and far away but made his South Bend Civic debut in A Christmas Carol this past December. Then he moved right on into rehearsals for this production. Matthew would like to thank his immensely supportive and very tolerant family. He also greatly appreciates the generosity of spirit shown by those whose advice he sought when preparing this role; for their keen insights and patient explanations, many thanks. &#13;
+&#13;
+SYLVIA BROWN (Mrs. Muller) makes her SBCT debut in this production. She has appeared once before on stage, in a production of A Real Woman's Worth, in December 2007. Sylvia is an attorney in the St. Joseph County &#13;
+Prosecutor's Office and the mother of three beautiful children. &#13;
+&#13;
+DAVID CHUDZYNSKI (Technical Director/Set Design) is the first full-time Technical Director in the history of South Bend Civic Theatre. He is also well-known as an actor, director, theatre instructor, and playwright. &#13;
+&#13;
+JIM COPPENS (Director), hired in 1995 as SBCT's first Executive Director, has directed 38 community theatre productions since 1984, including, among others, Who's Afraid of Virginia Woolf?, The Glass Menagerie, I'm Not Rappaport, The Caine Mutiny Court-Martial, Love Letters, The Miracle Worker, Dancing at Lughnasa, Lost in Yonkers, Over the Tavern, Noises Off, and, most recently, 12 Angry Men. In September, in the Wilson Mainstage Auditorium, he will direct a revival of the hit-comedy The Compleat Wrks of Wm Shkspr (Abr.), which played to sold-out houses at The Firehouse in 1999. &#13;
+&#13;
+GRETA FISHER (Lighting Design) is excited to be working on this SBCT production of Doubt. Her previous work for South Bend Civic Theatre in­cludes lighting for Man of La Mancha, The Belle of Amherst, and The Sound of Music. She would like to thank her family for their love and support. &#13;
+&#13;
+JONNIE KILIC (Costume Designer) is a long-time volunteer and former member of the board of directors of South Bend Civic Theatre. Civic's newest staff member, she is also the newest member of SBCT's Hall of Fame. &#13;
+&#13;
+MARY ANN MORAN (Stage Manager) is well-known to Civic audiences for her lead-role performances over the years in The Belle of Amherst, A Streetcar Named Desire, Long Day's Journey Into Night, All My Sons, Enchanted April, The Gin Game, and The Lion in Winter, among others. An avid reader and poet, Mary Ann is a long-time member of the theatre's Play Selection Committee. In January 2005, she was inducted into South Bend Civic Theatre's Hall of Fame. &#13;
+&#13;
+JEAN PLUMHOFF (Sister Aloysius) was last seen on stage in Civic's 2005 production of Neil Simon's Lost in Yonkers at The Firehouse. A past president of South Bend Civic Theatre ( 1995), she has played lead roles also over the years in SBCT stage productions of Le/lice and Lovage. Black Coffee, Over the Tavern, and My Fair Lady, among others. She can be seen also as legendary Notre Dame football coach Ara Parseghian's secretary in the hit movie "Rudy." &#13;
+&#13;
+DANA VAGG (Sister James) has played major acting roles since 1996 in SBCT productions of Blue Window, A Streetcar Named Desire, Still Life With Iris, Enchanted April, Black Coffee, Proof, Light Up the Sky, Noises Off, The Buddy Holly Story, and several others. An alumna of the Royal Academy of Dramatic Arts in London, Dana has worked as a teaching artist for several years now, as well,  in SBCT's youth theatre programs. &#13;
+&#13;
+UPCOMING EVENTS AND OPPORTUNITIES FOR YOUTH AT &#13;
+SOUTH BEND CIVIC THEATRE &#13;
+&#13;
+APRIL 12-MAY 11 Our Spring Theatre workshops for Ages Kindergarten through High School &#13;
+&#13;
+ALSO COMING THIS SPRING, OUR FIRST Professional SBCT Touring Production &#13;
+Choosing Sides for Basketball &#13;
+&#13;
+To be placed on our Youth Theatre mailing list, for more information, or to book a production at YOUR elementary school or primary center: &#13;
+&#13;
+Check out our website at www.sbct.org. Or contact SBCT Education Director Scot Purkeypile at (574) 234-1112. </text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="62">
+          <name>Performance Dates</name>
+          <description>the range of dates for a theatrical run; enter as "YYYY-MM-DD to YYYY-MM-DD"</description>
+          <elementTextContainer>
+            <elementText elementTextId="456">
+              <text>2008-02-08 to 2008-02-17</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="287">
+                <text>Doubt: A Parable</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="293">
+                <text>South Bend Civic Theatre</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="43">
+            <name>Identifier</name>
+            <description>An unambiguous reference to the resource within a given context</description>
+            <elementTextContainer>
+              <elementText elementTextId="294">
+                <text>sbct014</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="295">
+                <text>application/pdf</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="51">
+            <name>Type</name>
+            <description>The nature or genre of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="296">
+                <text>Text</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="2">
+        <name>drama</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="37" public="1" featured="1">
+    <fileContainer>
+      <file fileId="27">
+        <src>https://s3.amazonaws.com/omeka-net/54613/archive/files/9cc26c5b2b48897e8b25f1f1ae095709.pdf?AWSAccessKeyId=AKIAI3ATG3OSQLO5HGKA&amp;Expires=1615420800&amp;Signature=QVlvgvh1UvIamNjHIgYcNt%2BEjGM%3D</src>
+        <authentication>0659bb596730f69e65818b77415bb79d</authentication>
+      </file>
+    </fileContainer>
+    <collection collectionId="1">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="1">
+                  <text>The Rooney Archive</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="39">
+              <name>Creator</name>
+              <description>An entity primarily responsible for making the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="438">
+                  <text>Daniel Rooney</text>
+                </elementText>
+                <elementText elementTextId="440">
+                  <text>South Bend Civic Theatre</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="37">
+              <name>Contributor</name>
+              <description>An entity responsible for making contributions to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="439">
+                  <text>Daniel Rooney</text>
+                </elementText>
+                <elementText elementTextId="442">
+                  <text>Meg &amp; Kevin Rooney</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="40">
+              <name>Date</name>
+              <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="441">
+                  <text>2003 to 2012</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <itemType itemTypeId="18">
+      <name>Theater Program</name>
+      <description>A program handed out at a live theatrical performance.</description>
+      <elementContainer>
+        <element elementId="52">
+          <name>Playwright</name>
+          <description>the author of the piece performed, as identified on the program</description>
+          <elementTextContainer>
+            <elementText elementTextId="277">
+              <text>Janes, Alan</text>
+            </elementText>
+            <elementText elementTextId="278">
+              <text> Bettinson, Rob</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="55">
+          <name>Play Director</name>
+          <description>the director of the performance, as identified on the program</description>
+          <elementTextContainer>
+            <elementText elementTextId="279">
+              <text>Wilder, Jeff A.</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="53">
+          <name>Genre</name>
+          <description>the genre of the piece performed; use a term from LCGFT</description>
+          <elementTextContainer>
+            <elementText elementTextId="280">
+              <text>Musical theater</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="54">
+          <name>Year</name>
+          <description>the year of the performance</description>
+          <elementTextContainer>
+            <elementText elementTextId="281">
+              <text>2007</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="61">
+          <name>Theatrical Venue</name>
+          <description>the performance venue, as identified on the program</description>
+          <elementTextContainer>
+            <elementText elementTextId="282">
+              <text>Wilson Mainstage Auditorium</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="1">
+          <name>Text</name>
+          <description>Any textual data included in the document</description>
+          <elementTextContainer>
+            <elementText elementTextId="432">
+              <text>South Bend&#13;
+CIVIC THEATRE&#13;
+WINNER OF THE&#13;
+2007 LEIGHTON AWARD FOR NONPROFIT EXCELLENCE&#13;
+&#13;
+With UNDERWRITING by&#13;
+MFB, RIVERSIDE TERRACE, MAJORITY BUILDERS, HOLLADAY PROPERTIES,&#13;
+AND SELECT HEALTH NETWORK&#13;
+PRESENTS&#13;
+BY ARRANGEMENT WITH ALAN JANES FOR THEATRE PARTNERS PRODUCTIONS LTD, LONDON&#13;
+&#13;
+Buddy:&#13;
+THE BUDDY HOLLY STORY&#13;
+Written by ALAN JANES and ROB BETTINSON&#13;
+Originally Directed by ROB BETTINSON&#13;
+Directed For South Bend Civic Theatre by JEFF WILDER&#13;
+&#13;
+THE WILSON MAIN STAGE AUDITORIUM&#13;
+September 7-8-9, 13-14-15-16, 20-21-22-23, 2007 &#13;
+&#13;
+THE PRODUCTION TEAM &#13;
+Director Jeff Wilder &#13;
+Assistant Director Ben Little &#13;
+Assistant to the Director Beth Straub &#13;
+Technical Directors David Chudzynski &amp; Damen Mroczek &#13;
+Music Director Jack Pavlekovich &#13;
+Stage Manager Tammy Pavlekovich &#13;
+Set Design Damen Mroczek &#13;
+Lighting Design David Chudzynski &#13;
+Light Operator Bill Kennedy &#13;
+Sound Operator Jeff Wilder &#13;
+Audio Support Jim Paczesny &#13;
+Costume Design Jonnie Kilic &#13;
+Costume Assistant Seyhan Kilic &#13;
+Costume Apprentice Taylor Renee Wilder &#13;
+Set Crew Cast &#13;
+Set Construction &amp; Painting David Chudzynski, Matt Davidson, Damen Mroczek, Meg Robenalt, Jody Thorla, Dana Vagg, John Wiley &#13;
+&#13;
+THE BAND &#13;
+Jack Pavlekovich (Guitar, Bass Guitar) &#13;
+Richard E. Bliley (Bass Guitar) &#13;
+Tim Jester (Guitar) &#13;
+Donald Wanjiku-Kwiatowski (a.k.a. Uncle Don) (Piano, Keyboard) &#13;
+Troy McKee (Drums) &#13;
+&#13;
+SPECIAL THANKS TO: &#13;
+College Football Hall of Fame, TPC Technologies &#13;
+&#13;
+TM2005 Buddy Holly by CMG Worldwide www.BuddyHolly.com &#13;
+&#13;
+&#13;
+&#13;
+THE CAST &#13;
+The Hayriders Richard E. Bliley, April Szymanski, Kyle Curtis, Tim Jester &#13;
+Buddy Holly Billy McGuigan &#13;
+Joe B. Mauldin Jim Paczesny &#13;
+Jerry Allison Troy McKee &#13;
+Teeny Boppers Kyle Curtis, April Szymanski, Amanda Gonzalez, Dana Vagg, Taylor Renee Wilder, Seyhan Kilic &#13;
+Hipockets Duncan Anthony Panzica &#13;
+Decca Producer Jack Pavlekovich &#13;
+Tommy (the Fourth Cricket) Tim Jester &#13;
+Norman Petty Kyle Curtis &#13;
+Vi Petty Seyhan Kilic &#13;
+New York D.J. Richard E. Bliley &#13;
+Apollo Performers Tabitha Lee, Ben Little, Rod Todd &#13;
+Maria Elena Dana Vagg &#13;
+Murray Deutch Paul Frye &#13;
+Shirley Amanda Gonzalez &#13;
+J.P. Richardson (The Big Bopper) Jack Pavlekovich &#13;
+Clear Lake Emcee Paul Frye &#13;
+Ritchie Valens  Michael Cripe*  &#13;
+Clear Lake Singers  Ben Little, Anthony Panzica,  &#13;
+Rod Todd, Jim Paczesny, Dana Vagg,  &#13;
+April Szymanski, Tabitha Lee,  &#13;
+Seyhan Kilic, Amanda Gonzalez  &#13;
+&#13;
+*Appearing courtesy of Actors Equity Association &#13;
+&#13;
+&#13;
+SETTING &#13;
+Lubbock, Texas; Nashville, Tennessee; Clovis, New Mexico; &#13;
+New York City; and Clear Lake, Iowa; between January 1956 &#13;
+and February 3, 1959 (the day the music died) &#13;
+&#13;
+MUSTCAL CREDITS &#13;
+The use of the songs in this production is by arrangement with: &#13;
+'Flower Of My Heart' Holly House Inc. &#13;
+'Ready Teddy' Unichappell Music Inc. &#13;
+'Blue Days Black Nights' Unichappell Music Inc. &#13;
+'That's All Right' Unichappell Music Inc. &#13;
+'A Teenager In Love' Unichappell Music Inc. &#13;
+'That'll Be The Day' MPL Comm. Inc. MPL/Wren &#13;
+'Peggy Sue' MPL Comm. Inc. MPL/Wren &#13;
+'Maybe Baby' MPL Comm. Inc. MPL/Wren &#13;
+'Not Fade Away' MPL Comm. Inc. MPL/Wren &#13;
+'True Love Ways' MPL Comm. Inc. MPL/Wren &#13;
+'Looking For Someone To Love' MPL Comm. Inc. MPL/Wren &#13;
+'Listen To Me' MPL Comm. Inc. MPL/Wren &#13;
+'It's So Easy To Fall Jn Love' MPL Comm. Inc. MPL/Wren &#13;
+'Well Alright' MPL Comm. Inc. MPL/Wren &#13;
+'When You Ask About Love' Acuff Rose Music Inc. &#13;
+'Words of Love' MPL Comm. Inc. &#13;
+'Oh Boy' Wren Music Co. c/o MPL &#13;
+'Rave On' Wren Music Co. c/o MPL &#13;
+'Heartbeat' Wren Music Co. c/o MPL &#13;
+'Changing All Those' Cedarwood Publishing Co. &#13;
+'Think It Over' Cedarwood Publishing Co./Southern Music Publishing Co. &#13;
+'Everyday' Southern Music Publishing Co. &#13;
+'Mailman Bring Me No More' Southern Music Publishing Co./ Beinstock Publishing &#13;
+'Peggy Sue Got Married' Southern Music Publishing Co. &#13;
+'Why Do Fools' Windswept Pacific Ent. &#13;
+'Chantilly Lace' Donald Daily, Glad Music Co./ Fort Knox Music Inc./ Trio Music Company Inc. &#13;
+'Raining In My Heart' House of Bryant Pubs. Inc. &#13;
+'It Doesn't Matter Anymore' Management Agency &#13;
+'Johnny B Goode' Isalee Music Co. &#13;
+'Rock Around With Ollie Vee' Hill and Range Songs Inc. &#13;
+All other songs, arrangements and incidental music by Paul Jury &#13;
+&#13;
+&#13;
+&#13;
+WHO'S WHO &#13;
+&#13;
+RICHARD E. BLILEY (Hayrider, New York DJ) returns to theatre after tour­ing for many years as a musician with such bands as The Four Horsemen, Del Sigma Five, Peppermint Riot. and Doc Cricket. He recorded with Bobby Darin at Roulette Records in New York. He currently plays bass guitar and provides back-up vocals for the band Chantilly Lace. Before touring, he had been directed by James Lewis Casaday, performed with Pres Players and with Country Playhouse. He welcomes the chance to perform on stage with SBCT. &#13;
+&#13;
+DAVID CHUDZYNSKI (Technical Director) is the first full-time, salaried &#13;
+Technical Director in the history of South Bend Civic Theatre. He is an &#13;
+accomplished actor, stage director, playwright, and theatre instructor, as well. &#13;
+&#13;
+MICHAEL CRIPE (Ritchie Valens, Understudy for Buddy) may be remem­bered by SBCT audiences as Max in last year's production of The Sound of Music at The Morris Performing Arts Center. A proud and long-standing &#13;
+member of Actor's Equity Association, Michael has worked in professional theatre for the past 30 years, most recently cast as a principal opposite Julie Andrews in the original Broadway production of Victor/Victoria. Michael will next be directing Smoke on the Water for Elkhart Civic Theatre. &#13;
+&#13;
+KYLE CURTIS (Norman Petty, Hayrider, Teeny Bopper) is appearing in his &#13;
+fourth SBCT production, last having been seen in Zombies From the Beyond. &#13;
+He is extremely excited to be involved with BUDDY and would like to thank &#13;
+the entire company for the experience. Thanks also to all of his friends and &#13;
+family for their constant support. "I love you all so much!" &#13;
+&#13;
+PAUL FRYE (Murray Deutch, Clear Lake Emcee) debuted on stage in SBCT's production of1/uck Finn in March, but can regularly be seen ushering at South Bend Civic productions. He would like to thank all his friends for their "understanding and tolerance with his summer-long Saturday yard sales." &#13;
+&#13;
+AMANDA GONZALES (Shirley, Teeny Bopper, Clear Lake Singer) has been involved with theatre since the age of 8, most recently in SBCT's Disney's High School Musical. Previously seen _in The Adventures of Huck Finn and The Sound of Music, she wishes to thank her family for their love and support. &#13;
+&#13;
+TIM JESTER (Tommy, Hayrider, Teeny Bopper) was led to his first production with SBCT by his lifelong fascination with Rock and Blues. Previous acting credits include: Carousel, Finian 's Rainbow, Guys &amp; Dolls, and Toni. Tim is a local guitarist, playing with various bands. He wishes to thank his family (especially his morn for his first guitar), friends, and "especially, Jeff" who convinced him he COULD play this part! &#13;
+&#13;
+Mrs. ORHAN (JONNIE) KILIC (Costumes) has served on the board of directors of SBGT. as well as the Play Selection and Long Range Planning Committees. She has directed five shows for Civic and has costumed for the theatre since 1989. She says she is excited to be overseeing the organization of the SBCT's new costume shop. &#13;
+&#13;
+SEYHAN KILIC (Vi Petty, Teeny Bopper. Clear Lake Singer), a veteran actor, director, and volunteer with SBCT, is currently the drama director at Trinity UMC in Elkhart. She has volunteered in various capacities with South Bend Civic for over fifteen years and has "enjoyed every minute of it." Holding a B.A. in theatre from MSU, she is currently seeking her Music Teaching License from Bethel College. &#13;
+&#13;
+TABITHA LEE (Apollo Performer, Clear Lake Singer) was recently seen at SBCT in Zombies from the Beyond. Previous credits include Mrs. Bob Crachit's Wild Christ­mas Binge at SBCT, as well as the lead role in Adam and Eve with Beckwith Theatre in Dowagiac. She plans to "continue her path in theatre and the performing arts." &#13;
+&#13;
+BEN LITTLE (Asst. Director, Apollo Pcrfom1er, Clear Lake Singer) is no stranger to SBCT. Past productions include Smokey Joe's Cafe, Six Degrees of Separation, Noises Off, and The World Goes 'Round, to name just a few. Ben returns rockin' and rollin' and dedicates this show to his wife, Lisa, the kids, and the SBCT audience! So, brothers and sisters, come join the party! Let's rock 'n' roll!! Oh yeahhhhhhh!!! &#13;
+&#13;
+His interpretation of Buddy Holly has taken BILLY McGUIGAN (Buddy Holly) all over the United States. He has appeared in over 300 performances of BUDDY: The Buddy Holly Story in the past five years to critical acclaim. Billy's performance in this show has also led to incredible box-office successes wherever he has performed. The Omaha Community Playhouse (2002), The Des Moines Playhouse (2003), and The Albuquerque Little Theatre (2004) all report Buddy as their No. 1 show in terms of attendance and ticket sales. Billy's performance at the Broadway Palm Theatre (2005) in Mesa, AZ, garnered a Spotlight Award for Best Actor in a Musical and a nomination for an "Arizoni" Award for Actor in a Major Musical Role. Recently, the writers and producers of BUDDY chose Billy as their "Preferred Buddy Holly" in the United States. Billy also wrote and co­produced Rave On!, which has played all over the U.S., has been performed with symphony orchestras, and is one of two "tribute" shows endorsed by the Buddy Holly Estate. Rave On! also generated three highly successful CDs: "Rave On! Live at the Drew!," "Rave On!: Live" and "Rave On!: Sessions," which are available at all performances. In July 2006, Billy released an album of original music, entitled "Billy As Billy." When not on the road, Billy lives in Omaha with his beautiful wife, Rachelle, and their amazing daughter, Cartney. &#13;
+&#13;
+TROY McKEE (Drums) traces his musical roots back at least three generations, starting with his great-great-grandfather, Cheatem. Troy began piano lessons at age 7 and got his first drum kit at age 8 and first guitar at 13. A life-long love of all things "music" and "playing in bands" led Troy to audition for BUDDY. .. and the "rest will just be Rock 'n' Roll!" &#13;
+&#13;
+JIM PACZENY (Joe B Mauldin, Clear Lake Singer) is a Mishawaka native, making &#13;
+his SBCT debut. An accomplished musician, Jim has held the stage across the U.S. &#13;
+with various bands, but this marks his first acting endeavor. He looks forward to &#13;
+working with SBCT in the future. &#13;
+&#13;
+ANTHONY PANZICA (Hipockets Duncan, Understudy for Ritchie Valens, Clear Lake Singer) notes that BUDDY is his fourth SBCT production, but his first "musical." "l feel so fortunate to have the opportunity to pursue such a creative endeavor, as life on stage encompasses all the arts." He wishes to thank all those who made work, family, and monetary sacrifices to make this show a reality. "Thanks for all your support and dedication! Enjoy the show!" &#13;
+&#13;
+JACK PAVLEKOVICH (The Big Bopper, Decca Producer, Musical Director), originally from Milwaukee, is a founding member of the regional act Chantilly Lace. He has toured as an opening act or back-up for such bands as Blood, Sweat and Tears, Jan and Dean, Rare Earth, and Peter Noone (of Herman's Hermits), to name just a few. This production holds a special place in Jack's heart, having toured with the original Crickets, with whom he continues to correspond. Jack played for SBCT's 2006 production of Always ... Patsy Cline, and was musical director for the Not Quite Professional Theatre Company's recent production of Godspell. He dedicates this performance to his lovely wife, Tammy, and their two daughters. Ashlee and Jamie. "Thanks for letting me a part of this great show!" &#13;
+&#13;
+TAMMY PAVLEKOVICH (Stage Manager), an accomplished musician since the age of six, plays the American Standard and French flute. A member of the South Bend Youth Symphony, as well as the South Bend Symphony, Tammy has graced the stage as an actress and musician. She would like to thank her husband, Jack, and daughters Aimee and Ashlee, for their "love, patience and support." &#13;
+&#13;
+BETH STAUB (Asst. to the Dir., Understudy for Vi) previously assisted Jeff with his production of Jesus Christ Superstar but BUDDY marks her first production with SBCT. Beth dedicates her work to her daughter and thanks her family and friends for all of their love and supp011. &#13;
+&#13;
+APRIL SZYMANSKI (Hayrider, Teeny Bopper, Clear Lake Singer), a senior at Washington High School, has been seen in productions of The Bear, The Man Who Came to Dinner, and, most recently, in SBCSC's production of Disney's Beauty &amp; the Beast. She plans to pursue an acting career by attending IUSB next year and hopes to participate in more SBCT productions in the future. &#13;
+&#13;
+ROD TODD (Apollo Performer, Clear Lake Singer) was seen most recently in SBCT's production of Fences and, before that, in A Lesson Before Dying, Force Continuum, Black Coffee, Wit, and A Raisin in the Sun, among others. &#13;
+&#13;
+DANA VAGG (Maria Elena, Teeny Bopper, Clear Lake Singer) has played major acting roles since 1996 in SBCT productions of Blue Window, A Streetcar Named Desire, Still Life With Iris, Enchanted April, Black Coffee, Proof, Light Up the Sky, and others. A student twice at the Royal Academy of Dramatic Arts in London, Dana has worked as a teaching artist for several years in SBCT's theatre workshops for youth. &#13;
+&#13;
+DONALD WANJIKU-KWIATKOWSKI (Piano/Keyboards) has played piano since the age of six and has perfom1ed with such bands as Reproduction, Soul Sounds, and In the Pocket. He is pleased to be making his SBCT debut in BUDDY! &#13;
+&#13;
+JEFF WILDER (Director) has directed and performed previously in SBCT pro­ductions of Smokey Joe's Cafe, The World Goes 'Round, and the 2006 hit, Always . .. Patsy Cline, to name just a few. Jeff wishes to thank Jack "for talking him into directing this show in the first place," and this "fantastic cast and band! You guys ROCK!!" Most importantly, he wishes to thank his wife and family for "sticking by him through this show and every other one, too!" &#13;
+&#13;
+TAYLOR RENEE WILDER (Teeny Bopper). as part of a "theatre family," has been actively involved with productions since the age of nine. Her debut performance was in Baby, That's Rock 'n' Roll. She has also appeared in SBCT's The World Goes 'Round and Curtain Up! Theatricals' Jesus Christ Superstar. She would like to thank her mom, dad, and family for their support. &#13;
+&#13;
+AN UPDATE ON &#13;
+The South Bend Civic &#13;
+Wilson Society &#13;
+&#13;
+Following on the heels of one of the most ambitious building campaigns in the history of American commw1ity theatre, South Bend Civic Theatre is proud to announce the first members to join SBCT's Wilson Society, a select group of donors dedicated to securing with endowment gifts of $5,000 or more the theatre's health and prosperity for the next 50 years and beyond. They are: &#13;
+Gene &amp; Jane Bruce Alfred H. &amp; Martha J. Choitz Leslie J. Choitz Dick &amp; Chris Currey Tom &amp; Cathy Lower Alex &amp; Pam Regnery Barbara K. Warner Marjorie H. Wilson </text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="62">
+          <name>Performance Dates</name>
+          <description>the range of dates for a theatrical run; enter as "YYYY-MM-DD to YYYY-MM-DD"</description>
+          <elementTextContainer>
+            <elementText elementTextId="455">
+              <text>2007-09-07 to 2007-09-23</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="276">
+                <text>Buddy: The Buddy Holly Story</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="283">
+                <text>South Bend Civic Theatre</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="43">
+            <name>Identifier</name>
+            <description>An unambiguous reference to the resource within a given context</description>
+            <elementTextContainer>
+              <elementText elementTextId="284">
+                <text>sbct013</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="285">
+                <text>application/pdf</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="51">
+            <name>Type</name>
+            <description>The nature or genre of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="286">
+                <text>Text</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="1">
+        <name>musical</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="36" public="1" featured="0">
+    <fileContainer>
+      <file fileId="26">
+        <src>https://s3.amazonaws.com/omeka-net/54613/archive/files/2cc8e9fa92167aaf64a436206d1148e4.pdf?AWSAccessKeyId=AKIAI3ATG3OSQLO5HGKA&amp;Expires=1615420800&amp;Signature=611SV%2B2vNCYrFUFuOhYLGzfhx40%3D</src>
+        <authentication>dfbb553e5d886824717a2f64fff9bba5</authentication>
+      </file>
+    </fileContainer>
+    <collection collectionId="1">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="1">
+                  <text>The Rooney Archive</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="39">
+              <name>Creator</name>
+              <description>An entity primarily responsible for making the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="438">
+                  <text>Daniel Rooney</text>
+                </elementText>
+                <elementText elementTextId="440">
+                  <text>South Bend Civic Theatre</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="37">
+              <name>Contributor</name>
+              <description>An entity responsible for making contributions to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="439">
+                  <text>Daniel Rooney</text>
+                </elementText>
+                <elementText elementTextId="442">
+                  <text>Meg &amp; Kevin Rooney</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="40">
+              <name>Date</name>
+              <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="441">
+                  <text>2003 to 2012</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <itemType itemTypeId="18">
+      <name>Theater Program</name>
+      <description>A program handed out at a live theatrical performance.</description>
+      <elementContainer>
+        <element elementId="52">
+          <name>Playwright</name>
+          <description>the author of the piece performed, as identified on the program</description>
+          <elementTextContainer>
+            <elementText elementTextId="267">
+              <text>Blessing, Lee</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="55">
+          <name>Play Director</name>
+          <description>the director of the performance, as identified on the program</description>
+          <elementTextContainer>
+            <elementText elementTextId="268">
+              <text>Farren, Terry</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="53">
+          <name>Genre</name>
+          <description>the genre of the piece performed; use a term from LCGFT</description>
+          <elementTextContainer>
+            <elementText elementTextId="269">
+              <text>Drama</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="54">
+          <name>Year</name>
+          <description>the year of the performance</description>
+          <elementTextContainer>
+            <elementText elementTextId="270">
+              <text>2007</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="61">
+          <name>Theatrical Venue</name>
+          <description>the performance venue, as identified on the program</description>
+          <elementTextContainer>
+            <elementText elementTextId="271">
+              <text>Warner Studio Theatre</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="1">
+          <name>Text</name>
+          <description>Any textual data included in the document</description>
+          <elementTextContainer>
+            <elementText elementTextId="431">
+              <text>South Bend &#13;
+CIVIC THEATRE &#13;
+WINNER OF THE 2007 LEIGHTON AWARD FOR NONPROFIT EXCELLENCE &#13;
+&#13;
+With UNDERWRITING by&#13;
+VILLING &amp; CO., INC., AND AEP INDIANA MICHIGAN POWER&#13;
+PRESENTS&#13;
+&#13;
+A Body of Water&#13;
+By LEE BLESSING&#13;
+Directed By TERRY FARREN&#13;
+May 25-26-27, 30-31 June 1-2-3, 2007&#13;
+The Barbara K. Warner Studio Theatre&#13;
+&#13;
+THE PRODUCTION TEAM &#13;
+Director Terry Farren &#13;
+Consultant Director Douglas Streich &#13;
+Stage Manager Jody Thorla &#13;
+Technical Director David Chudzynski &#13;
+Set &amp; Lighting Design David Chudzynski &#13;
+Costume Design Jean Savarese &#13;
+Properties Seyhan Kilic &#13;
+Sound Design Rick W. Ellis &amp; Terry Farren &#13;
+Lighting &amp; Sound Technicians Terry Dawson, Seyhan Kilic, Jody Thorla, &#13;
+Set Construction David Chudzynski, Matt Davidson, Jody Thorla &#13;
+Stage Crew Carlie Barr, Steve Chung, Jodv Thorla &#13;
+Lobby Display Carlie Barr, Terry Dawson &#13;
+&#13;
+Special Thanks &#13;
+Melissa Stolfo and Terry Dawson &#13;
+&#13;
+SETTING &#13;
+Scene i-A Bright Summer Morning &#13;
+Scene ii-Several Minutes Later &#13;
+Scene iii-Same Day/Late Afternoon &#13;
+&#13;
+INTERMISSION &#13;
+&#13;
+Scene iv-A Sunny Morning/A Couple of Days Later &#13;
+Scene v-A Gray Morning&#13;
+ &#13;
+"The light of memory, or rather the light that memory lends to things, is the palest light of all...I am not quite sure whether I am dreaming or remembering, whether I have lived my life or dreamed it. Just as dreams do, memory makes me profoundly aware of the unreality, the evanescence of the world, a fleeting image in the moving water." Eugene Ionesco &#13;
+&#13;
+A Body of Water had its World Premiere at The Guthrie Theatre on June 11 , 2005 and won the 2006 Steinberg Award for Best New Play. &#13;
+&#13;
+&#13;
+&#13;
+THE CAST &#13;
+Moss Kevin Egelsky &#13;
+Avis Melissa Gard &#13;
+Wren Emily Pickerell &#13;
+&#13;
+&#13;
+Who's Who &#13;
+&#13;
+DAVID CHUDZYNSKI (Technical Director/Set &amp; Lighting Design) is the first full-time Technical Director in the history of SBCT. He is also well-known as an actor, director, theatre instructor, and playwright. &#13;
+&#13;
+KEVIN EGELSKY (Moss) Kevin is ... "94% water." (Kevin was last seen in SBCT's production of American Buffalo as Donny.) &#13;
+&#13;
+TERRY FARREN( Director) Other directing credits at SBCT over the years include American Buffalo Of Mice and Men, The Diary of Anne Frank, A Piece of My Heart, and Night Breath. A theatre graduate of Ohio University, Terry worked in Los Angeles for ten years as a professional actor/director. He and his wife, Sara, an SBCT youth theatre instructor, are both active in the adult drama ministry at Clay United Methodist Church. Terry would like to state that he "never realized how rich and deep A Body of Water could be," and would like to thank "the entire flock for their dedication and love of Water." &#13;
+&#13;
+MELISSA GARD (Avis) states that she "feels amazingly comfortable in this new theatre nest." She would like to tell you more about her history, but...she just "doesn't remember." (A twenty-year Civic veteran, Melissa was last seen as Stella in Light Up the Sky.) &#13;
+&#13;
+EMILY PICKERILL (Wren) has discovered a "renewed appreciation for spar­&#13;
+rows." She has enjoyed "stretching her wings" for the first time at SBCT. &#13;
+&#13;
+DOUGLAS STREICH (Consultant Director) is pleased to be able to complete &#13;
+another tutorial in directing with Terry Farren. Doug, himself, recently directed &#13;
+SBCT's The Gin Game, which took first place honors at the Indiana Commu­nity Theatre League competition in March as well as second place at the re­gional competition for the American Association of Community Theatres in April. &#13;
+&#13;
+JODY THORLA (Stage Manager) would like to thank the entire cast for the &#13;
+opportunity to work with three such talented individuals, and to Terry, "Let's &#13;
+Rock and Roll! and many thanks for including me." Jody also thanks SBCT for &#13;
+the "continued" opportunities to earn and keep his 2006 Volunteer of the Year Award. &#13;
+&#13;
+&#13;
+ANNOUNCING THE FORMATION OF &#13;
+The South Bend Civic &#13;
+Wilson Society&#13;
+ &#13;
+Following on the heels of one of the most ambitious building campaigns in the history of American community theatre, South Bend Civic Theatre is proud to announce the formation and the first members to join SBCT's Wilson Society, a select group of donors dedicated to securing with endowment gifts of $5,000 or more the theatre's health and prosperity for the next 50 years and beyond. &#13;
+As Civic's recent, historic building project neared its completion, the theatre's focus on endowment was greatly enhanced, when the Com­munity Foundation of St. Joseph County in September named SBCT winner of the 2007 Leighton Award for Nonprofit Excellence. This award, a high honor in itself, also carries with it a $100,000 Challenge Grant, which SBCT donors must match by De­cember 2007 in order to add $200,000 to Civic's endowment, held in perpetuity and administered by the Community Foundation as a per­manently protected and assured source of income for South Bend Civic Theatre in the future. &#13;
+Spurred by this challenge, Marjorie H. Wilson, wife of the late Dr. James M. Wilson, in both of whose names our new main auditorium was dedicated, generously offered to motivate prospective Civic do­nors even further by agreeing to match every gift of $5,000 or more that helped SBCT meet its Leighton Award challenge. &#13;
+In her honor, the theatre is proud to recognize those individuals who by their generosity have so far qualified for inclusion in Civic's Wil­son Society. They are: &#13;
+Alfred H. &amp; Martha J. Choitz &#13;
+Leslie J. Choitz &#13;
+Dick &amp; Chris Currey &#13;
+Tom &amp; Cathy Lower &#13;
+Alex &amp; Pam Regnery &#13;
+Barbara K. Warner </text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="62">
+          <name>Performance Dates</name>
+          <description>the range of dates for a theatrical run; enter as "YYYY-MM-DD to YYYY-MM-DD"</description>
+          <elementTextContainer>
+            <elementText elementTextId="454">
+              <text>2007-05-25 to 2007-06-03</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="266">
+                <text>A Body of Water</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="272">
+                <text>South Bend Civic Theatre</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="43">
+            <name>Identifier</name>
+            <description>An unambiguous reference to the resource within a given context</description>
+            <elementTextContainer>
+              <elementText elementTextId="273">
+                <text>sbct012</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="274">
+                <text>application/pdf</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="51">
+            <name>Type</name>
+            <description>The nature or genre of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="275">
+                <text>Text</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="2">
+        <name>drama</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="35" public="1" featured="1">
+    <fileContainer>
+      <file fileId="25">
+        <src>https://s3.amazonaws.com/omeka-net/54613/archive/files/2dfb795e87309b0898bde6096b3fef39.pdf?AWSAccessKeyId=AKIAI3ATG3OSQLO5HGKA&amp;Expires=1615420800&amp;Signature=ayrstbBEeJRW9Pkp3gkSK7xhvxY%3D</src>
+        <authentication>6d47e895f726c11af50fe9b4beb359ed</authentication>
+      </file>
+    </fileContainer>
+    <collection collectionId="1">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="1">
+                  <text>The Rooney Archive</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="39">
+              <name>Creator</name>
+              <description>An entity primarily responsible for making the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="438">
+                  <text>Daniel Rooney</text>
+                </elementText>
+                <elementText elementTextId="440">
+                  <text>South Bend Civic Theatre</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="37">
+              <name>Contributor</name>
+              <description>An entity responsible for making contributions to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="439">
+                  <text>Daniel Rooney</text>
+                </elementText>
+                <elementText elementTextId="442">
+                  <text>Meg &amp; Kevin Rooney</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="40">
+              <name>Date</name>
+              <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="441">
+                  <text>2003 to 2012</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <itemType itemTypeId="18">
+      <name>Theater Program</name>
+      <description>A program handed out at a live theatrical performance.</description>
+      <elementContainer>
+        <element elementId="52">
+          <name>Playwright</name>
+          <description>the author of the piece performed, as identified on the program</description>
+          <elementTextContainer>
+            <elementText elementTextId="257">
+              <text>Coward, Noel, 1899-1973</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="55">
+          <name>Play Director</name>
+          <description>the director of the performance, as identified on the program</description>
+          <elementTextContainer>
+            <elementText elementTextId="258">
+              <text>Mac Nab, Craig</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="53">
+          <name>Genre</name>
+          <description>the genre of the piece performed; use a term from LCGFT</description>
+          <elementTextContainer>
+            <elementText elementTextId="259">
+              <text>Comedy plays</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="54">
+          <name>Year</name>
+          <description>the year of the performance</description>
+          <elementTextContainer>
+            <elementText elementTextId="260">
+              <text>2007</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="61">
+          <name>Theatrical Venue</name>
+          <description>the performance venue, as identified on the program</description>
+          <elementTextContainer>
+            <elementText elementTextId="261">
+              <text>Wilson Mainstage Auditorium</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="1">
+          <name>Text</name>
+          <description>Any textual data included in the document</description>
+          <elementTextContainer>
+            <elementText elementTextId="430">
+              <text>South Bend &#13;
+CIVIC THEATRE &#13;
+WINNER OF THE 2007 LEIGHTON AWARD FOR NONPROFIT EXCELLENCE &#13;
+&#13;
+With UNDERWRITING by&#13;
+MAJORITY BUILDERS, INC., AND AM GENERAL&#13;
+PRESENTS &#13;
+PRIVATE LIVES&#13;
+by NOEL COWARD &#13;
+DIRECTED BY CRAIG MAC NAB &#13;
+The Wilson Main Stage Auditorium &#13;
+June 15-16-17, 21-22-23-24&#13;
+&#13;
+&#13;
+THE PRODUCTION TEAM &#13;
+Director Craig Mac Nab &#13;
+Ass't. Director/Stage Manager Michele Mac Nab &#13;
+Technical Director David Chudzynski &#13;
+Set &amp; Light Design David Chudzynski &amp; Matt Davidson &#13;
+Sound Design Craig Mac Nab &#13;
+Costume Design Jonnie Kilic &amp; Cast &#13;
+Properties Michele Mac Nab &amp; Seyhan Kilic &#13;
+Sound Technician Seyhan Kilic &#13;
+Light Technician Liz Clouse &#13;
+Fight Choreographer Ben Little &#13;
+Dance Choreographer Steve A. Gergacz &#13;
+Running Crew Ross Ford, Bill Kennedy, Ben Little, Ed Ronco, Jody Thorla &#13;
+Set Construction &amp; Painting Liz Clouse, David Chudzynski, Matt Davidson, Ross Ford, Deborah Girasek-Chudzynski, Seyhan Kilic, Damon Mroczek, Scot Purkeypile, John Smail, Jody Thorla, Lorri Wright &#13;
+SPECIAL THANKS TO: Bernardo's Formal Wear, Grape Road, Mishawaka (574-255-8818); Shirk's Piano &amp; Organ, Logan and McKinley, Mishawaka (for use of the Baby Grand) &#13;
+&#13;
+SETTING &#13;
+ACT I &#13;
+The terrace of a hotel in France. Summer evening. Between the Wars. &#13;
+ACT II &#13;
+Amanda's flat in Paris. A few days later. Evening. &#13;
+ACT III &#13;
+The same. The next morning.&#13;
+ &#13;
+Produced by Special Arrangement with Samuel French, Inc. &#13;
+&#13;
+&#13;
+THE CAST &#13;
+Sibyl Chase Melanie Solnoky &#13;
+Elyot Chase, her husband Richard Abbott &#13;
+Victor Prynne Michael Coffee &#13;
+Amanda Prynne, his wife Ann Marie Stewart &#13;
+Louise, a maid Kathleen Canavan-Martin &#13;
+&#13;
+&#13;
+WHO'S WHO &#13;
+&#13;
+RICHARD ABBOTT (Elyot Chase) completed his B.A. in Theatre from Indiana &#13;
+University at Bloomington and his M.F.A. in Acting from the University of South &#13;
+Carolina. Richard has worked extensively in television. industrials, voice over, live &#13;
+narration, and theatre. He has appeared previously in SBCT productions of Noises &#13;
+Off, All in the Timi1ng, and Jacob Marley's Christmas Carol. &#13;
+&#13;
+KATHLEEN CANAVAN-MARTIN (Louise) worked as a medical journalist for six &#13;
+years in Washington, D.C., before moving to the area in 1997. She received her &#13;
+MFA in creative writing from the University of Notre Dame, where she now serves &#13;
+as executive editor to the Notre Dame Review. She lives in South Bend with her &#13;
+husband and daughter. &#13;
+&#13;
+DAVID CHUDZYNSKI (Technical Director) is the first full-time, salaried Techni-&#13;
+cal Director in the history of South Bend Civic Theatre. He has been the principal &#13;
+set designer for Civic's productions so far this year of Man of La Mancha, Noises &#13;
+Off, and, now, Private Lives in SBCT's new Wilson Main Stage Auditorium. &#13;
+&#13;
+MICHAEL COFFEE (Victor Prynne) is delighted and excited to find himself in the &#13;
+new digs with a tremendously gifted cast and crew. Many thanks to Craig for the &#13;
+opportunity. But especially thank you to Terri, Abby, Lizzy, and Huck, who &#13;
+allowed him to participate, yet made it difficult to leave, all at the same time. &#13;
+&#13;
+CRAIG MAC NAB (Director), a fifty-year theatre veteran, has appeared in SBCT &#13;
+productions of All in the Timing, The Underpants, The Little Foxes, and Noises Off. He also directed SBCT's 2006 production of Light Up the Sky. For Craig, mounting a production in the new Wilson Main Stage Auditorium, with a cast this gifted, is a profound treat. &#13;
+&#13;
+MICHELE MAC NAB (Assistant Director/Stage Manager) is experiencing her first &#13;
+venture into the world of the theatre. It seemed strange at first; but, with her &#13;
+experience as a professional organizer and her attention to detail, she is beginning to feel right at home. &#13;
+&#13;
+MELANIE SOLNOKY (Sibyl Chase) started her career on the stage with dancing and singing at age 6. She has starred in Grease, Zombies from the Beyond (as Mary Malone), and looks forward to many more at SBCT. After graduating from Purdue University in 2003, she moved to Indianapolis to further her career in business management. She joined 1st Source Bank in September of 2006 and is fluent in Spanish. She would like to thank her family and friends. &#13;
+&#13;
+ANN MARIE STEWART (Amanda Prynne) made her SBCT debut in March in &#13;
+Noises Off. She holds a B.A. and an M.A. in Theatre and English from Michigan &#13;
+State University, and a PhD in Theatre History from the University of Colorado, &#13;
+where she performed with the Colorado Shakespeare Festival and the Dairy Center for the Arts. Most recently, she taught theatre at the University of Notre Dame, where she enjoyed directing students for the main stage season. She is currently publishing a book on female Restoration playwright Aphra Behn. &#13;
+&#13;
+Update on SBCT's Wilson Society&#13;
+&#13;
+As Civic's recent, historic building project neared its completion, the theatre's focus on endowment was greatly enhanced when the Community Foundation of St. Joseph County last September named SBCT winner of the &#13;
+2007 Leighton Award for Nonprofit Excellence. &#13;
+&#13;
+This award, a high honor in itself, also carried with it the prospect of a $100,000 grant, to be made on condition that SBCT donors match that amount by December 2008 in order to add $200,000 to Civic's endowment, held in perpetuity and administered by the Community Foundation as a permanent, assured source of income for South Bend Civic in the future. &#13;
+&#13;
+The theatre is proud to recognize those individuals who by their generous contributions of $5,000 or more have helped SBCT to successfully meet its Leighton Challenge - nineteen months ahead of deadline! &#13;
+&#13;
+They, along with all future donors of $5,000 or more to Civic's endowment, will be permanently listed as members of SBCT's Wilson Society, named for Marjorie H. &amp; James M. Wilson, after whom the theatre's new Main Audito­rium is named. They are: Gene &amp; Jane Bruce, Alfred H. &amp; Martha J. Choitz, Leslie J. Choitz, Dick &amp; Chris Currey, Tom &amp; Cathy Lower, Alex &amp; Pam Regnery, Barbara K. Warner, and Marjorie H. Wilson. </text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="62">
+          <name>Performance Dates</name>
+          <description>the range of dates for a theatrical run; enter as "YYYY-MM-DD to YYYY-MM-DD"</description>
+          <elementTextContainer>
+            <elementText elementTextId="453">
+              <text>2007-06-15 to 2007-06-24</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="256">
+                <text>Private Lives</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="262">
+                <text>South Bend Civic Theatre</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="43">
+            <name>Identifier</name>
+            <description>An unambiguous reference to the resource within a given context</description>
+            <elementTextContainer>
+              <elementText elementTextId="263">
+                <text>sbct011</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="264">
+                <text>application/pdf</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="51">
+            <name>Type</name>
+            <description>The nature or genre of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="265">
+                <text>Text</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="3">
+        <name>comedy</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="34" public="1" featured="0">
+    <fileContainer>
+      <file fileId="24">
+        <src>https://s3.amazonaws.com/omeka-net/54613/archive/files/5844e7a96c590d4d45783ea467d20ef1.pdf?AWSAccessKeyId=AKIAI3ATG3OSQLO5HGKA&amp;Expires=1615420800&amp;Signature=5yRRQy0jnokqtHAmoET1WXASt7M%3D</src>
+        <authentication>0d1d4269c10a5d539fdf4a12b2d34990</authentication>
+      </file>
+    </fileContainer>
+    <collection collectionId="1">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="1">
+                  <text>The Rooney Archive</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="39">
+              <name>Creator</name>
+              <description>An entity primarily responsible for making the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="438">
+                  <text>Daniel Rooney</text>
+                </elementText>
+                <elementText elementTextId="440">
+                  <text>South Bend Civic Theatre</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="37">
+              <name>Contributor</name>
+              <description>An entity responsible for making contributions to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="439">
+                  <text>Daniel Rooney</text>
+                </elementText>
+                <elementText elementTextId="442">
+                  <text>Meg &amp; Kevin Rooney</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="40">
+              <name>Date</name>
+              <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="441">
+                  <text>2003 to 2012</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <itemType itemTypeId="18">
+      <name>Theater Program</name>
+      <description>A program handed out at a live theatrical performance.</description>
+      <elementContainer>
+        <element elementId="52">
+          <name>Playwright</name>
+          <description>the author of the piece performed, as identified on the program</description>
+          <elementTextContainer>
+            <elementText elementTextId="247">
+              <text>Valcq, James</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="55">
+          <name>Play Director</name>
+          <description>the director of the performance, as identified on the program</description>
+          <elementTextContainer>
+            <elementText elementTextId="248">
+              <text>Taylor, Leigh</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="53">
+          <name>Genre</name>
+          <description>the genre of the piece performed; use a term from LCGFT</description>
+          <elementTextContainer>
+            <elementText elementTextId="249">
+              <text>Musical theater</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="54">
+          <name>Year</name>
+          <description>the year of the performance</description>
+          <elementTextContainer>
+            <elementText elementTextId="250">
+              <text>2007</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="61">
+          <name>Theatrical Venue</name>
+          <description>the performance venue, as identified on the program</description>
+          <elementTextContainer>
+            <elementText elementTextId="251">
+              <text>Warner Studio Theatre</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="1">
+          <name>Text</name>
+          <description>Any textual data included in the document</description>
+          <elementTextContainer>
+            <elementText elementTextId="429">
+              <text>South Bend &#13;
+CIVIC THEATRE &#13;
+WINNER OF THE 2007 LEIGHTON AWARD FOR NONPROFIT EXCELLENCE &#13;
+&#13;
+With UNDERWRITING by VILLING &amp; COMPANY, INC. &#13;
+PRESENTS &#13;
+&#13;
+ZOMBIES FROM THE BEYOND &#13;
+Music, Lyrics, and Book by JAMES VALCQ &#13;
+DIRECTED BY LEIGH TAYLOR &#13;
+CHOREOGRAPHY BY STEVE A. GERGACZ &amp; RICK W. ELLIS &#13;
+MUSICAL DIRECTION BY RICHARD CLAWSON &#13;
+&#13;
+APRIL 13-14-15, 18-19-20-21-22 &#13;
+The Barbara K. Warner Studio Theatre &#13;
+&#13;
+THE PRODUCTION TEAM&#13;
+Director Leigh Taylor&#13;
+Technical Director David Chudzynski &#13;
+Stage Manager Jody Thorla &#13;
+Musical Director Richard Clawson &#13;
+Choreographers Rick W. Ellis &amp; Steve A. Gergacz &#13;
+Tap Dance Choreography Nathan Mittleman &#13;
+Set &amp; Lighting Design David Chudzynski &#13;
+Costume Design Jonnie Kilic &amp; Meg Richmond &#13;
+Properties Denise Eades, Leigh Taylor, Staff &#13;
+Lighting Technician Dan Lehner &#13;
+Sound Operator Tom Joachim &#13;
+Specialty Props Jody Thorla &#13;
+Vocal Coach Ralph Lampkin &#13;
+Scenic Art &amp; Construction David Chudzynski, Matt Davidson, Damon Mrozcek, Steve Quesenbeny, Julia Slotnick, Jody Thorla, John Wiley &#13;
+&#13;
+SPECIAL THANKS TO: Sheila Fredrickson and Sevim Kilic. &#13;
+&#13;
+&#13;
+ORCHESTRA &#13;
+Richard Clawson, Keyboards &#13;
+Aaron Nichols, Percussion &#13;
+&#13;
+&#13;
+MUSICAL NUMBERS &#13;
+&#13;
+ACT ONE &#13;
+&#13;
+THE SKY'S THE LIMIT ......... Malone, Rick, Charlie, Bill, Mary, Trenton &#13;
+A FLYING SAUCER .................................................. Mary. Trenton, Rick &#13;
+THE ROCKET-ROLL ................................................................ Rick, Mary &#13;
+SECOND PLANET ON THE RIGHT .................................. Trenton, Mary &#13;
+BLAST OFF BABY ....................................... ........... Charlie. Rick. Trenton &#13;
+ATOMIC FEET ....................... . ................................................. Billy &#13;
+FLYING SAUCER REPRISE .. ........ Malone, Charlie, Trenton. Rick &#13;
+BIG WIG ···········•··················•··· .. ··············· .. ···•························ ····· ....... Rick &#13;
+IN THE STARS ................... ....... ........... .................... Mary. Ensemble &#13;
+SECRET WEAPON ......................... .................................. , .......... Zombina &#13;
+ZOMBIES FROM THE BEYOND............ .Zombina. Rick, The Zombettes &#13;
+&#13;
+ACT TWO &#13;
+&#13;
+DATELINE: MILWAUKEE ......................... Malone, Trenton, Mary, Billy &#13;
+SECOND PLANET REPRISE ............................................... Trenton, Mary &#13;
+THE AMERICAN WAY ......................................... Trenton, Malone, Mary &#13;
+I AM A ZOMBIE ................................................................ Rick, Company &#13;
+THE LAST MAN ON EARTH....................................................... Zombina &#13;
+BREAKING THE SOUND BARRIER......................... Zombina, Company &#13;
+KEEP WATCHING THE SKIES .................................... Malone, Company &#13;
+&#13;
+&#13;
+SYNOPSIS OF SCENES &#13;
+PLACE &#13;
+The Milwaukee Space Center and Environs &#13;
+&#13;
+TIME &#13;
+1955 &#13;
+&#13;
+ACT ONE &#13;
+&#13;
+PROLOGUE: Outer Space SCENE ONE: Probe Seven Control Room, 10:00 A.M. SCENE TWO: The Orbit Room Cocktail Lounge, 7:00 P.M. SCENE THREE: Probe Seven Control Room, 8:00 P.M. SCENE FOUR: Mary's Car, 8:30 P.M. SCENE FlVE: The Galaxy of Coiffures Beauty Salon, 8:45 P.M. &#13;
+&#13;
+INTERMISSION &#13;
+&#13;
+ACT TWO &#13;
+&#13;
+PROLOGUE: All Over Town, 9:00 P.M.-11:00 P.M. SCENE ONE: Probe Seven Control Room, 11:45 P.M. SCENE TWO: Boudoir in Zombina's Saucer, Immediately After SCENE THREE: Milwaukee Skyline, Immediately After SCENE FOUR: Rooftop of Wisconsin Gas Company Building &#13;
+&#13;
+ZOMBIES FROM THE BEYOND premiered at the Players Theatre in New York City on October 11, 1995. It was produced by Colin Cabot; directed and choreographed by Pam Kriger and James Valcq; Andrew Wilder, musical direcior; James Schuette, set and costume designs; Ken Billington, lighting design; Ivan Pokorny, sound design; and James Valcq, orchestration. &#13;
+&#13;
+&#13;
+&#13;
+THE CAST &#13;
+Announcer Jack Walton &#13;
+Major Malone Dale Ostrom &#13;
+Rick Jones Ed Ronco &#13;
+Charlene Osmanski Kathleen Canavan-Martin &#13;
+Billy Krutzik Nathan Mittleman &#13;
+Mary Malone Melanie Solnoky &#13;
+Trenton Corbett Michael Girts &#13;
+Zombina Kaitlyn Saunders &#13;
+Zombettes Stephen Bailey, Kyle Curtis, Seyhan Kilic, Tabitha Lee, Erin Weedon &#13;
+&#13;
+&#13;
+WHO'S WHO &#13;
+&#13;
+STEPHEN BAILEY (Zombette) is a freshman at IUSB, studying theatre. He &#13;
+was seen as Jose, the muleteer, in SBCT's production of Man of La Manchu in &#13;
+January and, in March. as Bob Grangerford and Abner in Huckleberry Finn. &#13;
+&#13;
+RICHARD CLAWSON (Musical Director) was musical director and played the role of George Gershwin in SBCT's production of Gershwin, By George! in 2005. In 2003, he directed Civic's production of Leader of the Pack. &#13;
+&#13;
+KYLE CURTIS (Zombette) is perfonning for the third time with SBCT. He &#13;
+plans to attend the Academy of Art university in San Francisco in January &#13;
+2008. He thanks his family and a great friend for always supporting him. &#13;
+&#13;
+RICK W. ELLIS (Choreographer) was seen most recently in SBCT's hit comedy Noises Off. (He was the one taking most of the pratfalls.) Rick is a former member of SBCT's board ofdirectors and its Play Selection Committee. &#13;
+&#13;
+STEVE A. GERGACZ (Choreographer) also appeared in SBCT's recent pro­duction of Noises Off. He is House Manager of Civic's new 30,000-square-foot building and director of SBCT's group sales department. &#13;
+&#13;
+MICHAEL GIRTS (Trenton Corbett) made his SBCT debut last season in American Buffalo. He earned his BFA in Acting from Syracuse University and &#13;
+is now studying improvisational comedy at Chicago's Second City. &#13;
+&#13;
+THOMAS JOACHIM (Assistant Director) wishes to thank Leigh (Taylor), especially for teaching him so much; Richard (Clawson), who is a gifted musical director; Rick (Ellis) and Steve (Gergacz), for their incredible imagination with dance; Ralph (Lampkin), for his musical ear and wisdom; and the cast, for their hard work &amp; talent. &#13;
+&#13;
+SEYHAN KILIC (Zombette) was seen last summer in SBCT's production of The &#13;
+Sound of Music at the Morris Performing Arts Center. She and her mother, Jonnie, have been busy lately organizing SBCT's new costume shop in the new building. &#13;
+&#13;
+TABITHA LEE (Zombette) has done many small plays and other performances &#13;
+through her church. She was seen most recently in SBCT's production of Mrs. Bob Cratchit's Wild Christmas Binge. She hopes to further her career in acting. &#13;
+&#13;
+KATHLEEN CANAVAN-MARTIN (Charlene) worked as a medical journalist for &#13;
+six years in Washington, D.C., before coming to this area in 1997. She now serves as executive editor to the Notre Dame Review, and lives here in South Bend. &#13;
+&#13;
+NATHAN MITTLEMAN (Billy) is currently a senior at Riley High School. He re­&#13;
+cently choreographed SBCT's season opener, Man of La Mancha, and played the role of Seymour in his high school's production of Little Shop of Horrors. &#13;
+&#13;
+DALE OSTROM (Major Malone) was last seen as Al Jolson in Civic's 2005 produc­tion of Gershwin, By George! Working with the Zombies cast and crew has been a delight, he says. Thanks to his wife, Jan, for her encouragement and support. &#13;
+&#13;
+ED RONCO (Rick Jones) was seen most recently at Civic as Sancho in Man of La Mancha. He has a been a Michiana resident for 18 months and part of SBCT almost as long. Other Civic credits include The Story, Tartuffe, and The Little Foxes. &#13;
+&#13;
+KAITLYN SAUNDERS (Zombina) has appeared previously in productions of &#13;
+Grease, Oliver!, and The Fantasticks. "It's the greatest feeling in the world to &#13;
+perform," she says, "whether it be acting or singing. I get to leave the scruples of life behind for an hour and step in someone else's shoes." &#13;
+&#13;
+MELANIE SOLNOKY (Mary Malone) recently moved back to South Bend from &#13;
+Indianapolis. She has been acting, singing, and dancing since the age of 7, and did dance and cheerleading at St. Joseph's High School and Purdue University. &#13;
+&#13;
+LEIGH TAYLOR (Director) has directed many productions for SBCT over the past several years, ranging from Long Day's Journey to Escanaba in Da Moonlight. &#13;
+&#13;
+JODY THORLA (Stage Manager) was recenily named winner of the Norma Ludwick Firehouse Award, emblematic of his selection as SBCT Volunteer of the Year in 2006. &#13;
+&#13;
+JACK WALTON (Announcer) was seen most recently in SBCT's production of Mrs. Bob Cratchit's Wild Christmas Binge at The Firehouse last December. &#13;
+&#13;
+ERIN WEEDON (Zombette) is a senior English major at the University of Notre &#13;
+Dame. She was last seen in a Notre Dame-Saint Mary's College student co­&#13;
+production of The Vagina Monologues. </text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="62">
+          <name>Performance Dates</name>
+          <description>the range of dates for a theatrical run; enter as "YYYY-MM-DD to YYYY-MM-DD"</description>
+          <elementTextContainer>
+            <elementText elementTextId="452">
+              <text>2007-04-13 to 2007-04-22</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="246">
+                <text>Zombies From the Beyond</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="252">
+                <text>South Bend Civic Theatre</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="43">
+            <name>Identifier</name>
+            <description>An unambiguous reference to the resource within a given context</description>
+            <elementTextContainer>
+              <elementText elementTextId="253">
+                <text>sbct010</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="254">
+                <text>application/pdf</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="51">
+            <name>Type</name>
+            <description>The nature or genre of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="255">
+                <text>Text</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="1">
+        <name>musical</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="33" public="1" featured="0">
+    <fileContainer>
+      <file fileId="22">
+        <src>https://s3.amazonaws.com/omeka-net/54613/archive/files/6d14cc337ba7c6b0ac6b601a7dc16164.pdf?AWSAccessKeyId=AKIAI3ATG3OSQLO5HGKA&amp;Expires=1615420800&amp;Signature=y3ns7pL%2BURlHmaXAOJHxqeNXSXM%3D</src>
+        <authentication>8a295b26666ea6ec4c4769bd04f0dc1d</authentication>
+      </file>
+    </fileContainer>
+    <collection collectionId="1">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="1">
+                  <text>The Rooney Archive</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="39">
+              <name>Creator</name>
+              <description>An entity primarily responsible for making the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="438">
+                  <text>Daniel Rooney</text>
+                </elementText>
+                <elementText elementTextId="440">
+                  <text>South Bend Civic Theatre</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="37">
+              <name>Contributor</name>
+              <description>An entity responsible for making contributions to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="439">
+                  <text>Daniel Rooney</text>
+                </elementText>
+                <elementText elementTextId="442">
+                  <text>Meg &amp; Kevin Rooney</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="40">
+              <name>Date</name>
+              <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="441">
+                  <text>2003 to 2012</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <itemType itemTypeId="18">
+      <name>Theater Program</name>
+      <description>A program handed out at a live theatrical performance.</description>
+      <elementContainer>
+        <element elementId="52">
+          <name>Playwright</name>
+          <description>the author of the piece performed, as identified on the program</description>
+          <elementTextContainer>
+            <elementText elementTextId="237">
+              <text>Hellman, Lillian, 1905-1984</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="55">
+          <name>Play Director</name>
+          <description>the director of the performance, as identified on the program</description>
+          <elementTextContainer>
+            <elementText elementTextId="238">
+              <text>Walters, Chelle</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="53">
+          <name>Genre</name>
+          <description>the genre of the piece performed; use a term from LCGFT</description>
+          <elementTextContainer>
+            <elementText elementTextId="239">
+              <text>Drama</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="54">
+          <name>Year</name>
+          <description>the year of the performance</description>
+          <elementTextContainer>
+            <elementText elementTextId="240">
+              <text>2006</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="61">
+          <name>Theatrical Venue</name>
+          <description>the performance venue, as identified on the program</description>
+          <elementTextContainer>
+            <elementText elementTextId="241">
+              <text>The Firehouse</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="1">
+          <name>Text</name>
+          <description>Any textual data included in the document</description>
+          <elementTextContainer>
+            <elementText elementTextId="428">
+              <text>South Bend &#13;
+CIVIC THEATRE &#13;
+making a dramatic difference &#13;
+With UNDERWRITING by CAROLYN &amp; JERRY LANGLEY &#13;
+PRESENTS &#13;
+&#13;
+The Little Foxes &#13;
+BY LILLIAN HELLMAN &#13;
+DIRECTED BY CHELLE WALTERS &#13;
+April 7-9, 13-15, 19-23, 2006; The Firehouse  &#13;
+&#13;
+THE PRODUCTION TEAM &#13;
+Director Chelle Walters &#13;
+Assistant Director David Chudzynski &#13;
+Stage Manager Jake Morris &#13;
+Technical Directors David Chudzynski &amp; Matt Davidson &#13;
+Set Design David Chudzynski &#13;
+Lighting &amp; Sound Design Matt Davidson &#13;
+Properties Craig Merrick, Deborah Chudzynski &#13;
+Lighting &amp; Sound Technican John Wiley &#13;
+Costumes &amp; Wigs Chelle Walters, Deborah Chudzynski &#13;
+Set Construction &amp; Painting David Chudzynski, Steve Chung, Matt Davidson, Jody Thorla, John Wiley, Tom Wozniak &#13;
+SPECIAL THANKS TO: 1st Source Bank, Sheila's Antiques, The Stanley Clark School, Jean Savarese &#13;
+WHEELCHAIR provided by RELICS, Antiques and Architectural Artifacts, 1148 Western Ave., South Bend, Paul Hayden, Owner. Phone: (574) 220-7300 &#13;
+&#13;
+SYNOPSIS OF SCENES &#13;
+The scene of the play is the living-room of the Giddens House in a small town in the South. &#13;
+ACT I, Scene 1: The sping of 1900, evening. &#13;
+ACT I, Scene 2: A week later, early morning. &#13;
+INTERMISSION &#13;
+ACT II: Two weeks later, late afternoon. &#13;
+&#13;
+Presented by Special Arragement with Dramatists Play Service, Inc. &#13;
+&#13;
+&#13;
+Save the Date Friday, June 23rd, 2006 Spotlight on Civic "Raising the Curtain on a New Era" The Masonic Temple, Downtown South Bend &#13;
+$100 per person includs &#13;
+Cocktails and hors d'ooeuvres &#13;
+Elegant Dinner provided by Executive Chef Donald Miller University of Notre Dame &#13;
+Featured Speaker John A. Haynes, Executive Director, Marie P. DeBartolo Center for the Performing Arts &#13;
+Presentation of the Marjorie H. and James M. Wilson, M.D. Award &#13;
+Dancing to The Pat Heiden Quartet &#13;
+See reverse for FABULOUS raffle information! NEED NOT BE PRESENT TO WIN &#13;
+Event Sponsors &#13;
+Mossberg Printing Co. &#13;
+Shirk's Piano &amp; Organ &#13;
+Director's Level Sponsor &#13;
+Michael Angelos &#13;
+Leading Role Sponsor &#13;
+Radiology, Inc. &#13;
+Contact Kelly Gallagher, 574-288-3482, for information and sponsorship benefits. &#13;
+&#13;
+&#13;
+The CAST &#13;
+Addie Jesselyn Dickinson &#13;
+Cal David Smith &#13;
+Birdie Hubbard Ruth Andrews &#13;
+Oscar Hubbard Michael Coffee &#13;
+Leo Hubbard Ed Ronco &#13;
+Regina Giddens Melissa Gard &#13;
+William Marshall Doug Markell &#13;
+Benjamin Hubbard Craig Mac Nab &#13;
+Alexandra Giddens Alexa Louise Gates &#13;
+Horace Giddens Jim Coppens &#13;
+&#13;
+WHO'S WHO &#13;
+&#13;
+RUTH ANDREWS (Birdie) has appeared on area stages for more than fifteen years. She was seen most recently in Civic's 2005 production of Enchanted April. In her real life, as Queen of the Mezzo-Systems ofCass County, she tries to keep people "from eating the earth and everyone on it." &#13;
+&#13;
+DAVID CHUDZYNSKI (Assistant Director, Set Design) is the first full­time Technical Director in the histo1y of South Bend Civic. He is also well­-known, locally, as an actor, director, theatre instructor, and playwright. &#13;
+&#13;
+MICHAEL COFFEE (Oscar) feels he' s come full circle with this role, having started with SBCT in 1998 as Gooper in Cat On a Hot Tin Roof Since then, he has played a range of characters, most recently Mellersk in Enchanted April. Thanks to his family for their support and understanding. &#13;
+&#13;
+JIM COPPENS (Horace) reprises a role he originally played at The &#13;
+Firehouse in 1988. Hired in 1995 as SBCT's first Executive Director, he is &#13;
+looking forward to Civic's big move in 2007 into its new theatre home at 403 N . Main, which is currently undergoing a $3.7 million renovation. &#13;
+&#13;
+MATT DAVIDSON (Technical Director. Lighting Design) was hired in 2005 as SBCT's first Assistant Technical Director. He has designed and stage-managed numerous shows m Michiana over the past seven years. Most recently, he was produc­tion designer for SBCT productions of Many Moons, Rounding Third, and Frozen. &#13;
+&#13;
+JESSELYN DICKINSON (Addie) comes to SBCT from the stages of Southern California, where she performed in Raisin in the Sun, Look Away, and For Colored Girls Who Have Considered Suicide When the Rainbow is Enuf. Her future goal is to direct: however, right now acting is sharpening the sword to make that goal a reality. &#13;
+&#13;
+MELISSA GARD (Regina) was seen most recently at The Firehouse in Nightbreath in 2004. Prior to that, she teamed with Michael Coffee (Oscar) in 2002 in SBCT's production of Harold Pinter's Betrayal. Her first Civic appearance was in 1988, also in The Little Foxes, in which she played the role of Birdie. A past board member of SBCT. she is also familiar to patrons as a frequent, friendly presence in the box office. &#13;
+&#13;
+ALEXA LOUISE GATES (Alexandra) is an 8th-grade student at Stanley Clark. Her previous acting credits include The Orphan Train; The Lion, the Witch, and the Wardrobe; and Annie. She has also participated in Summer Shakespeare at Notre Dame for the past three years. She dedicates this performance to her long-time theatre teacher and friend, Deborah Chudzynski. "Thank you for all the wonderful years at Clark; you have no idea what they mean to me. I'll miss you very much next year!" &#13;
+&#13;
+CRAIG MAC NAB (Ben) is back after his first SBCT appearances in All in the Timing and The Underpants earlier this season. Craig has been acting and directing for over fifty years, but this is his first Lillian Hellman play. &#13;
+&#13;
+DOUG MARKELL (Marshall) is making his SBCT debut in this production. New to the area, Doug brings his theatrical talent to us from California, where he spent the last ten years doing musical theatre, stand-up comedy, and production design. &#13;
+&#13;
+JAKE MORRIS (Stage Manager) is stage-managing his third SBCT production so far in 2006. A Clay High School graduate, he is also an SBCT Youth Theatre alum. &#13;
+&#13;
+ED RONCO (Leo) is making his second SBCT appearance. He was last seen as Milton the Chimp in January's All in the Timing and is thrilled to be playing a part now in which he can wear shoes and socks. He thanks his family and friends, especially the Tuesday Night Taco Club, for understanding why he has been so busy of late. &#13;
+&#13;
+DAVID SMITH (Cal), a 1977 graduate of LaSalle High School, made his SBCT acting debut last June in The Little Princess at the DeBartolo Center for the Performing Arts &#13;
+&#13;
+CHELLE WALTERS (Director) is pleased to be making her SBCT directing debut with this production. An original member of South Bend's erstwhile Acting Ensemble, she will be remembered for her featured acting roles in Civic productions of Dancing at Lughnasa, Over the Tavern, An Enemy of the People, and Boston Marriage. </text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="62">
+          <name>Performance Dates</name>
+          <description>the range of dates for a theatrical run; enter as "YYYY-MM-DD to YYYY-MM-DD"</description>
+          <elementTextContainer>
+            <elementText elementTextId="451">
+              <text>2006-04-07 to 2006-04-23</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="236">
+                <text>The Little Foxes</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="242">
+                <text>South Bend Civic Theatre</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="43">
+            <name>Identifier</name>
+            <description>An unambiguous reference to the resource within a given context</description>
+            <elementTextContainer>
+              <elementText elementTextId="243">
+                <text>sbct009</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="244">
+                <text>application/pdf</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="51">
+            <name>Type</name>
+            <description>The nature or genre of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="245">
+                <text>Text</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="2">
+        <name>drama</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="32" public="1" featured="1">
+    <fileContainer>
+      <file fileId="21">
+        <src>https://s3.amazonaws.com/omeka-net/54613/archive/files/da07639f94d09735bda678ce89a4e3a8.pdf?AWSAccessKeyId=AKIAI3ATG3OSQLO5HGKA&amp;Expires=1615420800&amp;Signature=NCXI9Qs7Xb2QUWrs0iyrIN1SKeY%3D</src>
+        <authentication>b3f84c2bfbd5db65d2b0d7addd65ce73</authentication>
+      </file>
+    </fileContainer>
+    <collection collectionId="1">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="1">
+                  <text>The Rooney Archive</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="39">
+              <name>Creator</name>
+              <description>An entity primarily responsible for making the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="438">
+                  <text>Daniel Rooney</text>
+                </elementText>
+                <elementText elementTextId="440">
+                  <text>South Bend Civic Theatre</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="37">
+              <name>Contributor</name>
+              <description>An entity responsible for making contributions to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="439">
+                  <text>Daniel Rooney</text>
+                </elementText>
+                <elementText elementTextId="442">
+                  <text>Meg &amp; Kevin Rooney</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="40">
+              <name>Date</name>
+              <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="441">
+                  <text>2003 to 2012</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <itemType itemTypeId="18">
+      <name>Theater Program</name>
+      <description>A program handed out at a live theatrical performance.</description>
+      <elementContainer>
+        <element elementId="52">
+          <name>Playwright</name>
+          <description>the author of the piece performed, as identified on the program</description>
+          <elementTextContainer>
+            <elementText elementTextId="227">
+              <text>Taylor, Regina, 1960-</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="55">
+          <name>Play Director</name>
+          <description>the director of the performance, as identified on the program</description>
+          <elementTextContainer>
+            <elementText elementTextId="228">
+              <text>Jones, Rachel L.</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="53">
+          <name>Genre</name>
+          <description>the genre of the piece performed; use a term from LCGFT</description>
+          <elementTextContainer>
+            <elementText elementTextId="229">
+              <text>Musical theater</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="54">
+          <name>Year</name>
+          <description>the year of the performance</description>
+          <elementTextContainer>
+            <elementText elementTextId="230">
+              <text>2004</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="61">
+          <name>Theatrical Venue</name>
+          <description>the performance venue, as identified on the program</description>
+          <elementTextContainer>
+            <elementText elementTextId="231">
+              <text>The Firehouse</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="1">
+          <name>Text</name>
+          <description>Any textual data included in the document</description>
+          <elementTextContainer>
+            <elementText elementTextId="427">
+              <text>South Bend&#13;
+CIVIC THEATRE &#13;
+making a dramatic difference&#13;
+ &#13;
+With Underwriting by MARY TOLL &amp; BILL HEIMANN &#13;
+In Memory of RHODA M. BRADSHAW &#13;
+&#13;
+PRESENTS&#13;
+Crowns&#13;
+BY REGINA TAYLOR &#13;
+From the book by Michael Cunningham &amp; Craig Marberry &#13;
+Directed by Rachel L. Jones &#13;
+July 23-25, 27-31, August 1; The Firehouse &#13;
+&#13;
+THE PRODUCTION TEAM &#13;
+Director Rachel L. Jones &#13;
+Assistant to the Director Ralph Lampkin &#13;
+Production Design Garrett Bauer &#13;
+Musical Accompanist David Grey &#13;
+Lighting Design Garrett Bauer &#13;
+Set Design Rachel L. Jones &amp; Garrett Bauer &#13;
+Costumes Jonnie &amp; Seyhan Kilic &#13;
+Properties Seyhan Kilic &#13;
+Lighting Technician Philip Langthorne &#13;
+Set Construction &amp; Painting Garrett Bauer, Tom Brubaker, Terry Dawson, Mark Finch, Dan Hinkle &#13;
+ACKNOWLEDGEMENTS: Lily Keyes; Betty Trotter; Mary Ann Moran; Jean Savarese; Kelly Morgan, WHME-TV; Ancient Accepted Scottish Rite Valley of South Bend &#13;
+&#13;
+RHODA M. BRADSHAW, 1950 - 2003 &#13;
+Produced by Special Arrangement with Dramatists Play Service, Inc. &#13;
+&#13;
+THE CAST &#13;
+Yolanda  Martel Tardy  &#13;
+Mrs. Shaw  Nora Batteast  &#13;
+Wanda  Clara Ross  &#13;
+Jeanette Debra Stanley &#13;
+Velma Priscilla Phillips &#13;
+Mabel Dianne Gammage &#13;
+Men Mel Tardy &#13;
+&#13;
+WHO'S WHO &#13;
+&#13;
+NORA BATTEAST (Mother Shaw) is an ex-member of SBCT's board of directors. She has appeared previously at The Firehouse in productions of Joe Turner's Come and Gone, Ain't Misbehavin', One Monkey Don't Stop No Show, and A Streetcar Named Desire, among others. Nora is also foun­der of the St. Augustine Performing Arts Troupe at her parish. "Thanks, Rhoda, for guidance." &#13;
+&#13;
+GARRETT BAUER (Production Designer) has been a resident scenic designer with South Bend Civic since 1999. He has designed every production SBCT has performed at the Morris Performing Arts Center since the summer of2000. His next project there will be Civic's presen­tation of My Fair Lady in August. In his spare time, Garrett is also the new on-staff Production Manager for Theatre Building Chicago. &#13;
+&#13;
+DIANNE GAMMAGE (Mabel) appeared at The Firehouse in 2002 as Miss Emma in A Lesson Before Dying. A year before that, she and Rhoda Bradshaw were the 100-year-old Delaney sisters in SBCT's production of Having Our Say. In 1998, she appeared here in Ain't Misbehavin'. "Thank you, Lillie and Betty, for sharing your 'hattitude,' and many thanks to Civic for providing a safe place for Dianne to play." &#13;
+&#13;
+RACHEL L. JONES (Director) made her SBCT debut as an actor in Force Continuum last November. She is a 2002 graduate of the University of Notre Dame, with a B.A. in Film, Television and Theatre. At Notre Dame, she performed in several Main Stage and Black Box productions. She spends her days as a Dental Assistant at North Pointe Pediatric Dentistry and is the mother of Kailee Elizabeth, who is now two years old. &#13;
+&#13;
+PRISCILLA PHILLIPS (Velma) has performed in the Midwest for over 25 years as a jazz and R&amp;B vocalist. A South Bend native, her credits include live performances at a variety of clubs, concerts, and special events, TV and radio commercials, studio recordings, and, in recent years, theatrical productions of Nunsense II and Blues In the Night (directed by Rhoda Bradshaw). She is currently the vocalist with the Bill Nicks Trio and a background singer with the Junior Walker All-Stars Band. Priscilla dedicates her performance not only to Rhoda's memory, but to her father, the late Rev. George B. Jones, the signifi­cant "hat queens" in her life-mother Hattie Brown, sisters Clara, Betty, Angela, Georgia, LaShonda, Yvette, Lisa, Gail &amp; Lisa Davis, daughter Tanisha-and future "hat queen" granddaughters Danya, Imani, and Arielle. &#13;
+&#13;
+CLARA ROSS (Wanda) made her SBCT acting debut in 1989 in The little Foxes. Since then, she has appeared in One Monkey Don't Stop No Show, Mother Hicks, and Force Continuum at The Firehouse. She dedicates her performance in this show to her children Nicholas, Quinn, LaMont, and Angel. &#13;
+&#13;
+DEBRA STANLEY (Jeanette) has appeared previously in SBCT productions of One Monkey Don't Stop No Show and The Algiers Motel, a staged reading of a play by Peter O'Keefe. (She also appears in Peter's soon-to-be-released movie, "Infidel.") A native of South Bend, she has also acted with the American Association of Oppressed Minorities under the direction of Howard Dukes. &#13;
+&#13;
+MARTELL TARDY (Yolanda) is an SBCT Theatre Camp graduate and has participated in church plays at St. Augustine's Catholic Church. She will be attending St. Mary's College in South Bend in the fall, where she plans to major in anthropology and Chinese. She dedicates this play experience to all who have supported her over the years, God, and "all my dreams." &#13;
+&#13;
+MEL TARDY (Men), Martell's father, is appearing for the first time at The Firehouse. At the University of Notre Dame, he works with ND's First Year Studies Program and is member of the University's Voices of Faith Choir. &#13;
+&#13;
+Coming Up at South Bend Civic &#13;
+MY FAIR LADY. August 13-15. At the Morris Performing Arts Center. &#13;
+8:00 P.M. Friday &amp; Saturday; 3:00 P.M. Sunday. $17.50 Adults, $10 Ages 12 &amp; Under. Group Discounts Available. Reservations: 235-9190. </text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="62">
+          <name>Performance Dates</name>
+          <description>the range of dates for a theatrical run; enter as "YYYY-MM-DD to YYYY-MM-DD"</description>
+          <elementTextContainer>
+            <elementText elementTextId="450">
+              <text>2004-07-23 to 2004-08-01</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="226">
+                <text>Crowns</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="232">
+                <text>South Bend Civic Theatre</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="43">
+            <name>Identifier</name>
+            <description>An unambiguous reference to the resource within a given context</description>
+            <elementTextContainer>
+              <elementText elementTextId="233">
+                <text>sbct008</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="234">
+                <text>application/pdf</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="51">
+            <name>Type</name>
+            <description>The nature or genre of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="235">
+                <text>Text</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="1">
+        <name>musical</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="31" public="1" featured="0">
+    <fileContainer>
+      <file fileId="20">
+        <src>https://s3.amazonaws.com/omeka-net/54613/archive/files/2d5f8e1dabb07afb954f88527f264473.pdf?AWSAccessKeyId=AKIAI3ATG3OSQLO5HGKA&amp;Expires=1615420800&amp;Signature=%2B7%2B%2BzzmKmGCGyMVfFNFZ25OSVH0%3D</src>
+        <authentication>97bb2434a774ceadfd2e9a1334fe1f47</authentication>
+      </file>
+    </fileContainer>
+    <collection collectionId="1">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="1">
+                  <text>The Rooney Archive</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="39">
+              <name>Creator</name>
+              <description>An entity primarily responsible for making the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="438">
+                  <text>Daniel Rooney</text>
+                </elementText>
+                <elementText elementTextId="440">
+                  <text>South Bend Civic Theatre</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="37">
+              <name>Contributor</name>
+              <description>An entity responsible for making contributions to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="439">
+                  <text>Daniel Rooney</text>
+                </elementText>
+                <elementText elementTextId="442">
+                  <text>Meg &amp; Kevin Rooney</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="40">
+              <name>Date</name>
+              <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="441">
+                  <text>2003 to 2012</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <itemType itemTypeId="18">
+      <name>Theater Program</name>
+      <description>A program handed out at a live theatrical performance.</description>
+      <elementContainer>
+        <element elementId="52">
+          <name>Playwright</name>
+          <description>the author of the piece performed, as identified on the program</description>
+          <elementTextContainer>
+            <elementText elementTextId="216">
+              <text>Drewe, Anthony</text>
+            </elementText>
+            <elementText elementTextId="217">
+              <text> Stiles, George</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="55">
+          <name>Play Director</name>
+          <description>the director of the performance, as identified on the program</description>
+          <elementTextContainer>
+            <elementText elementTextId="218">
+              <text>Johnson, Aaron</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="53">
+          <name>Genre</name>
+          <description>the genre of the piece performed; use a term from LCGFT</description>
+          <elementTextContainer>
+            <elementText elementTextId="219">
+              <text>Musical theater</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="54">
+          <name>Year</name>
+          <description>the year of the performance</description>
+          <elementTextContainer>
+            <elementText elementTextId="220">
+              <text>2004</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="61">
+          <name>Theatrical Venue</name>
+          <description>the performance venue, as identified on the program</description>
+          <elementTextContainer>
+            <elementText elementTextId="221">
+              <text>Bendix Theatre</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="1">
+          <name>Text</name>
+          <description>Any textual data included in the document</description>
+          <elementTextContainer>
+            <elementText elementTextId="426">
+              <text>South Bend&#13;
+CIVIC THEATRE&#13;
+making a dramatic difference&#13;
+&#13;
+The 2004 TONY &amp; PAT BERARDI Children's Series &#13;
+PRESENTS&#13;
+HONK!&#13;
+Book and Lyrics by Anthony Drewe&#13;
+Music by George Stiles&#13;
+June 25-26-27, 2004; The Bendix Theatre&#13;
+&#13;
+ARTS IN INDIANA &#13;
+INDIANA ARTS COMMISSION &#13;
+REGIONAL PARTNERS &#13;
+&#13;
+Indiana &#13;
+Achievement &#13;
+Awards&#13;
+ &#13;
+THE PRODUCTION TEAM &#13;
+Director Aaron Johnson &#13;
+Production Design Tom Brubaker &amp; David Chudzynski &#13;
+Stage Manager Leigh Taylor &#13;
+Choreographer Claire Sandler &#13;
+Feline Choreography Donald Stikeleather &#13;
+Costume Design Maggie Atkins &#13;
+Lighting Design Aaron Johnson &#13;
+Music Direction Aaron Johnson &amp; Donald Stikeleather &#13;
+Properties Leigh Taylor &#13;
+Set Construction Tom Brubaker, David Chudzynski, Bryan Venne &#13;
+Snowball Wesley LaFluer &#13;
+&#13;
+ABOUT THE DIRECTOR &#13;
+&#13;
+AARON JOHNSON recently relocated to South Bend from Austin, Texas, where he had been active in the local theatre scene there for several years. He made his SBCT acting debut in Six Degrees of Separation in April. &#13;
+&#13;
+"HONK!" is presented through special arrangement with and all authorized performance materials are supplied by Music Theatre International, 421 West 54th Street, New York, NY 10019. Tel: (212) 541-4684 Fax: (212) 397-4684 www.MTIShows.com &#13;
+The videotaping of this production is a violation of United States Copyright Law and an actionable Federal Offense. &#13;
+&#13;
+THE CAST &#13;
+Ugly Thomas Sparks &#13;
+Ida Maggie Atkins &#13;
+Drake Dan Lehner &#13;
+Maureen Michelle Lynn Baker &#13;
+The Cat Donald Stikeleather &#13;
+The Bullfrog Steve Chung &#13;
+Beaky Alex Munsey &#13;
+Billy Coty Nutting &#13;
+Fluff Emily Birr &#13;
+Downy Chelsea LaFluer &#13;
+Grace Charlotte Ford &#13;
+The Turkey/Company Dominic Schwab &#13;
+Henrietta/Company Julie Bradford &#13;
+Grey Lag Chaves Williams &#13;
+Dot Jenny Reber &#13;
+Jaybird/Company Anita Beachy &#13;
+Camera Crew/Company Mary Sparks, Sarah Myers, Lauren Case, Christopher Dean &#13;
+Penny Andrea Clark &#13;
+Mother Swan/Company Barb Smith &#13;
+Father Swan/Company Alex Rectenwal &#13;
+&#13;
+&#13;
+WHO'S WHO &#13;
+&#13;
+MAGGIE ATKINS (Ida/Costume Design), an MFA graduate of Carnegie Mellon, is appearing for the first time with SBCT. but this is her second Civic show; she designed costumes also for Blithe Spirit earlier this month. &#13;
+&#13;
+MICHELLE L. BAKER (Maureen) is an acting alum of Mishawaka High School and IUSB. This her second children's production with SBCT, having appeared previously in Alexander's Terrible, Horrible, No Good, Very Bad Day. &#13;
+&#13;
+ANITA BEACHY (Jaybird/Company) first performed with SBCT last December as Romaine in Witness for the Prosecution. This is her first musical. &#13;
+&#13;
+EMILY BIRR (Fluff) is an experienced actress who has appeared in several SBCT productions. A sixth-grader, she likes to sing, dance, and play piano. &#13;
+&#13;
+JULIE BRADFORD (Henrietta/Company) has perfo1med in The Nutcracker for five years, Show Stoppers, and lots of school plays. She likes pizza, mak­ing home movies, and hanging out with her friends. &#13;
+&#13;
+LAUREN CASE (Camera Crew/Company) is appearing in her first musical, and she says it has been "a blast! I hope you enjoy it." &#13;
+&#13;
+STEVE CHUNG (The Bullfrog) is well known to local audiences for his versatility as an actor, singer, and dancer. He appeared most recently in South Bend Civic Theatre's April production of Six Degrees of Separation. &#13;
+&#13;
+ANDREA "ANDIE" CLARK (Penny) is a sophomore of Clay High School. She has been playing violin for six years, acting for two years, and also par­ticipates in tennis and cross-country. &#13;
+&#13;
+CHRISTOPHER "CHRIS" DEAN (Camera Crew/ Company) is entering his sophomore year at Clay High School. He has been playing the eupho­nium in band for five years and acting for one. &#13;
+&#13;
+CHARLOTTE FORD (Grace) is a native of South Bend. She is a cantor and member of the Cathedral Singers at St. Matthew's Cathedral. She enjoys musicals and volunteer events. &#13;
+&#13;
+CHELSEA LaFLUER (Downy) is an I I-year-old actress who "enjoys the stage." She has performed in several SBCT productions, including Aladdin &amp; His Wonderful, Magical Lamp last year at the Morris. &#13;
+&#13;
+WESLEY LaFLUER (Snowball) is 9 years old and loves to act. This is his third play with SBCT. He appeared in May in Snow White at the Morris. &#13;
+&#13;
+DAN LEHNER (Drake) is appearing in his third Children's Season production at SBCT since debuting as Humpty-Dumpty in Alice in Wonderland two summers ago. He appeared also in The Legend of Sleepy Hollow in 2002. &#13;
+&#13;
+ALEX MUNSEY (Beaky) is 13 years old and entering the 8th grade. She &#13;
+enjoys dance and theatre. &#13;
+&#13;
+COTY NUTTING (Billy) is a 6th-grade student at Jackson Intermediate School, where he plays the drums in Band, is active in sports, and has been consistently on the Honor Roll. His SBCT credits include Oklahoma! and Aladdin. &#13;
+&#13;
+JENNY REBER (Dot) says her passion in life has been and always will be in the performing arts. Her goal is to have a job that deals with her passion, so she participates in as many solos and plays as she possibly can. &#13;
+&#13;
+ALEX RECTENWAL (Father Swan/Company) will enter Marian High School in the fall. He has appeared in several SBCT productions, including Over the Tavern, last season's record-setting box-office hit at The Firehouse. &#13;
+&#13;
+CLAIR SANDLER (Choreographer) is making her SBCT debut with this production. She has choreographed and taught previously in Wisconsin and Minnesota. She currently teaches ballet at The Performing Arts Center. &#13;
+&#13;
+DOMINIC SCHWAB (The Turkey/Company) appeared previously at Civic in Zebra Swallowtail. He is thrilled Lo be here and hopes to be here for a long time. &#13;
+&#13;
+BARBARA SMITH (Mother Swan/Company) is an administrative assistant by day an a marriage minister by nights and weekends. She recently played "Madeline Monroe" is an Off-Broadway production of Tony &amp; Tina's Wedding. &#13;
+&#13;
+MARY SPARKS (Camera Crew/ Company) is a student at St. Joseph's High School. This is her first musical, but she says it has been a lot of fun and a lot of stress, "but I hope you enjoy it." &#13;
+&#13;
+THOMAS SPARKS (Ugly) is appearing in his fourth SBCT production. A recent graduate of St. Joseph's High School, he plans to study acting this fall at Roosevelt University in Chicago. &#13;
+&#13;
+DONALD STIKELEATHER (The Cat) is a nationally-recognized modern dance choreographer/performer and teacher of dance and theatre. He will soon begin a Buddhist Master of Divinity program at Naropa University in Colorado. &#13;
+&#13;
+LEIGH TAYLOR (Stage Manager) is vice-president of SBCT's board of directors. Most recently, she directed Six Degrees of Separation at The Firehouse. &#13;
+&#13;
+CHAVES WILLIAMS (Grey Lag) is a sophomore at Penn High School. He appeared last summer in Civic's production of Fiddler on the Roof at the Morris. </text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="62">
+          <name>Performance Dates</name>
+          <description>the range of dates for a theatrical run; enter as "YYYY-MM-DD to YYYY-MM-DD"</description>
+          <elementTextContainer>
+            <elementText elementTextId="449">
+              <text>2004-06-25 to 2004-06-27</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="215">
+                <text>Honk!</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="222">
+                <text>South Bend Civic Theatre</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="43">
+            <name>Identifier</name>
+            <description>An unambiguous reference to the resource within a given context</description>
+            <elementTextContainer>
+              <elementText elementTextId="223">
+                <text>sbct007</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="224">
+                <text>application/pdf</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="51">
+            <name>Type</name>
+            <description>The nature or genre of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="225">
+                <text>Text</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="1">
+        <name>musical</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="30" public="1" featured="0">
+    <fileContainer>
+      <file fileId="19">
+        <src>https://s3.amazonaws.com/omeka-net/54613/archive/files/55ee64c72e203dc00e927d4b1be11637.pdf?AWSAccessKeyId=AKIAI3ATG3OSQLO5HGKA&amp;Expires=1615420800&amp;Signature=d0QUR7jAKgTyq6mSFNzekTfx4wc%3D</src>
+        <authentication>9166211562f81907cb9c7113fdf29f3a</authentication>
+      </file>
+    </fileContainer>
+    <collection collectionId="1">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="1">
+                  <text>The Rooney Archive</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="39">
+              <name>Creator</name>
+              <description>An entity primarily responsible for making the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="438">
+                  <text>Daniel Rooney</text>
+                </elementText>
+                <elementText elementTextId="440">
+                  <text>South Bend Civic Theatre</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="37">
+              <name>Contributor</name>
+              <description>An entity responsible for making contributions to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="439">
+                  <text>Daniel Rooney</text>
+                </elementText>
+                <elementText elementTextId="442">
+                  <text>Meg &amp; Kevin Rooney</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="40">
+              <name>Date</name>
+              <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="441">
+                  <text>2003 to 2012</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <itemType itemTypeId="18">
+      <name>Theater Program</name>
+      <description>A program handed out at a live theatrical performance.</description>
+      <elementContainer>
+        <element elementId="52">
+          <name>Playwright</name>
+          <description>the author of the piece performed, as identified on the program</description>
+          <elementTextContainer>
+            <elementText elementTextId="206">
+              <text>Coward, Noel, 1899-1973</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="55">
+          <name>Play Director</name>
+          <description>the director of the performance, as identified on the program</description>
+          <elementTextContainer>
+            <elementText elementTextId="207">
+              <text>Abram-Copenhaver, Mark</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="53">
+          <name>Genre</name>
+          <description>the genre of the piece performed; use a term from LCGFT</description>
+          <elementTextContainer>
+            <elementText elementTextId="208">
+              <text>Comedy plays</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="54">
+          <name>Year</name>
+          <description>the year of the performance</description>
+          <elementTextContainer>
+            <elementText elementTextId="209">
+              <text>2004</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="61">
+          <name>Theatrical Venue</name>
+          <description>the performance venue, as identified on the program</description>
+          <elementTextContainer>
+            <elementText elementTextId="210">
+              <text>The Firehouse</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="1">
+          <name>Text</name>
+          <description>Any textual data included in the document</description>
+          <elementTextContainer>
+            <elementText elementTextId="425">
+              <text>South Bend&#13;
+CIVIC THEATRE&#13;
+making a dramatic difference&#13;
+&#13;
+With Underwriting by JOHN &amp; BARBARA PHAIR &#13;
+PRESENTS &#13;
+BLITHE SPIRIT&#13;
+BY NOEL COWARD &#13;
+Directed by Mark Abram-Copenhaver &#13;
+Originally produced at the Opera House, Manchester, England, June 16, 1941 &#13;
+June 4-6, 10-13, 16-19, 2004; The Firehouse &#13;
+&#13;
+&#13;
+ARTS IN INDIANA &#13;
+INDIANA ARTS COMMISSION &#13;
+REGIONAL PARTNERS &#13;
+&#13;
+Indiana &#13;
+Achievement &#13;
+Awards &#13;
+&#13;
+THE PRODUCTION TEAM &#13;
+Director Mark Abram-Copenhaver &#13;
+Assistant Director Jewel Abram-Copenhaver &#13;
+Stage Manager Ann Weedon &#13;
+Assistant Stage Manager Merideth Pierce &#13;
+Production &amp; Lighting Design Phil Patnaude &#13;
+Set Artist David Blodgett &#13;
+Costumes Maggie Atkins &#13;
+Sound Design Mark Abram-Copenhaver &#13;
+Lighting Technician Philip Langthorne &#13;
+Sound Technician Adam Roush &#13;
+Set Construction &amp; Painting Tom Brubaker, David Chudzynski, Adam Roush, Ralph Weedon &#13;
+ACKNOWLEDGEMENTS: Department of Communication Studies, Dance, and Theatre, Saint Mary's College; Esther Bartell; Steve Kline, Director, Federated Media Engaged: WUBU-FM (Smooth Jazz 106.3); WBYT-FM (B JO0); WAOR-FM (Classic Rock 95.3); WRBR-FM (The Bear 103. 9); and WLRX-FM (Magic 95. 7). &#13;
+&#13;
+SETTING &#13;
+The action of the play passes in the living-room of Charles Condomine's house in Kent. &#13;
+ACT I &#13;
+Scene 1.-Before dinner on a summer evening. Scene 2.-After dinner. Scene 3.-The next morning. &#13;
+ACT II &#13;
+Scene 1.-Late the following afternoon. Scene 2.-Early evening. A few days later. Scene 3.-After dinner. A few days later. Scene 4.-Several hours later. &#13;
+&#13;
+&#13;
+THE CAST &#13;
+Edith Karen Fischer &#13;
+Ruth Melissa Manier &#13;
+Charles Jim Coppens &#13;
+Dr. Bradman David Dincolo &#13;
+Mrs. Bradman Rachel Lopez-Richardson &#13;
+Madame Arcati Deborah Girasek-Chudzynski &#13;
+Elvira Lorri Martin &#13;
+&#13;
+WHO'S WHO &#13;
+&#13;
+MARK ABRAM-COPENHAVER (Director) is a member of the theatre faculty at Saint Mary's College. Since 2002, he has co-directed with his wife, Jewel, SBCT productions of The Enchantment of Beauty and the Beast and Aladdin &amp; His Wonderful, Magical Lamp at the Morris and directed, solo, Civic productions of Lend Me a Tenor and Rumors at The Firehouse. Before moving to South Bend in 1999, Mark and Jewel owned and operated a performing/visual arts academy for children in Philadelphia. &#13;
+&#13;
+JIM COPPENS (Charles Condomine) was hired in September 1995 as Execu­tive Director of SBCT, the first salaried employee in the theatre's history. Among his favorite roles as an actor over the years, he lists the parts of Henry II in The Lion in Winter, Willie Clark in The Sunshine Boys, C.S. Lewis in Shadowlands, George in Who's Afraid of Virginia Woolf?, Harold Hill in The Music Man, James Tyrone in Long Day's Journey Into Night, and Henry Higgins in My Fair Lady, a role he will reprise this August at the Morris. &#13;
+&#13;
+DAVID DINCOLO (Dr. Bradman) returns to the Civic stage after a long ab­sence. He was last seen in Michiana in the role of John in / Do! l Do! and as Berger in Hair. In Chicago, he played the part of Gooper in a production of Cat on a Hot Tin Roof During the day, David works for Smooth Jazz 106.3 and Magic 95.7. He thanks his family for lifelong support and love. &#13;
+&#13;
+KAREN FISCHER (Edith) has lived m the South Bend area for the past ten years. She performed in numerous plays at Penn High School and at Carleton College in Minnesota. This is her South Bend Civic Theatre debut. &#13;
+&#13;
+DEBORAH GIRASEK-CHUDZYNSKI (Madame Arcati) was last seen on the SBCT stage as Martha in Book of Days. She is thrilled to be playing Madame Arcati, because Blithe Spirit is both a comedy and a play that is appropriate for all her students at the Stanley Clark School. She wishes to thank her husband, David, and her daughter, Elyse, for their love and support. &#13;
+&#13;
+RACHEL LOPEZ-RICHARDSON (Mrs. Bradman) is making her SBCT debut in this production. She will be directing Concessions later on this summer at The Firehouse, in addition to teaching two of Civic's youth theatre camps in July. Rachel is "thrilled" to be working with such a talented group and gives all her love to Bob and Joslyn (the voice of Daphne, Madame Arcati's "control"). &#13;
+&#13;
+MELISSA MANIER (Ruth) is grateful to be sharing Civic's stage with this talented groups of actors. Past roles include another Ruth in Book of Days, Crissy in Dancing at Lughnasa, Lenny in Crimes of the Heart, and Agnes in Agnes of God. A mother of three, Melissa is a former South Bend Civic vice-president and board member. Happy Birthday, Miranda! &#13;
+&#13;
+LORRI MARTIN (Elvira) returns to the South Bend Civic stage after more than a decade's absence. Her last appearance at The Firehouse was as Felicity in The Shadow Box. She is very happy and grateful for this opportunity to work with such a talented cast and crew. She would also like to thank her husband, Doug, for cooking dinner so often over the past several weeks. &#13;
+&#13;
+PHIL PATNAUDE (Production &amp; Lighting Design) is a graduate of Indiana University, an employee of WSBT, and owner of Philmagic Films. In this production, particularly, he was called on to use his "Philmagic" touch. Phil has worked in the theatrical and communications area for most of his life. South Bend Civic's senior resident designer, he also has designed and constructed shows for Saint Mary's College, The Acting Ensemble, and the Firefly Festival. Angels in America, The Diary of Anne Frank, Painting Churches, Conversations With My Father, Moon Over Buffalo, and Oliver! are some of his favorites over the years. Phil recently finished a contract with Saint Mary's College for productions of The Crucible, Hansel and Gretel, and Speak Truth to Power. Other interests include motion picture production, photography, and spending time with his four-year-old twin girls, his one-year-old son, and family. &#13;
+&#13;
+ANN WEEDON (Stage Manager) was stage manager previously for Alice in Wonderland and Night Breath here at Civic. She was assistant director for SBCT's production of Zebra Swallowtail last season. And she has run sound and/or lights for South Bend Civic productions of The legend of Sleepy Hollow, Over the Tavern, Apartment 3A, and Force Continuum. </text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="62">
+          <name>Performance Dates</name>
+          <description>the range of dates for a theatrical run; enter as "YYYY-MM-DD to YYYY-MM-DD"</description>
+          <elementTextContainer>
+            <elementText elementTextId="448">
+              <text>2004-06-04 to 2004-06-19</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="205">
+                <text>Blithe Spirit</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="211">
+                <text>South Bend Civic Theatre</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="43">
+            <name>Identifier</name>
+            <description>An unambiguous reference to the resource within a given context</description>
+            <elementTextContainer>
+              <elementText elementTextId="212">
+                <text>sbct006</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="213">
+                <text>application/pdf</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="51">
+            <name>Type</name>
+            <description>The nature or genre of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="214">
+                <text>Text</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="3">
+        <name>comedy</name>
+      </tag>
+    </tagContainer>
+  </item>
+</itemContainer>
+
