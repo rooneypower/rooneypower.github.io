@@ -9,7 +9,8 @@
     <xsl:strip-space elements="*"/>
     <xsl:output indent="yes" method="html" version="5.0" encoding="UTF-8"/>
     
-    <!-- initialize HTML document with no result document-->
+    <!-- for use with xml-stylesheet processing instruction -->
+    <!-- initialize HTML with no result document -->
     <xsl:template match="/program">
         <html>
             <xsl:apply-templates/>
