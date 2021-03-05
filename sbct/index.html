@@ -1,17 +1,21 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>SBCT Digital Publishing Project</title>
-        <link rel="stylesheet" type="text/css" href="css/sbct.css">
-    </head>
-    <body>
-        <nav>
-            <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="technical.html">Technical</a></li>
-                <li><a href="https://sbct.omeka.net/">Omeka Collection</a></li>
-            </ul>
-        </nav>
-        <h1>Test Homepage</h1>
-    </body>
-</html>
+---
+layout: sbct
+title: "SBCT Digital Publishing Project"
+---
+<h1>{{ page.title }}</h1>
+<h2>Featured programs</h2>
+<ul class="posts">
+	<li><a href="output/item44.xml">Superior Donuts</a></li>
+	<li><a href="output/item36.xml">A Body of Water</a></li>
+    <li><a href="output/item38.xml">Doubt</a></li>
+	<li><a href="output/item26.xml">Of Mice and Men</a></li>
+</ul>
+<h2>All program files</h2>
+<ul>
+	{% for file in site.static_files %}
+		{% assign dirs = file.path | split: '/' %}
+		{% if dirs[1] == 'sbct' and dirs[2] = 'output' %}
+	    	<li><a href="{{ site.url }}{{ file.path }}">{{ file.name }}</a></li>
+		{% endif %}
+	{% endfor %}
+</ul>
