@@ -1,7 +1,7 @@
 /* CSS stylesheet for digital publication of SBCT programs,
  * adpated from main.css example provided by Nick Homenda */
 body {
-    margin: 40px auto;
+    margin: 30px auto;
     width: 70%;
     font-family:'Helvetica', 'Sans-Serif';
     color: Black;
@@ -15,34 +15,35 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-ul { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
+ul.files { 
+    margin: 15px auto 30px; 
+    font-size: 1.25em;
 }
-li {
+ul.files li {
     list-style: none;
+    padding: 5px;
 }
 a {
     text-decoration: none;
-    color: Blue;
+    color: SlateBlue;
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
     font-size: 2.5em;
-    font-family:'Georgia', 'Serif';
+    font-family: 'Georgia', 'Serif';
 }
 h2 {
     font-size: 2em;
-    font-family:'Georgia', 'Serif';
+    font-family: 'Georgia', 'Serif';
 }
 p {
     font-size: 1.25em;
     line-height: 1.1em;
 }
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 1px solid black;
     font-size: .8em;
 }
 table {
@@ -71,7 +72,7 @@ div {
     box-sizing: border-box;
 }
 .wrapper {
-    padding-bottom: 25px;
+    padding-bottom: 30px;
 }
 .stop {
     clear: both;
