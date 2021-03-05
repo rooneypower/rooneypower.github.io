@@ -4,7 +4,7 @@ title: "Technical"
 ---
 <h1>{{ page.title }}</h1>
 <h2>Source XML</h2>
-<ul>
+<ul class="files">
 	{% for file in site.static_files %}
 		{% assign dirs = file.path | split: '/' %}
 		{% if dirs.size > 2 %}
@@ -15,7 +15,7 @@ title: "Technical"
 	{% endfor %}
 </ul>
 <h2>XSLT</h2>
-<ul>
+<ul class="files">
 	{% for file in site.static_files %}
 		{% assign dirs = file.path | split: '/' %}
 		{% if dirs.size > 2 %}
