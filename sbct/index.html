@@ -4,7 +4,7 @@ title: "SBCT Digital Publishing Project"
 ---
 <h1>{{ page.title }}</h1>
 <h2>Featured Programs</h2>
-<ul>
+<ul class="files">
 	<li><a href="output/item44.xml">Superior Donuts</a></li>
 	<li><a href="output/item36.xml">A Body of Water</a></li>
     	<li><a href="output/item38.xml">Doubt</a></li>
@@ -12,7 +12,7 @@ title: "SBCT Digital Publishing Project"
 	<li><a href="output/item28.xml">The Stillborn Lover</a></li>
 </ul>
 <h2>All Programs</h2>
-<ul>
+<ul class="files">
 	{% for file in site.static_files %}
 		{% assign dirs = file.path | split: '/' %}
 		{% if dirs.size > 2 %}
