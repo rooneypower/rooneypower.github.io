@@ -38,10 +38,10 @@
                 <ul>
                     <li><a href="../index.html">Home</a></li>
                     <li><a href="../technical.html">Technical</a></li>
-                    <li><a href="https://sbct.omeka.net/">Omeka Collection</a></li>
+                    <li><a href="https://sbct.omeka.net/" target="_blank">Omeka Collection</a></li>
                 </ul>
             </nav>
-            <!-- title and Omeka link -->
+            <!-- title and Omeka item link -->
             <div class="center">
                 <h1><xsl:value-of select="/program/metadata/dc:title"/></h1>
                 <a href="{concat('https://sbct.omeka.net/items/show/', /program/@xml:id)}" target="_blank">See item in Omeka</a>    
@@ -131,10 +131,12 @@
     <xsl:template match="entry">
         <p>
             <xsl:choose>
-                <xsl:when test="contains(., '(')">
+                <!-- check for left parenthesis in first 25 characters -->
+                <xsl:when test="contains(substring(.,1,25), '(')">
                     <span class="bioname"><xsl:value-of select="substring-before(., '(')"/></span>
                     <xsl:value-of select="concat('(', substring-after(., '('))"/>
                 </xsl:when>
+                <!-- there may be no name or no role in parentheses, output normally -->
                 <xsl:otherwise>
                     <xsl:apply-templates/>
                 </xsl:otherwise>
