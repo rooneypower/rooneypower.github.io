@@ -48,19 +48,19 @@
          </credit>
          <credit>
             <role>Tech Direction </role>
-            <talent>David Chudzynski,  Matt Davidson</talent>
+            <talent>David Chudzynski, Matt Davidson</talent>
          </credit>
          <credit>
             <role>Set Construction </role>
-            <talent>David Chudzynski,  Matt Davidson, Jody Thorla</talent>
+            <talent>David Chudzynski, Matt Davidson, Jody Thorla</talent>
          </credit>
          <credit>
             <role/>
-            <talent> Costumes,  Tatas &amp; Tummies Jonnie Kilic, Lois Veen, Cast</talent>
+            <talent> Costumes, Tatas &amp; Tummies Jonnie Kilic, Lois Veen, Cast</talent>
          </credit>
          <credit>
             <role>Props </role>
-            <talent>Teri Szynski,  Kirstin Apker, Cast</talent>
+            <talent>Teri Szynski, Kirstin Apker, Cast</talent>
          </credit>
          <credit>
             <role>La Toilette Machier Papier </role>
@@ -84,7 +84,7 @@
          </credit>
          <credit>
             <role>Stripper/Dressers &amp; Crew </role>
-            <talent>Kirstin Apker,  Jody Thorla, Cast</talent>
+            <talent>Kirstin Apker, Jody Thorla, Cast</talent>
          </credit>
          <credit>
             <role>Video &amp; Production Photos </role>
@@ -92,11 +92,35 @@
          </credit>
          <credit>
             <role>Set Construction &amp; Painting </role>
-            <talent>Matt Davidson,  David Chudzynski, Jody Thorla</talent>
+            <talent>Matt Davidson, David Chudzynski, Jody Thorla</talent>
          </credit>
       </crew>
       <cast>
          <header>The Cast</header>
+         <credit>
+            <role>Dotty </role>
+            <talent>Lisa Blodgett</talent>
+         </credit>
+         <credit>
+            <role>Voices &amp; Video Actors </role>
+            <talent>Kyle Curtis, Kirstin Apker</talent>
+         </credit>
+         <credit>
+            <role>Hamel </role>
+            <talent>Phil Kwiecinski</talent>
+         </credit>
+         <credit>
+            <role>Dan 1: </role>
+            <talent>Delivery Guy, Taxi Driver, Waiter Kirstin Apker</talent>
+         </credit>
+         <credit>
+            <role>Zena Nicole </role>
+            <talent>Brinkmann Reeves</talent>
+         </credit>
+         <credit>
+            <role>Dan 2: </role>
+            <talent>Mrs. Cuthbert, Mrs. Peabody, Barb, Sallie Mae, Man on the Bus Kyle Curtis</talent>
+         </credit>
       </cast>
       <bios>
          <header>Who's Who in the Cast &amp; Creative Team</header>
