@@ -122,7 +122,7 @@
     </xsl:template>
     
     <!-- identify cast -->
-    <xsl:template mode="text" match="line[upper-case(.) = 'THE CAST' or upper-case(.) = 'THE ACTORS']">
+    <xsl:template mode="text" match="line[starts-with(upper-case(.), 'THE CAST') or upper-case(.) = 'THE ACTORS']">
         <cast>
             <header><xsl:value-of select="."/></header>
             <xsl:call-template name="getCredit">
@@ -132,7 +132,7 @@
     </xsl:template>
     
     <!-- identify crew -->
-    <xsl:template mode="text" match="line[upper-case(.) = 'THE PRODUCTION TEAM' or upper-case(.) = 'PRODUCTION TEAM' or upper-case(.) = 'THE PRODUCTION CREW']">
+    <xsl:template mode="text" match="line[starts-with(upper-case(.), 'THE PRODUCTION') or upper-case(.) = 'PRODUCTION TEAM']">
         <crew>
             <header><xsl:value-of select="."/></header>
             <xsl:call-template name="getCredit">
