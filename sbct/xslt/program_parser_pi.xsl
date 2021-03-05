@@ -7,7 +7,7 @@
     <xsl:strip-space elements="*"/>
     <xsl:output indent="yes"/>
 
-    <!-- address items within container -->
+    <!-- address items (programs) within container -->
     <xsl:template match="om:itemContainer">
         <xsl:apply-templates select="om:item"/>
     </xsl:template>
@@ -113,7 +113,7 @@
 
     <!-- templates to build text sections -->
     <!-- identify cover -->
-    <xsl:template mode="text" match="line[upper-case(text()) = 'SOUTH BEND']">
+    <xsl:template mode="text" match="line[upper-case(.) = 'SOUTH BEND']">
         <cover>
             <xsl:call-template name="getLine">
                 <xsl:with-param name="next" select="."/>
@@ -122,27 +122,27 @@
     </xsl:template>
     
     <!-- identify cast -->
-    <xsl:template mode="text" match="line[upper-case(text()) = 'THE CAST' or upper-case(text()) = 'THE ACTORS']">
+    <xsl:template mode="text" match="line[upper-case(.) = 'THE CAST' or upper-case(.) = 'THE ACTORS']">
         <cast>
             <header><xsl:value-of select="."/></header>
             <xsl:call-template name="getCredit">
-                <xsl:with-param name="next" select="./following-sibling::*[1]"/>
+                <xsl:with-param name="next" select="./following-sibling::line[1]"/>
             </xsl:call-template>
         </cast>
     </xsl:template>
     
     <!-- identify crew -->
-    <xsl:template mode="text" match="line[upper-case(text()) = 'THE PRODUCTION TEAM' or upper-case(text()) = 'PRODUCTION TEAM']">
+    <xsl:template mode="text" match="line[upper-case(.) = 'THE PRODUCTION TEAM' or upper-case(.) = 'PRODUCTION TEAM' or upper-case(.) = 'THE PRODUCTION CREW']">
         <crew>
             <header><xsl:value-of select="."/></header>
             <xsl:call-template name="getCredit">
-                <xsl:with-param name="next" select="./following-sibling::*[1]"/>
+                <xsl:with-param name="next" select="./following-sibling::line[1]"/>
             </xsl:call-template>
         </crew>
     </xsl:template>
     
     <!-- identify biographies -->
-    <xsl:template mode="text" match="line[starts-with(upper-case(text()), &quot;WHO'S WHO&quot;)]">
+    <xsl:template mode="text" match="line[starts-with(upper-case(.), &quot;WHO'S WHO&quot;)]">
         <bios>
             <header><xsl:value-of select="."/></header>
             <xsl:call-template name="groupEntries">
@@ -152,7 +152,7 @@
     </xsl:template>
     
     <!-- setting and adjacent info -->
-    <xsl:template mode="text" match="line[upper-case(text()) = 'SETTING' or upper-case(text()) = 'PLACE' or starts-with(upper-case(text()), 'TIME:')]">
+    <xsl:template mode="text" match="line[upper-case(.) = 'SETTING' or upper-case(.) = 'PLACE' or starts-with(upper-case(.), 'TIME:')]">
         <setting>
             <header><xsl:value-of select="."/></header>
             <xsl:call-template name="getLine">
@@ -173,7 +173,7 @@
             <xsl:when test="$next/self::line">
                 <xsl:choose>
                     <!-- beginning of next section, terminate -->
-                    <xsl:when test="upper-case($next/text()) = 'THE PRODUCTION TEAM' or upper-case($next/text()) = 'THE CAST'"/>                        
+                    <xsl:when test="upper-case($next) = 'THE PRODUCTION TEAM' or upper-case($next) = 'THE CAST'"/>                        
                     <!-- else copy and process next element -->
                     <xsl:otherwise>
                         <xsl:copy-of select="$next"/>
@@ -227,7 +227,27 @@
                             </role>
                             <talent>
                                 <!-- include the last two words from the first piece and the whole second piece -->
-                                <xsl:value-of select="concat($words[position()=(last()-1)], ' ', $words[position()=last()], ', ', $piece2)"/>
+                                <xsl:value-of select="concat($words[position()=(last()-1)], ' ', $words[position()=last()], ',', $piece2)"/>
+                            </talent>
+                        </credit>
+                    </xsl:when>
+                    <!-- check for ampersand in names only (at least one occurence but not early in line) -->
+                    <xsl:when test="contains($next, '&amp;') and not(contains(substring($next,1,15), '&amp;'))">
+                        <!-- split into pre- and post-amp strings -->
+                        <xsl:variable name="piece1" select="substring-before($next, ' &amp;')"/>
+                        <xsl:variable name="piece2" select="substring-after($next, ' &amp;')"/>
+                        <!-- split the first string into a sequence of words -->
+                        <xsl:variable name="words" select="tokenize($piece1, ' ')"/>
+                        <credit>
+                            <role>
+                                <!-- include each word except the last two before the amp -->
+                                <xsl:for-each select="$words[position() &lt; (last()-1)]">
+                                    <xsl:value-of select="concat(., ' ')"/>
+                                </xsl:for-each>    
+                            </role>
+                            <talent>
+                                <!-- include the last two words from the first piece and the whole second piece -->
+                                <xsl:value-of select="concat($words[position()=(last()-1)], ' ', $words[position()=last()], ' &amp;', $piece2)"/>
                             </talent>
                         </credit>
                     </xsl:when>
