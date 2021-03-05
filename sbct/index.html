@@ -15,7 +15,7 @@ title: "SBCT Digital Publishing Project"
 <ul>
 	{% for file in site.static_files %}
 		{% assign dirs = file.path | split: '/' %}
-		{% if dirs[1] == 'sbct' and dirs[2] = 'output' %}
+		{% if dirs[1] == 'sbct' %}
 	    	<li><a href="{{ site.url }}{{ file.path }}">{{ file.name }}</a></li>
 		{% endif %}
 	{% endfor %}
