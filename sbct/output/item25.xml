@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="https://rooneypower.github.io/sbct/xslt/program_style_pi.xsl"?>
-<program xmlns:dc="http://purl.org/dc/elements/1.1/"
-         xmlns:om="http://omeka.org/schemas/omeka-xml/v5"
-         xml:id="25">
+<program xmlns:dc="http://purl.org/dc/elements/1.1/" xml:id="25">
    <metadata>
       <dc:title>Smokey Joe's Cafe: The Songs of Leiber and Stoller</dc:title>
       <dc:creator>South Bend Civic Theatre</dc:creator>
@@ -27,67 +25,67 @@
       <crew>
          <header>THE PRODUCTION CREW</header>
          <credit>
-            <role>Co-Directors J. </role>
-            <talent>Michael Johnson &amp; Jeff A. Wilder</talent>
+            <role>Co-Directors</role>
+            <talent>J. Michael Johnson &amp; Jeff A. Wilder</talent>
          </credit>
          <credit>
-            <role>Musical Director </role>
+            <role>Musical Director</role>
             <talent>Elaine Lange</talent>
          </credit>
          <credit>
-            <role>Choreography J. </role>
-            <talent>Michael Johnson &amp; Jeff A. Wilder</talent>
+            <role>Choreography</role>
+            <talent>J. Michael Johnson &amp; Jeff A. Wilder</talent>
          </credit>
          <credit>
-            <role>Production Design </role>
+            <role>Production Design</role>
             <talent>Phil Parnaude</talent>
          </credit>
          <credit>
-            <role>Technical Director </role>
+            <role>Technical Director</role>
             <talent>Tom Brubaker</talent>
          </credit>
          <credit>
-            <role>Set &amp; Light Design </role>
+            <role>Set &amp; Light Design</role>
             <talent>Phil Patnaude</talent>
          </credit>
          <credit>
-            <role>Set Artist </role>
+            <role>Set Artist</role>
             <talent>Jim Borden</talent>
          </credit>
          <credit>
-            <role>Light &amp; Sound Technicians Phillip Langthorne &amp; </role>
+            <role>Light &amp; Sound Technicians Phillip Langthorne &amp;</role>
             <talent>John Cory</talent>
          </credit>
          <credit>
-            <role>Costumes </role>
+            <role>Costumes</role>
             <talent>Jean Savarese &amp; Cast</talent>
          </credit>
          <credit>
-            <role>Properties </role>
+            <role>Properties</role>
             <talent>Pat Berardi, Jonnie &amp; Seyhan Kilic, David M. Case</talent>
          </credit>
          <credit>
-            <role>Set Construction and Painting </role>
+            <role>Set Construction and Painting</role>
             <talent>Tom Brubaker, Michael Kreischer, Phil Patnaude</talent>
          </credit>
       </crew>
       <cast>
          <header>THE CAST</header>
          <credit>
-            <role>Rhoda </role>
-            <talent>M. Bradshaw</talent>
+            <role/>
+            <talent>Rhoda M. Bradshaw</talent>
          </credit>
          <credit>
             <role/>
             <talent>Jenny DeDario</talent>
          </credit>
          <credit>
-            <role>Kelly </role>
-            <talent>E. Fisher</talent>
+            <role/>
+            <talent>Kelly E. Fisher</talent>
          </credit>
          <credit>
-            <role>J. </role>
-            <talent>Michael Johnson</talent>
+            <role/>
+            <talent>J. Michael Johnson</talent>
          </credit>
          <credit>
             <role/>
@@ -102,31 +100,31 @@
             <talent>Janet Shafer</talent>
          </credit>
          <credit>
-            <role>Jeff </role>
-            <talent>A. Wilder</talent>
+            <role/>
+            <talent>Jeff A. Wilder</talent>
          </credit>
          <credit>
             <role/>
             <talent>Olivia Williams</talent>
          </credit>
          <credit>
-            <role>Keith </role>
-            <talent>A. Young</talent>
+            <role/>
+            <talent>Keith A. Young</talent>
          </credit>
       </cast>
       <bios>
          <header>WHO'S WHO</header>
-         <entry>Rhoda M. Bradshaw was seen last season at Civic in Leader of the Pack, Blessed Assurance, and The Laramie Project. As she has done for the past three years, she will once again be celebrating her birthday onstage at The Firehouse. Good show, great music, talented people ...what better present could you ask for? Oh, yeah, SOLD OUT HOUSES! </entry>
-         <entry>Jenny N. DeDario is appearing for the first time with South Bend Civic, having appeared many times previously with Elkhart Civic Theatre. Her most recent role there was as Ann Collier in The 1940s Radio Hour. Other musical credits include the part of Sally Bowles in Cabaret, Fanny Brice in Funny Girl, Reno Sweeney in Anything Goes, Dolly Levi in Hello, Dolly, and Miss Mona Stangley in The Best Little Whorehouse in Texas. Jenny wishes to thank her two sons, Vince and Nick, for their encouragement and support. </entry>
-         <entry>Kelly E. Fisher studied Music and Mass Communication at IUSB. In 1995, she made her Civic stage debut in Joe Turner's Come and Gone. She also appeared in Blues in the Night, under the direction of Rhoda Bradshaw and J. Michael Johnson, in 2001. She was recently featured in Mary Alford's "I Saw the Light" at Century Center's Bendix Theatre. Kelly is very honored to share her God-given talents with Civic once again. </entry>
-         <entry>J. Michael Johnson begins his 25th year of performing/directing (both professionally and as a volunteer) with this production, his 100th, overall. He was last seen here as Frankie in Forever Plaid, and co-directed SBCT's production of Blues in the Night, in 2001. He has directed several shows for Civic since 1984, as well as being the Founder/Director/Vocalist of the local entertainment troupe The South Bend Junxion, now celebrating its 20th anniversary. "J.J." wishes to thank his talented cast, co-director Jeff, and especially musical director Elaine, for her patience. As always, he dedicates this show to this partner, Frank. </entry>
-         <entry>Elaine Lange is serving for the first time as musical director of an SBCT production, having served as accompanist for Civic's production last summer as Oklahoma! The choir accompanist at John Young Middle School in Mishawaka, she has also served as accompanist for Mishawaka High School productions of Into the Woods, Crazy for You, How to Succeed in Business, and Guys and Dolls. </entry>
-         <entry>Ben Little was seen last season at Civic in the comedy Lend Me a Tenor and, before that, in the musical Leader of the Pack. He has returned for what promises to be another fun-filled year at South Bend Civic Theatre! </entry>
-         <entry>Gene Mikolajewski is making his SBCT debut in this production. A life-long resident of South Bend and a graduate of the University of Notre Dame, he has played trumpet for many years, performing in a variety of musical venues. </entry>
-         <entry>Janet Shafer studied musical theatre at The American Musical &amp; Dramatic Academy in New York. She played the part of "Babe" in SBCT's production of Crimes of the Heart in 1990, and returned last year as Ellie Greenwich in Leader of the Pack. One of her favorite roles was that of Eliza Doolittle in My Fair Lady. </entry>
-         <entry>Jeff A. Wilder, last seen on the Firehouse stage in the musical revue "Tony" in 1981, stepped into this production two weeks before opening when a former cast member was injured. Since his theatre debut at the age of five, Jeff has performed in, designed, and/or directed over fifty shows. Among his favorite roles are Jimmy in The Rainmaker, Harry the Horse in Guys and Dolls, and Renfield in Dracula. His past directing credits include Whose Life Is It, Anyway, The Rainmaker, Absolutely Murder, and The Elephant Man. He thanks his wife and daughters for their support and dedicates this production to Jimmy. </entry>
-         <entry>Olivia Williams, a native of Chicago, is an accomplished college administrator, with a bachelor's degree in psychology and a master's in counseling education from Chicago State University. For eight years, she served as assistant director of the Career Center at the University of Notre Dame. She has performed in the musical Torn, has been a featured vocalist in numerous ND graduation ceremonies, and has appeared as an extra in the films "Soul Food" and "Hoodlum." She is now regional director for Excel Communications and an independent career success consultant for Notre Dame. </entry>
-         <entry>Keith A. Young is making his SBCT debut in this production. Born and raised in Evansville, he attended Indiana University, studying with William Shriner. At IU, he performed with the Singing Hoosiers and the I.U. Opera Theatre. Later, he became a member and soloist with the Indianapolis Symphonic Choir. </entry>
+         <entry>Rhoda M. Bradshaw was seen last season at Civic in Leader of the Pack, Blessed Assurance, and The Laramie Project. As she has done for the past three years, she will once again be celebrating her birthday onstage at The Firehouse. Good show, great music, talented people ...what better present could you ask for? Oh, yeah, SOLD OUT HOUSES!</entry>
+         <entry>Jenny N. DeDario is appearing for the first time with South Bend Civic, having appeared many times previously with Elkhart Civic Theatre. Her most recent role there was as Ann Collier in The 1940s Radio Hour. Other musical credits include the part of Sally Bowles in Cabaret, Fanny Brice in Funny Girl, Reno Sweeney in Anything Goes, Dolly Levi in Hello, Dolly, and Miss Mona Stangley in The Best Little Whorehouse in Texas. Jenny wishes to thank her two sons, Vince and Nick, for their encouragement and support.</entry>
+         <entry>Kelly E. Fisher studied Music and Mass Communication at IUSB. In 1995, she made her Civic stage debut in Joe Turner's Come and Gone. She also appeared in Blues in the Night, under the direction of Rhoda Bradshaw and J. Michael Johnson, in 2001. She was recently featured in Mary Alford's "I Saw the Light" at Century Center's Bendix Theatre. Kelly is very honored to share her God-given talents with Civic once again.</entry>
+         <entry>J. Michael Johnson begins his 25th year of performing/directing (both professionally and as a volunteer) with this production, his 100th, overall. He was last seen here as Frankie in Forever Plaid, and co-directed SBCT's production of Blues in the Night, in 2001. He has directed several shows for Civic since 1984, as well as being the Founder/Director/Vocalist of the local entertainment troupe The South Bend Junxion, now celebrating its 20th anniversary. "J.J." wishes to thank his talented cast, co-director Jeff, and especially musical director Elaine, for her patience. As always, he dedicates this show to this partner, Frank.</entry>
+         <entry>Elaine Lange is serving for the first time as musical director of an SBCT production, having served as accompanist for Civic's production last summer as Oklahoma! The choir accompanist at John Young Middle School in Mishawaka, she has also served as accompanist for Mishawaka High School productions of Into the Woods, Crazy for You, How to Succeed in Business, and Guys and Dolls.</entry>
+         <entry>Ben Little was seen last season at Civic in the comedy Lend Me a Tenor and, before that, in the musical Leader of the Pack. He has returned for what promises to be another fun-filled year at South Bend Civic Theatre!</entry>
+         <entry>Gene Mikolajewski is making his SBCT debut in this production. A life-long resident of South Bend and a graduate of the University of Notre Dame, he has played trumpet for many years, performing in a variety of musical venues.</entry>
+         <entry>Janet Shafer studied musical theatre at The American Musical &amp; Dramatic Academy in New York. She played the part of "Babe" in SBCT's production of Crimes of the Heart in 1990, and returned last year as Ellie Greenwich in Leader of the Pack. One of her favorite roles was that of Eliza Doolittle in My Fair Lady.</entry>
+         <entry>Jeff A. Wilder, last seen on the Firehouse stage in the musical revue "Tony" in 1981, stepped into this production two weeks before opening when a former cast member was injured. Since his theatre debut at the age of five, Jeff has performed in, designed, and/or directed over fifty shows. Among his favorite roles are Jimmy in The Rainmaker, Harry the Horse in Guys and Dolls, and Renfield in Dracula. His past directing credits include Whose Life Is It, Anyway, The Rainmaker, Absolutely Murder, and The Elephant Man. He thanks his wife and daughters for their support and dedicates this production to Jimmy.</entry>
+         <entry>Olivia Williams, a native of Chicago, is an accomplished college administrator, with a bachelor's degree in psychology and a master's in counseling education from Chicago State University. For eight years, she served as assistant director of the Career Center at the University of Notre Dame. She has performed in the musical Torn, has been a featured vocalist in numerous ND graduation ceremonies, and has appeared as an extra in the films "Soul Food" and "Hoodlum." She is now regional director for Excel Communications and an independent career success consultant for Notre Dame.</entry>
+         <entry>Keith A. Young is making his SBCT debut in this production. Born and raised in Evansville, he attended Indiana University, studying with William Shriner. At IU, he performed with the Singing Hoosiers and the I.U. Opera Theatre. Later, he became a member and soloist with the Indianapolis Symphonic Choir.</entry>
       </bios>
    </text>
 </program>

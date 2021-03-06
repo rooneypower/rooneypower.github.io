@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="https://rooneypower.github.io/sbct/xslt/program_style_pi.xsl"?>
-<program xmlns:dc="http://purl.org/dc/elements/1.1/"
-         xmlns:om="http://omeka.org/schemas/omeka-xml/v5"
-         xml:id="27">
+<program xmlns:dc="http://purl.org/dc/elements/1.1/" xml:id="27">
    <metadata>
       <dc:title>Rumors</dc:title>
       <dc:creator>South Bend Civic Theatre</dc:creator>
@@ -25,39 +23,39 @@
       <crew>
          <header>THE PRODUCTION TEAM</header>
          <credit>
-            <role>Director </role>
+            <role>Director</role>
             <talent>Mark Abram-Copenhaver</talent>
          </credit>
          <credit>
-            <role>Assistant Director/Stage Manager Rick </role>
+            <role>Assistant Director/Stage Manager Rick</role>
             <talent>W Ellis</talent>
          </credit>
          <credit>
-            <role>Production Design </role>
+            <role>Production Design</role>
             <talent>David Chudzynski</talent>
          </credit>
          <credit>
-            <role>Technical Director </role>
+            <role>Technical Director</role>
             <talent>Tom Brubaker</talent>
          </credit>
          <credit>
-            <role>Lighting Design </role>
+            <role>Lighting Design</role>
             <talent>Mark Abram-Copenhaver</talent>
          </credit>
          <credit>
-            <role>Sound Design Rick </role>
+            <role>Sound Design Rick</role>
             <talent>W Ellis, Mark Abram-Copenhaver</talent>
          </credit>
          <credit>
-            <role>Set Design </role>
+            <role>Set Design</role>
             <talent>David Chudzynski, Mark Abram-Copenhaver</talent>
          </credit>
          <credit>
-            <role>Lighting &amp; Sound Technician </role>
+            <role>Lighting &amp; Sound Technician</role>
             <talent>Seyhan Kilic</talent>
          </credit>
          <credit>
-            <role>Costumes Jonnie &amp; </role>
+            <role>Costumes Jonnie &amp;</role>
             <talent>Seyhan Kilic, Cast</talent>
          </credit>
          <credit>
@@ -65,12 +63,12 @@
             <talent>Properties Cast</talent>
          </credit>
          <credit>
-            <role>Set Construction </role>
+            <role>Set Construction</role>
             <talent>Reggie Batusic, Tom Brubaker,</talent>
          </credit>
          <credit>
-            <role>David &amp; </role>
-            <talent>Deborah Chudzynski,</talent>
+            <role>David &amp;</role>
+            <talent>Deborah Chudzynski</talent>
          </credit>
          <credit>
             <role/>
@@ -89,61 +87,61 @@
       <cast>
          <header>THE CAST</header>
          <credit>
-            <role>Chris Gorman </role>
+            <role>Chris Gorman</role>
             <talent>Merideth Pierce</talent>
          </credit>
          <credit>
-            <role>Ken Gorman </role>
+            <role>Ken Gorman</role>
             <talent>Dan Lehner</talent>
          </credit>
          <credit>
-            <role>Claire Ganz </role>
+            <role>Claire Ganz</role>
             <talent>Jenny DeDario</talent>
          </credit>
          <credit>
-            <role>Lenny Ganz Steve </role>
-            <talent>A. Gergacz, Jr.</talent>
+            <role>Lenny Ganz</role>
+            <talent>Steve A. Gergacz, Jr.</talent>
          </credit>
          <credit>
-            <role>Ernie Cusack Todd </role>
-            <talent>A. Shenaman</talent>
+            <role>Ernie Cusack</role>
+            <talent>Todd A. Shenaman</talent>
          </credit>
          <credit>
-            <role>Cookie Cusack </role>
+            <role>Cookie Cusack</role>
             <talent>Pat Berardi</talent>
          </credit>
          <credit>
-            <role>Cassie Cooper </role>
+            <role>Cassie Cooper</role>
             <talent>Leigh Taylor</talent>
          </credit>
          <credit>
-            <role>Glenn Cooper </role>
+            <role>Glenn Cooper</role>
             <talent>Jim Coppens</talent>
          </credit>
          <credit>
-            <role>Officer Welch </role>
+            <role>Officer Welch</role>
             <talent>Vinny Chhibber</talent>
          </credit>
          <credit>
-            <role>Officer Pudney </role>
+            <role>Officer Pudney</role>
             <talent>Demita Johnson</talent>
          </credit>
       </cast>
       <bios>
          <header>WHO'S WHO</header>
-         <entry>MARK ABRAM-COPENHAVER (Director) is a member of the theatre faculty at Saint Mary's College. Over the last two years at Civic, he has co­directed with his wife, Jewel, productions of The Enchantment of Beauty and the Beast and Aladdin &amp; His Wonderful, Magical lamp at the Morris and directed, solo, Civic's June 2002 production of Lend Me a Tenor. Prior to moving to South Bend in 1999, Mark and Jewel owned and operated a performing and visual arts academy for children in Philadelphia. </entry>
-         <entry>PAT BERARDI (Cookie) has appeared many times on the Firehouse stage since her debut in 6 Rms Riv Vu in 1986. Among her acting credits are lead roles in Who's Afraid of Virginia Woolf?, laughing Wild, The Shadow Box, and Marvin's Room. A past president of Civic, she and her husband, Tony, have been principal underwriters of the theatre's Children's Series since 1996. </entry>
-         <entry>VINNY CHHIBBER (Officer Welch) is an East Coast transplant, making his SBCT debut in this production. He will also be appearing in July in Civic's next Studio Season production, The Stillborn lover by Timothy Findley. </entry>
-         <entry>DAVID CHUDZYNSKI (Production Designer) directed Book of Days for SBCT in December; he was one of the lead actors in Apartment 3A in May, and his newest play, Zebra Swallowtail will receive its world premier at The Firehouse in July, after he finishes directing Once Upon a Mattress at Firefly. </entry>
-         <entry>JIM COPPENS (Glenn) has been appearing on local theatre stages since 1980. His favorite acting roles have included Henry II in The Lion in Winter, Henry Higgins in My Fair Lady, Harold Hill in The Music Man, C.S. Lewis in Shadowlands, Willie Smith in The Sunshine Boys, George in Who's Afraid of Virginia Woolf?, and James Tyrone in Long Day's Journey Into Night. </entry>
-         <entry>JENNY DeDARIO (Claire) made her SBCT acting debut in February in Smokey Joe's Cafe. She has been seen many times on stage with Elkhart Civic Theatre. Her most recent role there was as Ann Collier in The 1940s Radio Hour. She has played lead roles also in Cabaret, Funny Girl, Anything Goes, Hello, Dolly, and The Best Little Whorehouse in Texas. </entry>
-         <entry>RICK W. ELLIS (Assistant Director/Stage Manager) was stage manager previously this season for SBCT' s production of The Guys. He appeared on stage last season at The Firehouse in Leader of the Pack, Blessed Assurance, and The Laramie Project. A member of Civic's board of directors, Rick is a longtime member of the theatre's Play Selection Committee. </entry>
-         <entry>STEVE A. GERGACZ, Jr. (Lenny) has played major acting roles since 1985 in SBCT productions of Play It Again, Sam, A Thousand Clowns, Mass Appeal. Wait Until Dark, The Dining Room, Laughter on the 23rd Floor, Glengarry Glen Ross, Three Viewings, Mere Mortals, A Streetcar Named Desire, Leader of the Pack, lend Me a Tenor, and, most recently, The Guys. </entry>
-         <entry>DEMITA JOHNSON (Officer Pudney) made her SBCT acting debut last October in A Lesson Before Dying. A full-time student at Bethel College majoring in human services, she is a single mother of two, ages 4 and 9. </entry>
-         <entry>DAN LEHNER (Ken) appeared most recently on stage as Lenny in SBCT's production of Of Mice and Men. He was seen last year at The Firehouse in Book of Days, The Legend of Sleepy Hollow, and Alice in Wonderland. </entry>
-         <entry>MERIDETH PIERCE (Chris) was stage manager last year for SBCT's pro­ duction of Lend Me a Tenor. She is a recent graduate of St. Mary's College. </entry>
-         <entry>TODD A. SHENAMAN (Ernie), who last appeared at Civic in 1978 in Egad, the Woman in White, has written, directed, and performed in numerous short sketches in church and talent shows since then. On top of that, he says, he has pretty much spent his whole life acting up, acting smart, and acting like he knows what he's doing. A deliveryman by trade, he lives in South Bend with his wonderful wife of 17 years and their two teenage children. </entry>
-         <entry>LEIGH TAYLOR (Cassie) has directed several plays at Civic, including Moon Over Buffalo, Buried Child, and Long Day's Journey Into Night. On stage, she has appeared in SBCT productions of Cat on a Hot Tin Roof and Laughter on the 23rd Floor. Most recently, she starred as the dying professor in Wit. </entry>
+         <entry>MARK ABRAM-COPENHAVER (Director) is a member of the theatre faculty at Saint Mary's College. Over the last two years at Civic, he has co­directed with his wife, Jewel, productions of The Enchantment of Beauty and the Beast and Aladdin &amp; His Wonderful, Magical lamp at the Morris and directed, solo, Civic's June 2002 production of Lend Me a Tenor. Prior to moving to South Bend in 1999, Mark and Jewel owned and operated a performing and visual arts academy for children in Philadelphia.</entry>
+         <entry>PAT BERARDI (Cookie) has appeared many times on the Firehouse stage since her debut in 6 Rms Riv Vu in 1986. Among her acting credits are lead roles in Who's Afraid of Virginia Woolf?, laughing Wild, The Shadow Box, and Marvin's Room. A past president of Civic, she and her husband, Tony, have been principal underwriters of the theatre's Children's Series since 1996.</entry>
+         <entry>VINNY CHHIBBER (Officer Welch) is an East Coast transplant, making his SBCT debut in this production. He will also be appearing in July in Civic's next Studio Season production, The Stillborn lover by Timothy Findley.</entry>
+         <entry>DAVID CHUDZYNSKI (Production Designer) directed Book of Days for SBCT in December; he was one of the lead actors in Apartment 3A in May, and his newest play, Zebra Swallowtail will receive its world premier at The Firehouse in July, after he finishes directing Once Upon a Mattress at Firefly.</entry>
+         <entry>JIM COPPENS (Glenn) has been appearing on local theatre stages since 1980. His favorite acting roles have included Henry II in The Lion in Winter, Henry Higgins in My Fair Lady, Harold Hill in The Music Man, C.S. Lewis in Shadowlands, Willie Smith in The Sunshine Boys, George in Who's Afraid of Virginia Woolf?, and James Tyrone in Long Day's Journey Into Night.</entry>
+         <entry>JENNY DeDARIO (Claire) made her SBCT acting debut in February in Smokey Joe's Cafe. She has been seen many times on stage with Elkhart Civic Theatre. Her most recent role there was as Ann Collier in The 1940s Radio Hour. She has played lead roles also in Cabaret, Funny Girl, Anything Goes, Hello, Dolly, and The Best Little Whorehouse in Texas.</entry>
+         <entry>RICK W. ELLIS (Assistant Director/Stage Manager) was stage manager previously this season for SBCT' s production of The Guys. He appeared on stage last season at The Firehouse in Leader of the Pack, Blessed Assurance, and The Laramie Project. A member of Civic's board of directors, Rick is a longtime member of the theatre's Play Selection Committee.</entry>
+         <entry>STEVE A. GERGACZ, Jr. (Lenny) has played major acting roles since 1985 in SBCT productions of Play It Again, Sam, A Thousand Clowns, Mass Appeal. Wait Until Dark, The Dining Room, Laughter on the 23rd Floor, Glengarry Glen Ross, Three Viewings, Mere Mortals, A Streetcar Named Desire, Leader of the Pack, lend Me a Tenor, and, most recently, The Guys.</entry>
+         <entry>DEMITA JOHNSON (Officer Pudney) made her SBCT acting debut last October in A Lesson Before Dying. A full-time student at Bethel College majoring in human services, she is a single mother of two, ages 4 and 9.</entry>
+         <entry>DAN LEHNER (Ken) appeared most recently on stage as Lenny in SBCT's production of Of Mice and Men. He was seen last year at The Firehouse in Book of Days, The Legend of Sleepy Hollow, and Alice in Wonderland.</entry>
+         <entry>MERIDETH PIERCE (Chris) was stage manager last year for SBCT's pro­ duction of Lend Me a Tenor. She is a recent graduate of St. Mary's College.</entry>
+         <entry>TODD A. SHENAMAN (Ernie), who last appeared at Civic in 1978 in Egad, the Woman in White, has written, directed, and performed in numerous short sketches in church and talent shows since then. On top of that, he says, he has pretty much spent his whole life acting up, acting smart, and acting like he knows what he's doing. A deliveryman by trade, he lives in South Bend with his wonderful wife of 17 years and their two teenage children.</entry>
+         <entry>LEIGH TAYLOR (Cassie) has directed several plays at Civic, including Moon Over Buffalo, Buried Child, and Long Day's Journey Into Night. On stage, she has appeared in SBCT productions of Cat on a Hot Tin Roof and Laughter on the 23rd Floor. Most recently, she starred as the dying professor in Wit.</entry>
       </bios>
    </text>
 </program>

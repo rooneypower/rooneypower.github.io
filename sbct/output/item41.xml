@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="https://rooneypower.github.io/sbct/xslt/program_style_pi.xsl"?>
-<program xmlns:dc="http://purl.org/dc/elements/1.1/"
-         xmlns:om="http://omeka.org/schemas/omeka-xml/v5"
-         xml:id="41">
+<program xmlns:dc="http://purl.org/dc/elements/1.1/" xml:id="41">
    <metadata>
       <dc:title>Humble Boy</dc:title>
       <dc:creator>South Bend Civic Theatre</dc:creator>
@@ -36,89 +34,89 @@
       <crew>
          <header>The Production Team</header>
          <credit>
-            <role>Director </role>
+            <role>Director</role>
             <talent>Kevin Dreyer</talent>
          </credit>
          <credit>
-            <role>Set Design </role>
+            <role>Set Design</role>
             <talent>David Chudzynski</talent>
          </credit>
          <credit>
-            <role>Lighting Design </role>
+            <role>Lighting Design</role>
             <talent>Matt Davidson</talent>
          </credit>
          <credit>
-            <role>Stage Manager </role>
+            <role>Stage Manager</role>
             <talent>Alison Huffman</talent>
          </credit>
          <credit>
-            <role>Tech Direction </role>
+            <role>Tech Direction</role>
             <talent>Matt Davidson</talent>
          </credit>
          <credit>
-            <role>Costumes </role>
+            <role>Costumes</role>
             <talent>Michaela Duffy, Jane Zussman</talent>
          </credit>
          <credit>
-            <role>Properties </role>
+            <role>Properties</role>
             <talent>Alison Huffman</talent>
          </credit>
          <credit>
-            <role>Set Construction </role>
+            <role>Set Construction</role>
             <talent>Lisa Kowalski, Matt Davidson, David Chudzynski, Deborah Girasek-Chudzynski</talent>
          </credit>
          <credit>
-            <role>Lighting Operator </role>
+            <role>Lighting Operator</role>
             <talent>Chris Silvestri</talent>
          </credit>
          <credit>
-            <role>Sound Operator </role>
+            <role>Sound Operator</role>
             <talent>Sean Shank</talent>
          </credit>
          <credit>
-            <role>Production Photography </role>
+            <role>Production Photography</role>
             <talent>Jon Gilchrist</talent>
          </credit>
       </crew>
       <cast>
          <header>The Cast</header>
          <credit>
-            <role>Felix Humble </role>
+            <role>Felix Humble</role>
             <talent>Scot Shepley</talent>
          </credit>
          <credit>
-            <role>Mercy Lott Mary </role>
+            <role>Mercy Lott Mary</role>
             <talent>Ann Moran</talent>
          </credit>
          <credit>
-            <role>Flora Humble </role>
+            <role>Flora Humble</role>
             <talent>Deborah Girasek-Chudzynski</talent>
          </credit>
          <credit>
             <role/>
-            <talent> Jim, the gardener Roy Bronkema</talent>
+            <talent>Jim, the gardener Roy Bronkema</talent>
          </credit>
          <credit>
-            <role>George Pye </role>
+            <role>George Pye</role>
             <talent>David Chudzynski</talent>
          </credit>
          <credit>
-            <role>Rosie Pye </role>
+            <role>Rosie Pye</role>
             <talent>Jenny Dolph</talent>
          </credit>
       </cast>
       <bios>
          <header>Who's Who in the Cast &amp; Creative Team</header>
-         <entry>Roy Bronkema (Jim, the Gardener) is enjoying his 3rd appearance at the SBCT, having previously taken on roles in The Elephant Man and And Then There Were None. He is talented in several of the creative arts and is an accomplished classical pianist. Roy is married, the father of four grown children, and lives in Niles, Michigan. </entry>
-         <entry>David Chudzynski (George Pye, Set Designer, TD) is known as a gifted actor, director, and playwright as well as for his set and lighting designs, and is SBCT's fulltime technical director. He has played many roles for SBCT, most recently in Elephant Man. </entry>
-         <entry>Matt Davidson (Lighting Design) has been working as SBCT's assistant technical director for four years. Matt enjoyed traveling to Tacoma, WA last summer to participate in the American Association of Community Theatre's national competition with the award-winning Intimate Apparel, which he redesigned for competition and served as the tour's technical director. Previous design credits include Grease, Many Moons, Charlottes Web, and 5 Women Wearing the Same Dress. </entry>
-         <entry>Jenny M. Dolph (Rosie Pye) recently stage managed and played Fred Narracott in SBCT's And Then There Were None. While a student at Purdue University, she stage managed for Elliott Hall of Music on several major shows, including John Mayer, David Copperfield and the Russian ballet. She has worked as a director, producer, writer and editor in television broadcasting over the past seven years. </entry>
-         <entry>Kevin Dreyer (Director) is very happy to be directing this wonderful cast; his last outing with SBCT was 5 Women Wearing the Same Dress. Kevin is a member of the SBCT board of directors and teaches at </entry>
-         <entry>Who 's Who continued... the University of Notre Dame. He enjoys his highly theatrical family where his wife and all three of his daughters are involved in the performing arts. </entry>
-         <entry>Deborah Girasek-Chudzynski (Flora Humble) is thrilled to be working with such dedicated actors, production team, and director. As an actor for SBCT, she has enjoyed playing various roles such as Madame Arcadi in Blithe Spirit and Maggie in Dancing at Lughnasa, was last seen as Glory in Almost, Maine and directed Crumbs from the Table of Joy. She loves the opportunity to be on stage with her talented husband again. She is currently a faculty member of the Stanley Clark School, where she teaches Drama/Theatre and Public Speaking, directs two productions each year and coaches the Speech Team. </entry>
-         <entry>Alison Huffman (Stage Manager) is stage managing her sixth SBCT production, having done Song for Coretta, Five Women Wearing the Same Dress, Best Christmas Pageant Ever, Crumbs from the Table of Joy, and Seussical! The Musical. She is a Graduate of Bethel College with a BA in business administration and a minor in theatre. Alison's Bethel credits include Endgame and Don't Tell Mother! Alison would like to thank her family and friends for all their love and support! </entry>
-         <entry>Mary Ann Moran (Mercy Lott) has worked with South Bend Civic Theatre for more than 25 years on stage, behind the scenes, and on the Board of Directors. Among her favorite SBCT roles while at the Firehouse were Blanche in A Streetcar Named Desire, Eleanor in The Lion in Winter, and Mary Tyrone in A Long Day's Journey into Night. </entry>
-         <entry>Scot Shepley (Felix Humble) is thrilled to be making his Warner Studio Theatre debut after appearing on SBCT mainstage in Moonlight and Magnolias, The Elephant Man, The Sunshine Boys, Rashomon, Death of a Salesman, The Unexpected Guest, and The Adventures of Huckleberry Finn. He has performed with the Notre Dame Shakespeare Festival in As You Like It, Macbeth, Love's Labor's Lost and the upcoming Cymbeline. Other local performances include Female Transport for IUSB, "Bottom" in a Midsummer Night's Dream for Osceola Community Theatre and the upcoming premiere of The Tiernan Affair with the Acting Ensemble in August. Scot would like to thank his family for their love, support, and enthusiasm. </entry>
+         <entry>Roy Bronkema (Jim, the Gardener) is enjoying his 3rd appearance at the SBCT, having previously taken on roles in The Elephant Man and And Then There Were None. He is talented in several of the creative arts and is an accomplished classical pianist. Roy is married, the father of four grown children, and lives in Niles, Michigan.</entry>
+         <entry>David Chudzynski (George Pye, Set Designer, TD) is known as a gifted actor, director, and playwright as well as for his set and lighting designs, and is SBCT's fulltime technical director. He has played many roles for SBCT, most recently in Elephant Man.</entry>
+         <entry>Matt Davidson (Lighting Design) has been working as SBCT's assistant technical director for four years. Matt enjoyed traveling to Tacoma, WA last summer to participate in the American Association of Community Theatre's national competition with the award-winning Intimate Apparel, which he redesigned for competition and served as the tour's technical director. Previous design credits include Grease, Many Moons, Charlottes Web, and 5 Women Wearing the Same Dress.</entry>
+         <entry>Jenny M. Dolph (Rosie Pye) recently stage managed and played Fred Narracott in SBCT's And Then There Were None. While a student at Purdue University, she stage managed for Elliott Hall of Music on several major shows, including John Mayer, David Copperfield and the Russian ballet. She has worked as a director, producer, writer and editor in television broadcasting over the past seven years.</entry>
+         <entry>Kevin Dreyer (Director) is very happy to be directing this wonderful cast; his last outing with SBCT was 5 Women Wearing the Same Dress. Kevin is a member of the SBCT board of directors and teaches at</entry>
+         <entry>Who 's Who continued... the University of Notre Dame. He enjoys his highly theatrical family where his wife and all three of his daughters are involved in the performing arts.</entry>
+         <entry>Deborah Girasek-Chudzynski (Flora Humble) is thrilled to be working with such dedicated actors, production team, and director. As an actor for SBCT, she has enjoyed playing various roles such as Madame Arcadi in Blithe Spirit and Maggie in Dancing at Lughnasa, was last seen as Glory in Almost, Maine and directed Crumbs from the Table of Joy. She loves the opportunity to be on stage with her talented husband again. She is currently a faculty member of the Stanley Clark School, where she teaches Drama/Theatre and Public Speaking, directs two productions each year and coaches the Speech Team.</entry>
+         <entry>Alison Huffman (Stage Manager) is stage managing her sixth SBCT production, having done Song for Coretta, Five Women Wearing the Same Dress, Best Christmas Pageant Ever, Crumbs from the Table of Joy, and Seussical! The Musical. She is a Graduate of Bethel College with a BA in business administration and a minor in theatre. Alison's Bethel credits include Endgame and Don't Tell Mother! Alison would like to thank her family and friends for all their love and support!</entry>
+         <entry>Mary Ann Moran (Mercy Lott) has worked with South Bend Civic Theatre for more than 25 years on stage, behind the scenes, and on the Board of Directors. Among her favorite SBCT roles while at the Firehouse were Blanche in A Streetcar Named Desire, Eleanor in The Lion in Winter, and Mary Tyrone in A Long Day's Journey into Night.</entry>
+         <entry>Scot Shepley (Felix Humble) is thrilled to be making his Warner Studio Theatre debut after appearing on SBCT mainstage in Moonlight and Magnolias, The Elephant Man, The Sunshine Boys, Rashomon, Death of a Salesman, The Unexpected Guest, and The Adventures of Huckleberry Finn. He has performed with the Notre Dame Shakespeare Festival in As You Like It, Macbeth, Love's Labor's Lost and the upcoming Cymbeline. Other local performances include Female Transport for IUSB, "Bottom" in a Midsummer Night's Dream for Osceola Community Theatre and the upcoming premiere of The Tiernan Affair with the Acting Ensemble in August. Scot would like to thank his family for their love, support, and enthusiasm.</entry>
       </bios>
    </text>
 </program>

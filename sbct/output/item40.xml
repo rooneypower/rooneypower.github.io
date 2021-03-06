@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="https://rooneypower.github.io/sbct/xslt/program_style_pi.xsl"?>
-<program xmlns:dc="http://purl.org/dc/elements/1.1/"
-         xmlns:om="http://omeka.org/schemas/omeka-xml/v5"
-         xml:id="40">
+<program xmlns:dc="http://purl.org/dc/elements/1.1/" xml:id="40">
    <metadata>
       <dc:title>Out of Sterno</dc:title>
       <dc:creator>South Bend Civic Theatre</dc:creator>
@@ -31,109 +29,109 @@
       <crew>
          <header>The Production Team</header>
          <credit>
-            <role>Director </role>
+            <role>Director</role>
             <talent>Tami Ramaker</talent>
          </credit>
          <credit>
-            <role>Sound Design </role>
+            <role>Sound Design</role>
             <talent>Seyhan Kilic</talent>
          </credit>
          <credit>
-            <role>Lighting Design </role>
+            <role>Lighting Design</role>
             <talent>Kyle Techentin</talent>
          </credit>
          <credit>
-            <role>Set Design </role>
+            <role>Set Design</role>
             <talent>David Chudzynski</talent>
          </credit>
          <credit>
-            <role>Tech Direction </role>
+            <role>Tech Direction</role>
             <talent>David Chudzynski, Matt Davidson</talent>
          </credit>
          <credit>
-            <role>Set Construction </role>
+            <role>Set Construction</role>
             <talent>David Chudzynski, Matt Davidson, Jody Thorla</talent>
          </credit>
          <credit>
             <role/>
-            <talent> Costumes, Tatas &amp; Tummies Jonnie Kilic, Lois Veen, Cast</talent>
+            <talent>Costumes, Tatas &amp; Tummies Jonnie Kilic, Lois Veen, Cast</talent>
          </credit>
          <credit>
-            <role>Props </role>
+            <role>Props</role>
             <talent>Teri Szynski, Kirstin Apker, Cast</talent>
          </credit>
          <credit>
-            <role>La Toilette Machier Papier </role>
+            <role>La Toilette Machier Papier</role>
             <talent>Lois Veen</talent>
          </credit>
          <credit>
-            <role>Magazine Graphics </role>
+            <role>Magazine Graphics</role>
             <talent>Phil Kwiecinski</talent>
          </credit>
          <credit>
-            <role>Stage Manager </role>
+            <role>Stage Manager</role>
             <talent>Kirstin Apker</talent>
          </credit>
          <credit>
-            <role>Light Board Operator </role>
+            <role>Light Board Operator</role>
             <talent>Larry Hegg</talent>
          </credit>
          <credit>
-            <role>Sound Board Operator </role>
+            <role>Sound Board Operator</role>
             <talent>Seyhan Kilic</talent>
          </credit>
          <credit>
-            <role>Stripper/Dressers &amp; Crew </role>
+            <role>Stripper/Dressers &amp; Crew</role>
             <talent>Kirstin Apker, Jody Thorla, Cast</talent>
          </credit>
          <credit>
-            <role>Video &amp; Production Photos </role>
+            <role>Video &amp; Production Photos</role>
             <talent>Jon Gilchrist</talent>
          </credit>
          <credit>
-            <role>Set Construction &amp; Painting </role>
+            <role>Set Construction &amp; Painting</role>
             <talent>Matt Davidson, David Chudzynski, Jody Thorla</talent>
          </credit>
       </crew>
       <cast>
          <header>The Cast</header>
          <credit>
-            <role>Dotty </role>
+            <role>Dotty</role>
             <talent>Lisa Blodgett</talent>
          </credit>
          <credit>
-            <role>Voices &amp; Video Actors </role>
+            <role>Voices &amp; Video Actors</role>
             <talent>Kyle Curtis, Kirstin Apker</talent>
          </credit>
          <credit>
-            <role>Hamel </role>
+            <role>Hamel</role>
             <talent>Phil Kwiecinski</talent>
          </credit>
          <credit>
-            <role>Dan 1: </role>
+            <role>Dan 1:</role>
             <talent>Delivery Guy, Taxi Driver, Waiter Kirstin Apker</talent>
          </credit>
          <credit>
-            <role>Zena Nicole </role>
+            <role>Zena Nicole</role>
             <talent>Brinkmann Reeves</talent>
          </credit>
          <credit>
-            <role>Dan 2: </role>
-            <talent>Mrs. Cuthbert, Mrs. Peabody, Barb, Sallie Mae, Man on the Bus Kyle Curtis</talent>
+            <role>Dan</role>
+            <talent>2: Mrs. Cuthbert, Mrs. Peabody, Barb, Sallie Mae, Man on the Bus Kyle Curtis</talent>
          </credit>
       </cast>
       <bios>
          <header>Who's Who in the Cast &amp; Creative Team</header>
-         <entry>KIRSTIN APKER (Dan 1, Stage Manager) first played a member of the opposite sex in her third grade's radio play. However, her previous roles at Civic have all been "real women", including Elaine in Arsenic &amp; Old Lace (wannabe hussy), Fraulein Kost in Cabaret (certified hussy), vampire vixen in Dracula (bloodsucking hussy). She has also schlepped backstage for Moonlight &amp; Magnolias (bananas! peanuts!) and If You Give a Mouse a Cookie. Kirstin will soon add Ph.D. student to her collection of roles as she and her "real man" Tom invade the great swamp of D.C. "We will miss our SBCT family!" </entry>
-         <entry>LISA BLODGETT (Dotty) is a 19-year old stay-at-home teen. She has been in the acting biz since she was 6 and hasn't stopped! She has been in 25 musicals and only 3 straight shows. This is her first comedy. She must admit that she feels a bit out of her element without a song, but likes to think Dottie sings in the shower. Lisa would like to thank two of her biggest cheerleaders, Mom &amp; Dad, &amp; "this amazing cast for their funny, wholesome, down-to-earth, homey aspects of their radiant splendiforousness!" </entry>
-         <entry>NICOLE BRINKMANN REEVES (Zena) wants any ladies who are tempted to say, 'Nicole looks great!' to know that not only is beauty painful, it's expensive and time-consuming, and she thinks you would be better off putting your money and time toward developing other strengths, maybe kindness, math skills, a sense of humor? She also wants everyone to know that in real life she rarely wears makeup, has a Ph.D. in computational quantum chemistry, and married the man who told her that he thinks women look prettiest when they don't wear makeup. </entry>
-         <entry>DAVID CHUDZYNSKI (Set Designer) is SBCT's technical director, and designs sets for many of our productions. He is also a gifted actor, playwright and director. Director's Note: We knew David really 'got' this show when we came in for rehearsal to discover the zebra chairs &amp; leopard-spotted bookcase. LOL! </entry>
-         <entry>KYLE CURTIS (Dan 2) has been in numerous shows with SBCT, Osceola Community Theatre and the Beckwith Theatre in Dowagiac He is nearing 4 years ofdoing theatre and the more experience he gets the more he falls in love with it. He is very happy and excited to be a citizen of Sterno. "Working on this show has been so fun &amp; all the people involved have been an absolute blast!" The biggest challenge has been trying to identify 5 different "people" in his head, oddly enough he found several women. He truly sympathizes with women now -"heels and bras are a hassle!" Special thanks to all his loyal friends &amp; family members who support his love for theatre. He hopes you have fun with the show! </entry>
-         <entry>JONNIE KILIC (Costumes) Celebrating 20 years plus of volunteering, working and supporting SBCT, and not a gray hair! "It's all highlights. The opportunity to help visually create larger-than-life characters by finding/building unique costumes was appreciated. Thank you to Lois for her help in seeking and sewing. Costume items were found as far away as Lansing, MI and mid-Wisconsin. Thank you to the fine cast and crew for their fantastic costume finds." </entry>
-         <entry>SEYHAN KILIC (Sound Design &amp; Execution) Crash, ding-dong, smack! "I am grateful to work with a most resplendent troupe, particularly Phil for assisting in discriminating some fine warbles. Also, special requites to my friend Don. I fancy tantalizing sonority and stupefying an apprised semblage." Editor's Note: The Rodale Synonym Finder was not harmed in the making of this bio. </entry>
-         <entry>PHIL KWIECINSKI (Hamel) most recently appeared in SBCT's It's a Wonderful life. You might have also seen him in The Arabian Nights, The Importance of Being Earnest, Over the Tavern, The Legend of Sleepy Hollow, or several different cameos over the years. "A big thank you to Neal at It's a Man's World for helping me look so damn good!" </entry>
-         <entry>TAMI RAMAKER (Director) is a playwright and actor as well as a director. She is the executive/ artistic director at SBCT, and loves working fulltime in her field. "It is a real quirk of fate that I got the chance to direct this show, and it's kind of spooky ... The first show we did after I joined SBCT was Almost, Maine, which premiered at Portland Stage Company while I was there, and now, by accident, I get to direct another PSC premiered-show. It's been a great joy to work with such a talented cast and creative team - As a director, I will never say 'give me Ibsen or give me death' ever again!" </entry>
-         <entry>KYLE TECHENTIN (Lighting Design) is a senior at Indiana University South Bend pursuing a B.F.A. in Lighting Design. He is a recipient of the Broadway Theatre League Scholarship Award and the Backstage Support Award. Other credits include: West Side Story Stage Manager; Alice in Wonderland Lighting and Scenic Designer; The Best Christmas Pageant Ever Lighting Designer; Amahl and the Night Visitors Stage Manager; After Juliet Technical Director; Godspel1 Stage Manager. This summer Kyle is working summer stock at the Notre Dame Shakespeare Festival as their Master Carpenter/Electrician. </entry>
+         <entry>KIRSTIN APKER (Dan 1, Stage Manager) first played a member of the opposite sex in her third grade's radio play. However, her previous roles at Civic have all been "real women", including Elaine in Arsenic &amp; Old Lace (wannabe hussy), Fraulein Kost in Cabaret (certified hussy), vampire vixen in Dracula (bloodsucking hussy). She has also schlepped backstage for Moonlight &amp; Magnolias (bananas! peanuts!) and If You Give a Mouse a Cookie. Kirstin will soon add Ph.D. student to her collection of roles as she and her "real man" Tom invade the great swamp of D.C. "We will miss our SBCT family!"</entry>
+         <entry>LISA BLODGETT (Dotty) is a 19-year old stay-at-home teen. She has been in the acting biz since she was 6 and hasn't stopped! She has been in 25 musicals and only 3 straight shows. This is her first comedy. She must admit that she feels a bit out of her element without a song, but likes to think Dottie sings in the shower. Lisa would like to thank two of her biggest cheerleaders, Mom &amp; Dad, &amp; "this amazing cast for their funny, wholesome, down-to-earth, homey aspects of their radiant splendiforousness!"</entry>
+         <entry>NICOLE BRINKMANN REEVES (Zena) wants any ladies who are tempted to say, 'Nicole looks great!' to know that not only is beauty painful, it's expensive and time-consuming, and she thinks you would be better off putting your money and time toward developing other strengths, maybe kindness, math skills, a sense of humor? She also wants everyone to know that in real life she rarely wears makeup, has a Ph.D. in computational quantum chemistry, and married the man who told her that he thinks women look prettiest when they don't wear makeup.</entry>
+         <entry>DAVID CHUDZYNSKI (Set Designer) is SBCT's technical director, and designs sets for many of our productions. He is also a gifted actor, playwright and director. Director's Note: We knew David really 'got' this show when we came in for rehearsal to discover the zebra chairs &amp; leopard-spotted bookcase. LOL!</entry>
+         <entry>KYLE CURTIS (Dan 2) has been in numerous shows with SBCT, Osceola Community Theatre and the Beckwith Theatre in Dowagiac He is nearing 4 years ofdoing theatre and the more experience he gets the more he falls in love with it. He is very happy and excited to be a citizen of Sterno. "Working on this show has been so fun &amp; all the people involved have been an absolute blast!" The biggest challenge has been trying to identify 5 different "people" in his head, oddly enough he found several women. He truly sympathizes with women now -"heels and bras are a hassle!" Special thanks to all his loyal friends &amp; family members who support his love for theatre. He hopes you have fun with the show!</entry>
+         <entry>JONNIE KILIC (Costumes) Celebrating 20 years plus of volunteering, working and supporting SBCT, and not a gray hair! "It's all highlights. The opportunity to help visually create larger-than-life characters by finding/building unique costumes was appreciated. Thank you to Lois for her help in seeking and sewing. Costume items were found as far away as Lansing, MI and mid-Wisconsin. Thank you to the fine cast and crew for their fantastic costume finds."</entry>
+         <entry>SEYHAN KILIC (Sound Design &amp; Execution) Crash, ding-dong, smack! "I am grateful to work with a most resplendent troupe, particularly Phil for assisting in discriminating some fine warbles. Also, special requites to my friend Don. I fancy tantalizing sonority and stupefying an apprised semblage." Editor's Note: The Rodale Synonym Finder was not harmed in the making of this bio.</entry>
+         <entry>PHIL KWIECINSKI (Hamel) most recently appeared in SBCT's It's a Wonderful life. You might have also seen him in The Arabian Nights, The Importance of Being Earnest, Over the Tavern, The Legend of Sleepy Hollow, or several different cameos over the years. "A big thank you to Neal at It's a Man's World for helping me look so damn good!"</entry>
+         <entry>TAMI RAMAKER (Director) is a playwright and actor as well as a director. She is the executive/ artistic director at SBCT, and loves working fulltime in her field. "It is a real quirk of fate that I got the chance to direct this show, and it's kind of spooky ... The first show we did after I joined SBCT was Almost, Maine, which premiered at Portland Stage Company while I was there, and now, by accident, I get to direct another PSC premiered-show. It's been a great joy to work with such a talented cast and creative team - As a director, I will never say 'give me Ibsen or give me death' ever again!"</entry>
+         <entry>KYLE TECHENTIN (Lighting Design) is a senior at Indiana University South Bend pursuing a B.F.A. in Lighting Design. He is a recipient of the Broadway Theatre League Scholarship Award and the Backstage Support Award. Other credits include: West Side Story Stage Manager; Alice in Wonderland Lighting and Scenic Designer; The Best Christmas Pageant Ever Lighting Designer; Amahl and the Night Visitors Stage Manager; After Juliet Technical Director; Godspel1 Stage Manager. This summer Kyle is working summer stock at the Notre Dame Shakespeare Festival as their Master Carpenter/Electrician.</entry>
       </bios>
    </text>
 </program>
