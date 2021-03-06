@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:om="http://omeka.org/schemas/omeka-xml/v5" xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0">
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs om" version="2.0">
 
     <!-- clean up formatting -->
     <xsl:strip-space elements="*"/>
@@ -19,21 +19,28 @@
             <xsl:processing-instruction name="xml-stylesheet">
                 <xsl:text>type="text/xsl" href="https://rooneypower.github.io/sbct/xslt/program_style_pi.xsl"</xsl:text>
             </xsl:processing-instruction>
+            <!-- first pass to get metadata and parse text by line -->
             <xsl:variable name="pass1">
                 <xsl:apply-templates mode="pass1" select="."/>
             </xsl:variable>
+            <!-- second pass to apply meaningful structure to text --> 
             <xsl:variable name="pass2">
                 <xsl:apply-templates mode="pass2" select="$pass1"/>
             </xsl:variable>
+            <!-- output results of second pass to file -->
             <xsl:copy-of select="$pass2"/>
         </xsl:result-document>
     </xsl:template>
 
-    <!-- begin pass1 -->
+    <!-- 
+    Begin pass1 
+    -->
     <!-- initialize program document -->
     <xsl:template mode="pass1" match="om:item">
-        <program xmlns:dc="http://purl.org/dc/elements/1.1/" xml:id="{@itemId}">
+        <program xml:id="{@itemId}">
+            <!-- enter container for DC metadata -->
             <xsl:apply-templates mode="pass1" select="om:elementSetContainer/om:elementSet[@elementSetId = '1']"/>
+            <!-- enter element containing item text within Omeka metadata -->
             <xsl:apply-templates mode="pass1" select="om:itemType//om:element[@elementId = '1']"/>
         </program>
     </xsl:template>
@@ -96,7 +103,9 @@
         </xsl:choose>
     </xsl:template>
 
-    <!-- begin pass2 -->
+    <!--
+    Begin pass2 
+    -->
     <!-- copy elements other than text -->
     <xsl:template mode="pass2" match="node()[name() != 'text'] | @*">
         <xsl:copy>
@@ -104,7 +113,7 @@
         </xsl:copy>
     </xsl:template>
     
-    <!-- handle text element with its own mode-->
+    <!-- handle text element with its own submode to avoid copying children -->
     <xsl:template mode="pass2" match="text">
         <xsl:copy>
             <xsl:apply-templates mode="text"/>
@@ -164,8 +173,10 @@
     <!-- content handled by section, don't automatically output each line--> 
     <xsl:template mode="text" match="line | break"/>
 
-    <!-- named support templates -->
-    <!-- add lines/breaks to a section: terminate on double break, next section header, or unexpected element  -->
+    <!--
+    Named Support Templates 
+    -->
+    <!-- recursively add lines/breaks to a section: terminate on double break, next section header, or unexpected element  -->
     <xsl:template name="getLine">
         <xsl:param name="next"/>
         <xsl:choose>
@@ -202,73 +213,37 @@
         </xsl:choose>
     </xsl:template>
     
-    <!-- populate cast/crew elements -->
+    <!-- recursively populate cast/crew elements -->
     <xsl:template name="getCredit">
         <xsl:param name="next"/>
         <xsl:choose>
             <!-- element is a line, add as credit and process next element -->
             <xsl:when test="$next/self::line">
                 <xsl:choose>
-                    <!-- comma indicates there are multiple people listed for this role:
-                         the last two words before the first comma and everything after are names,
-                         everything before that is the role -->
+                    <!-- comma indicates there are multiple people listed for this role -->
                     <xsl:when test="contains($next, ',')">
-                        <!-- split into pre- and post-comma strings -->
-                        <xsl:variable name="piece1" select="substring-before($next, ',')"/>
-                        <xsl:variable name="piece2" select="substring-after($next, ',')"/>
-                        <!-- split the first string into a sequence of words -->
-                        <xsl:variable name="words" select="tokenize($piece1, ' ')"/>
-                        <credit>
-                            <role>
-                                <!-- include each word except the last two before the comma -->
-                                <xsl:for-each select="$words[position() &lt; (last()-1)]">
-                                    <xsl:value-of select="concat(., ' ')"/>
-                                </xsl:for-each>    
-                            </role>
-                            <talent>
-                                <!-- include the last two words from the first piece and the whole second piece -->
-                                <xsl:value-of select="concat($words[position()=(last()-1)], ' ', $words[position()=last()], ',', $piece2)"/>
-                            </talent>
-                        </credit>
+                        <xsl:call-template name="makeOneCredit">
+                            <xsl:with-param name="piece1" select="substring-before($next, ',')"/>
+                            <xsl:with-param name="piece2" select="substring-after($next, ',')"/>
+                            <xsl:with-param name="delim" select="','"></xsl:with-param>
+                        </xsl:call-template>
                     </xsl:when>
-                    <!-- check for ampersand in names only (at least one occurence but not early in line) -->
+                    <!-- alternately check for ampersand in names only (at least one occurence but not early in line) -->
                     <xsl:when test="contains($next, '&amp;') and not(contains(substring($next,1,15), '&amp;'))">
-                        <!-- split into pre- and post-amp strings -->
-                        <xsl:variable name="piece1" select="substring-before($next, ' &amp;')"/>
-                        <xsl:variable name="piece2" select="substring-after($next, ' &amp;')"/>
-                        <!-- split the first string into a sequence of words -->
-                        <xsl:variable name="words" select="tokenize($piece1, ' ')"/>
-                        <credit>
-                            <role>
-                                <!-- include each word except the last two before the amp -->
-                                <xsl:for-each select="$words[position() &lt; (last()-1)]">
-                                    <xsl:value-of select="concat(., ' ')"/>
-                                </xsl:for-each>    
-                            </role>
-                            <talent>
-                                <!-- include the last two words from the first piece and the whole second piece -->
-                                <xsl:value-of select="concat($words[position()=(last()-1)], ' ', $words[position()=last()], ' &amp;', $piece2)"/>
-                            </talent>
-                        </credit>
+                        <xsl:call-template name="makeOneCredit">
+                            <xsl:with-param name="piece1" select="substring-before($next, ' &amp;')"/>
+                            <xsl:with-param name="piece2" select="substring-after($next, ' &amp;')"/>
+                            <xsl:with-param name="delim" select="' &amp;'"></xsl:with-param>
+                        </xsl:call-template>
                     </xsl:when>
-                    <!-- simpler case: the last two words are the name and everything before that is the role -->
+                    <!-- simplest case: assume single person -->
                     <xsl:otherwise>
-                        <!-- split line into a sequence of words -->
-                        <xsl:variable name="words" select="tokenize($next, ' ')"/>
-                        <credit>
-                            <role>
-                                <!-- include each word before the penultimate in the role-->
-                                <xsl:for-each select="$words[position() &lt; (last()-1)]">
-                                    <xsl:value-of select="concat(., ' ')"/>
-                                </xsl:for-each>    
-                            </role>
-                            <talent>
-                                <!-- the last two words should be the name -->
-                                <xsl:value-of select="concat($words[position()=(last()-1)], ' ', $words[position()=last()])"/>
-                            </talent>
-                        </credit>
+                        <xsl:call-template name="makeOneCredit">
+                            <xsl:with-param name="piece1" select="$next"/>
+                        </xsl:call-template>
                     </xsl:otherwise>
                 </xsl:choose>
+                <!-- continue with next line -->
                 <xsl:call-template name="getCredit">
                     <xsl:with-param name="next" select="$next/following-sibling::*[1]"/>
                 </xsl:call-template>
@@ -278,24 +253,49 @@
         </xsl:choose>
     </xsl:template>
     
+    <!-- build one credit element for getCredit -->
+    <xsl:template name="makeOneCredit">
+        <!-- the base element text, required -->
+        <xsl:param name="piece1"/>
+        <!-- everything after a first delimiter, optional -->
+        <xsl:param name="piece2"/>
+        <!-- the delimiter used to define piece2, optional -->
+        <xsl:param name="delim"/>
+        
+        <!-- split the base string into a sequence of words -->
+        <xsl:variable name="words" select="tokenize($piece1, ' ')"/>
+        <!-- include extra words in talent if there are initials -->
+        <xsl:variable name="offset" select="1 + count($words[contains(., '.')])"/>
+        
+        <!-- create the credit element, guessing role and talent based on position -->
+        <credit>
+            <role>
+                <!-- include each word before last()-$offset in the role, typically all but last 2 or 3-->
+                <xsl:value-of select="$words[position() &lt; (last()-$offset)]" separator=" "/>  
+            </role>
+            <talent>
+                <!-- include each word from last()-$offset on in talent, generally the last 2 or 3  -->
+                <xsl:value-of select="$words[position() >= (last()-$offset)]" separator=" "/>
+                <!-- add delimiter and second piece if applicable -->
+                <xsl:if test="$piece2">
+                    <xsl:value-of select="concat($delim, $piece2)"/>
+                </xsl:if>
+            </talent>
+        </credit>
+    </xsl:template>
+    
     <!-- populate biography elements -->
     <xsl:template name="groupEntries">
         <xsl:param name="start"/>
         <!-- group consecutive lines, adapted from example at http://www.java2s.com/Code/XML/XSLT-stylesheet/Groupingwithgroupadjacent.htm -->
         <xsl:for-each-group select="$start/following-sibling::*" group-adjacent="boolean(self::line)">
-            <xsl:choose>
-                <!-- create one entry for each group -->
-                <xsl:when test="current-grouping-key()">
-                    <entry>
-                        <!-- copy each line into group -->
-                        <xsl:for-each select="current-group()">
-                            <xsl:value-of select="concat(., ' ')"/>
-                        </xsl:for-each>
-                    </entry>
-                </xsl:when>
-                <!-- omit breaks or other intervening elements -->
-                <xsl:otherwise/>
-            </xsl:choose>
+            <!-- create one entry for each group -->
+            <xsl:if test="current-grouping-key()">
+                <entry>
+                    <!-- include text of each line in the group, joined by a space  -->
+                    <xsl:value-of select="current-group()" separator=" "/>
+                </entry>
+            </xsl:if>
         </xsl:for-each-group>
     </xsl:template>
 

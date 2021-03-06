@@ -30,7 +30,8 @@
         <meta name="{name()}" content="{.}"/>
     </xsl:template>
     
-    <!-- add nav bar and create page body from program text -->
+    <!-- create page body from program text -->
+    <!-- includes nav bar and footer -->
     <xsl:template match="text">
         <body>
             <!-- navigation bar -->
@@ -55,10 +56,19 @@
             </div>
             <xsl:apply-templates select="setting"/>
             <xsl:apply-templates select="bios"/>
-            <footer><a href="#top">Top</a></footer>
+            <!-- footer: return home or jump to top of program -->
+            <footer>
+                <ul>
+                    <li><a href="../index.html">Home</a></li>
+                    <li><a href="#top">Top</a></li>
+                </ul>
+            </footer>
         </body>
     </xsl:template>
     
+    <!-- 
+    Main Division Templates
+    -->
     <xsl:template match="cover">
         <div class="center">
             <xsl:apply-templates/>
@@ -99,6 +109,9 @@
         </div>
     </xsl:template>
     
+    <!-- 
+    Content Element Templates
+    -->
     <xsl:template match="line">
         <p>
             <xsl:apply-templates/>
