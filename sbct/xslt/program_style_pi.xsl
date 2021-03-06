@@ -42,7 +42,7 @@
                 </ul>
             </nav>
             <!-- title and Omeka item link -->
-            <div class="center">
+            <div class="center" id="top">
                 <h1><xsl:value-of select="/program/metadata/dc:title"/></h1>
                 <a href="{concat('https://sbct.omeka.net/items/show/', /program/@xml:id)}" target="_blank">See item in Omeka</a>    
             </div>
@@ -55,6 +55,7 @@
             </div>
             <xsl:apply-templates select="setting"/>
             <xsl:apply-templates select="bios"/>
+            <footer><a href="#top">Top</a></footer>
         </body>
     </xsl:template>
     
