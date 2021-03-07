@@ -3,7 +3,9 @@ layout: sbct
 title: "Technical"
 ---
 <h1>{{ page.title }}</h1>
+<p>This page provides the input and transformation files used to produce the program pages for this project. Detailed documentation of the publication process is available in <a href="rooney_final_documentation.docx">this Microsoft Word file</a>.</p>
 <h2>Source XML</h2>
+<p>These files are formatted in omeka-xml and were exported from the SBCT Digital Program Library. They serve as the initial input for the transformations described below.</p>
 <ul class="files">
 	{% for file in site.static_files %}
 		{% assign dirs = file.path | split: '/' %}
@@ -15,6 +17,7 @@ title: "Technical"
 	{% endfor %}
 </ul>
 <h2>XSLT</h2>
+<p>These are the transformations that represent the technical heart of the project. The first converts the input files into meaningfully-structured XML, and the second styles them for web publication.</p>
 <ul class="files">
 	{% for file in site.static_files %}
 		{% assign dirs = file.path | split: '/' %}
