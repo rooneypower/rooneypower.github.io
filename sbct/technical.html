@@ -3,28 +3,17 @@ layout: sbct
 title: "Technical"
 ---
 <h1>{{ page.title }}</h1>
-<p>This page provides the input and transformation files used to produce the program pages for this project. Detailed documentation of the publication process is available in <a href="rooney_final_documentation.docx">this Microsoft Word file</a>.</p>
+<p>This page provides the input and transformation files used to produce the program pages for this project. Detailed documentation of the publication process is available in <a href="rooney_final_documentation.pdf">this PDF</a>.</p>
 <h2>Source XML</h2>
-<p>These files are formatted in omeka-xml and were exported from the SBCT Digital Program Library. They serve as the initial input for the transformations described below.</p>
+<p>These files are formatted in <a href="https://omeka.org/classic/docs/Technical/Output_Formats/" target="_blank">omeka-xml</a> and were exported from the SBCT Digital Program Library. They serve as the initial input for the transformations described below. The item numbers refer to IDs in the Omeka collection.</p>
 <ul class="files">
-	{% for file in site.static_files %}
-		{% assign dirs = file.path | split: '/' %}
-		{% if dirs.size > 2 %}
-			{% if dirs[1] == 'sbct' and dirs[2] == 'input' %}
-	    			<li><a href="{{ site.url }}{{ file.path }}">{{ file.name }}</a></li>
-			{% endif %}
-		{% endif %}
-	{% endfor %}
+	<li><a href="input/src_29_25.xml">Items 25 to 29</a></li>
+	<li><a href="input/src_39_30.xml">Items 30 to 39</a></li>
+	<li><a href="input/src_49_40.xml">Items 40 to 49</a></li>
 </ul>
 <h2>XSLT</h2>
 <p>These are the transformations that represent the technical heart of the project. The first converts the input files into meaningfully-structured XML, and the second styles them for web publication.</p>
 <ul class="files">
-	{% for file in site.static_files %}
-		{% assign dirs = file.path | split: '/' %}
-		{% if dirs.size > 2 %}
-			{% if dirs[1] == 'sbct' and dirs[2] == 'xslt' %}
-	    			<li><a href="{{ site.url }}{{ file.path }}">{{ file.name }}</a></li>
-			{% endif %}
-		{% endif %}
-	{% endfor %}
+	<li><a href="xslt/program_parser_pi.xsl">Conversion</a></li>
+	<li><a href="xslt/program_style_pi.xsl">Stylesheet</a></li>
 </ul>
