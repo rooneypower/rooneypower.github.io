@@ -1,9 +1,12 @@
 /* CSS stylesheet for digital publication of SBCT programs,
  * adpated from main.css example provided by Nick Homenda */
+* {
+    box-sizing: border-box;
+}
 body {
     margin: 30px auto;
     width: 70%;
-    font-family:'Helvetica', 'Sans-Serif';
+    font-family: 'Georgia', 'Serif';
     color: Black;
 }
 nav ul, footer ul {
@@ -32,15 +35,13 @@ a:hover {
 }
 h1 {
     font-size: 2.5em;
-    font-family: 'Georgia', 'Serif';
 }
 h2 {
     font-size: 2em;
-    font-family: 'Georgia', 'Serif';
 }
 p {
-    font-size: 1.25em;
-    line-height: 1.1em;
+    font-size: 1.3em;
+    line-height: 1.2em;
 }
 footer {
     border-top: 1px solid black;
@@ -66,10 +67,8 @@ div {
 .float {
     float: left;
     margin: auto;
-    width: 50%;
     border: none;
     padding: 5px;
-    box-sizing: border-box;
 }
 .wrapper {
     padding-bottom: 30px;
@@ -80,4 +79,13 @@ div {
 .bioname {
     font-size: 1.35em;
     color: DarkSlateGray;
+}
+.half {
+    width: 50%
+}
+.side {
+    width: 40%
+}
+.main {
+    width: 60%
 }
