@@ -77,7 +77,7 @@
     
     <!-- create table for cast -->
     <xsl:template match="cast">
-        <div class="float">
+        <div class="float half">
             <xsl:apply-templates select="header"/>
             <table>
                 <tr><th>Role</th><th>Actor</th></tr>
@@ -88,7 +88,7 @@
     
     <!-- create table for crew -->
     <xsl:template match="crew">
-        <div class="float">
+        <div class="float half">
             <xsl:apply-templates select="header"/>
             <table>
                 <tr><th>Position</th><th>Member</th></tr>
