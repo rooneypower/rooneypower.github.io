@@ -13,6 +13,7 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    font-family: 'Verdana', 'Sans-Serif';
 }
 nav ul li, footer ul li {
     display: inline;
@@ -20,7 +21,7 @@ nav ul li, footer ul li {
 }
 ul.files { 
     margin: 15px auto 30px; 
-    font-size: 1.25em;
+    font-size: 1.3em;
 }
 ul.files li {
     list-style: none;
@@ -41,7 +42,7 @@ h2 {
 }
 p {
     font-size: 1.3em;
-    line-height: 1.2em;
+    line-height: 1.3em;
 }
 footer {
     border-top: 1px solid black;
