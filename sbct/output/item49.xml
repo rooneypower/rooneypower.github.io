@@ -13,7 +13,7 @@
          <break/>
          <line>PRESENTS</line>
          <break/>
-         <line>My Fair Lady</line>
+         <line type="playTitle">My Fair Lady</line>
          <line>Book and Lyrics by ALAN JAY LERNER</line>
          <line>Music by FREDERICK LOEWE</line>
          <line>Adapted from George Bernard Shaw's Play and</line>
@@ -286,6 +286,54 @@
             <talent>Rebecca Dashel</talent>
          </credit>
       </cast>
+      <setting>
+         <header>SYNOPSIS OF SCENES</header>
+         <line>The Time: 1912. The Place: London.</line>
+         <break/>
+         <line>ACT ONE</line>
+         <line>SCENE 1: Outside Covent Garden. A cold March night.</line>
+         <line>"WHY CAN'T THE ENGLISH?"........................................... Higgins</line>
+         <line>"WOULDN'T IT BE LOVERLY?" ............................ Eliza, Quartet, Small Dance Ensemble</line>
+         <line>SCENE 2: Tottenham Court Road. Later that evening.</line>
+         <line>"WITH A LITTLE BIT OF LUCK? ............... Doolittle, Harry, Jamie</line>
+         <line>SCENE 3: Higgins' Study. The next day.</line>
+         <line>"AN ORDINARY MAN" ....................................................... Higgins</line>
+         <line>SCENE 4: Tottenham Court Road. Mid-day, several weeks later.</line>
+         <line>"WITH A LITTLE BIT OF LUCK" (Reprise).................... Doolittle, Harry, Jamie, Full Ensemble</line>
+         <line>SCENE 5: Higgins' Study. Later that afternoon.</line>
+         <line>"JUST YOU WAIT" ................................................................... Eliza</line>
+         <line>"SERVANTS' CHORUS" ....................................... Higgins Servants</line>
+         <line>"THE RAIN IN SPAIN" ............................. Higgins, Eliza, Pickering</line>
+         <line>"I COULD HAVE DANCED ALL NIGHT" ............................ Eliza, Mrs. Pearce, Maids</line>
+         <line>SCENE 6: Outside Ascot. A July afternoon.</line>
+         <line>SCENE 7: Ascot. Immediately following.</line>
+         <line>"ASCOT GAVOTTE" ................................................. Full Ensemble</line>
+         <line>SCENE 8: Wimpole Street. Outside Higgins' house.</line>
+         <line>"ON THE STREET WHERE YOU LIVE" ............................. Freddy</line>
+         <line>SCENE 9: Higgins' Study. Evening. Six weeks later.</line>
+         <line>SCENE 10: The Ballroom of the Transylvanian Embassy. Later.</line>
+         <line>"THE EMBASSY WALTZ" ..................... Eliza, Higgins, Pickering, Karpathy, and Full Ensemble</line>
+         <break/>
+         <line>INTERMSSION</line>
+         <break/>
+         <line>ACT TWO</line>
+         <line>SCENE 1: Higgins' Study. 3:00 AM. After the ball.</line>
+         <line>"YOU DID IT" ................. Pickering, Higgins, Mrs. Pearce, Servants</line>
+         <line>"JUST YOU WAIT" (Reprise) ................................................... Eliza</line>
+         <line>SCENE 2: Wimpole Street, Outside Higgins' House. Later.</line>
+         <line>"ON THE STREET WHERE YOU LIVE" (Reprise) ............. Freddy</line>
+         <line>"SHOW ME" ................................................................. Eliza, Freddy</line>
+         <line>SCENE 3: Tottenham Court Road. 5:00 AM. the same morning.</line>
+         <line>"WOULDN'T IT BE LOVERLY?'' ............................. Eliza, Quartet</line>
+         <line>"GET ME TO THE CHURCH ON TIME" ......................... Doolittle, Harry, Jamie, Full Ensemble</line>
+         <line>SCENE 4: Hallway, Higgin's House. The following morning.</line>
+         <line>"A HYMN TO HIM" .............................................................. Higgins</line>
+         <line>SCENE 5: The Garden of Mrs. Higgins' House. Later that morning.</line>
+         <line>"WITHOUT YOU" ...................................................... Eliza, Higgins</line>
+         <line>SCENE 6: Wimpole Street. Outside Higgins' House. Dusk.</line>
+         <line>"I'VE GROWN ACCUSTOMED TO HER FACE" .............. Higgins</line>
+         <line>SCENE 7: Higgins' Study. Immediately following.</line>
+      </setting>
       <bios>
          <header>WHO'S WHO</header>
          <entry>GARRETT BAUER (Scenic and Lighting Designer) has been a resident scenic designer with South Bend Civic Theatre since 1999. He has designed every production SBCT has performed at the Morris since the summer of 2000.</entry>

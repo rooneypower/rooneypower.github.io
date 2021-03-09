@@ -15,7 +15,7 @@
          <line>Alfred H. and Martha J. Choitz</line>
          <line>Proudly Present:</line>
          <break/>
-         <line>HUMBLE BOY</line>
+         <line type="playTitle">HUMBLE BOY</line>
          <line>Written by Charlotte Jones</line>
          <line>Directed by Kevin Dreyer</line>
          <break/>
@@ -78,6 +78,17 @@
             <talent>Jon Gilchrist</talent>
          </credit>
       </crew>
+      <setting>
+         <header>Setting:</header>
+         <line>The side garden of the Humble's home, about now.</line>
+         <line>Will be performed with one intermission.</line>
+         <line>Please turn off all cell phones, cameras and electronic devices. Thank you.</line>
+         <break/>
+         <line>DIRECTOR'S NOTE ...</line>
+         <line>Humble Boy is a wonderfully complex play that tells a very simple story, albeit with several interesting twists along the way. While it has been called Ms. Jones' "Hamlet Play" (and there are many nods to that complex drama) this play, taken on its own merits, has a distinct identity. It takes Hamlet's enigmatic and fatalistic "let be" and turns it into a message of hope when spoken by Felix Humble. While it is written from a very English perspective, these characters have a universal aspect that invites us to feel comfortable with them even as they reference soccer stars and cricket championships. I have enjoyed my journey with the Humbles and the Pyes and have in the pro­cess felt closer to my own father. It would have been so much fun to discuss this play with him as I was going along. In a way though I do feel as if I have had those conversations, although not as concretely as Felix does with his own dad, and I look on this as my Father's Day present to him. I know he is enjoying it.</line>
+         <break/>
+         <line>-Kevin</line>
+      </setting>
       <cast>
          <header>The Cast</header>
          <credit>

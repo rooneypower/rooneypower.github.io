@@ -14,7 +14,7 @@
          <line>With UNDERWRITING by VILLING &amp; COMPANY, INC.</line>
          <line>PRESENTS</line>
          <break/>
-         <line>ZOMBIES FROM THE BEYOND</line>
+         <line type="playTitle">ZOMBIES FROM THE BEYOND</line>
          <line>Music, Lyrics, and Book by JAMES VALCQ</line>
          <line>DIRECTED BY LEIGH TAYLOR</line>
          <line>CHOREOGRAPHY BY STEVE A. GERGACZ &amp; RICK W. ELLIS</line>
@@ -84,7 +84,8 @@
          </credit>
       </crew>
       <setting>
-         <header>PLACE</header>
+         <header>SYNOPSIS OF SCENES</header>
+         <line>PLACE</line>
          <line>The Milwaukee Space Center and Environs</line>
          <break/>
          <line>TIME</line>

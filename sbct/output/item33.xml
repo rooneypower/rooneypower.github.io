@@ -13,7 +13,7 @@
          <line>With UNDERWRITING by CAROLYN &amp; JERRY LANGLEY</line>
          <line>PRESENTS</line>
          <break/>
-         <line>The Little Foxes</line>
+         <line type="playTitle">The Little Foxes</line>
          <line>BY LILLIAN HELLMAN</line>
          <line>DIRECTED BY CHELLE WALTERS</line>
          <line>April 7-9, 13-15, 19-23, 2006; The Firehouse</line>
@@ -70,6 +70,16 @@
             <talent>by RELICS, Antiques and Architectural Artifacts, 1148 Western Ave., South Bend, Paul Hayden, Owner. Phone: (574) 220-7300</talent>
          </credit>
       </crew>
+      <setting>
+         <header>SYNOPSIS OF SCENES</header>
+         <line>The scene of the play is the living-room of the Giddens House in a small town in the South.</line>
+         <line>ACT I, Scene 1: The sping of 1900, evening.</line>
+         <line>ACT I, Scene 2: A week later, early morning.</line>
+         <line>INTERMISSION</line>
+         <line>ACT II: Two weeks later, late afternoon.</line>
+         <break/>
+         <line>Presented by Special Arragement with Dramatists Play Service, Inc.</line>
+      </setting>
       <cast>
          <header>The CAST</header>
          <credit>

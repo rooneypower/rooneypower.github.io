@@ -14,7 +14,7 @@
          <line>And Show Sponsor, Teachers' Credit Union</line>
          <line>Proudly Present:</line>
          <break/>
-         <line>MOON OVER BUFFALO</line>
+         <line type="playTitle">MOON OVER BUFFALO</line>
          <line>By Ken Ludwig</line>
          <line>Directed by Richard Baxter</line>
          <line>Jan. 21, 22, 28, 29, Feb. 4 &amp; 5 at 8 PM; Jan. 26 &amp; Feb. 2 at 7:30 PM;</line>
@@ -128,6 +128,15 @@
             <talent>Mester Photography</talent>
          </credit>
       </crew>
+      <setting>
+         <header>Setting:</header>
+         <line>Backstage at a theatre in Buffalo, New York, 1953.</line>
+         <line>Performed with one 15-minute intermission.</line>
+         <line>NOTE: Fake fog and a loud gunshot are used during the show.</line>
+         <line>A special thank you to St. Mary's College, Casaday Costume Collection and</line>
+         <line>Notre Dame's Department of Film, Television &amp; Theatre.</line>
+         <line>Please turn offcell phones, cameras &amp; electronic devices. Thank you!</line>
+      </setting>
       <bios>
          <header>Who's Who in the Cast &amp; Creative Team</header>
          <entry>CARLIE BARR (Eileen) has been "hooked" since 2006 when she was in SBCT's Tartuffe at the Firehouse. Since then she has been in SBCT's Flea in Her Ear (also with Richard Baxter directing), Five Women Wearing the Same Dress, Farndale Avenue ... Macbeth, and A Funny Thing Happened .. Forum.</entry>
