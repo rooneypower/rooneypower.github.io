@@ -277,8 +277,8 @@
         
         <!-- split the base string into a sequence of words -->
         <xsl:variable name="words" select="tokenize($piece1, ' ')"/>
-        <!-- include extra words in talent if there are initials (words of length 1 or length 2 with a period)-->
-        <xsl:variable name="offset" select="1 + count($words[string-length() = 1 or (string-length() = 2 and contains(., '.'))])"/>
+        <!-- include extra words in talent if there are initials (words of length 1 that aren't an ampersand, or length 2 with a period) -->
+        <xsl:variable name="offset" select="1 + count($words[(string-length() = 1 and . != '&amp;') or (string-length() = 2 and contains(., '.'))])"/>
         
         <!-- create the credit element, guessing role and talent based on position -->
         <credit>
