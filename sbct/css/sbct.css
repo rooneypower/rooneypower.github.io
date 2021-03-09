@@ -77,9 +77,12 @@ div {
 .stop {
     clear: both;
 }
-.highlight {
+.name {
     font-size: 1.35em;
     color: DarkSlateGray;
+}
+.title {
+    font-size: 1.75em;
 }
 .half {
     width: 50%
