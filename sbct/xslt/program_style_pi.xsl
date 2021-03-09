@@ -118,6 +118,12 @@
         </p>
     </xsl:template>
     
+    <xsl:template match="line[@type='playTitle']">
+        <p class="highlight">
+            <xsl:apply-templates/>
+        </p>
+    </xsl:template>
+    
     <xsl:template match="break">
         <br/>
     </xsl:template>
@@ -147,7 +153,7 @@
             <xsl:choose>
                 <!-- check for left parenthesis in first 30 characters -->
                 <xsl:when test="contains(substring(.,1,30), '(')">
-                    <span class="bioname"><xsl:value-of select="substring-before(., '(')"/></span>
+                    <span class="highlight"><xsl:value-of select="substring-before(., '(')"/></span>
                     <xsl:value-of select="concat('(', substring-after(., '('))"/>
                 </xsl:when>
                 <!-- there may be no name or no role in parentheses, output normally -->

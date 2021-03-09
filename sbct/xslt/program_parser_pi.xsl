@@ -6,7 +6,7 @@
     <!-- clean up formatting -->
     <xsl:strip-space elements="*"/>
     <xsl:output indent="yes"/>
-
+    
     <!-- address items (programs) within container -->
     <xsl:template match="om:itemContainer">
         <xsl:apply-templates select="om:item"/>
@@ -161,7 +161,9 @@
     </xsl:template>
     
     <!-- setting and adjacent info -->
-    <xsl:template mode="text" match="line[upper-case(.) = 'SETTING' or upper-case(.) = 'PLACE' or starts-with(upper-case(.), 'TIME:')]">
+    <xsl:template mode="text" match="line[upper-case(.) = 'SETTING' or upper-case(.) = 'SYNOPSIS OF SCENES' 
+        or upper-case(.) = 'SETTING:' or starts-with(upper-case(.), 'TIME:') 
+        or (upper-case(.) = 'PLACE' and preceding-sibling::*[1]/self::break)]">
         <setting>
             <header><xsl:value-of select="."/></header>
             <xsl:call-template name="getLine">
@@ -185,9 +187,20 @@
                 <xsl:choose>
                     <!-- beginning of next section, terminate -->
                     <xsl:when test="upper-case($next) = 'THE PRODUCTION TEAM' or upper-case($next) = 'THE CAST'"/>                        
-                    <!-- else copy and process next element -->
+                    <!-- else include and process next element -->
                     <xsl:otherwise>
-                        <xsl:copy-of select="$next"/>
+                        <xsl:choose>
+                            <!-- put play title line in line of type playTitle; 
+                                check against dc:title, use starts-with since subtitle may not be present-->
+                            <xsl:when test="starts-with(upper-case($next/ancestor::program/metadata/dc:title), upper-case($next))">
+                                <line type="playTitle"><xsl:value-of select="$next"/></line>
+                            </xsl:when>
+                            <!-- or simply copy a regular line -->
+                            <xsl:otherwise>
+                                <xsl:copy-of select="$next"/>
+                            </xsl:otherwise>
+                        </xsl:choose>
+                        <!-- continue with next element -->
                         <xsl:call-template name="getLine">
                             <xsl:with-param name="next" select="$next/following-sibling::*[1]"/>
                         </xsl:call-template>
